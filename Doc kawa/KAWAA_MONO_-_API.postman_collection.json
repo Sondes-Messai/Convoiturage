@@ -1,0 +1,923 @@
+{
+	"info": {
+		"_postman_id": "ce8103a0-987c-46c7-a84f-45fd67c256b5",
+		"name": "KAWAA MONO - API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18402878",
+		"_collection_link": "https://kawaa-project.postman.co/workspace/KAWAA---Mono~eca900eb-a9cf-413b-ab11-784459c41620/collection/18402878-ce8103a0-987c-46c7-a84f-45fd67c256b5?action=share&source=collection_link&creator=18402878"
+	},
+	"item": [
+		{
+			"name": "ADDRESS",
+			"item": [
+				{
+					"name": "getAllAddresses",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/address",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"address"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "createAddress",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"typeAddress\": \"START\",\r\n        \"road\": \"456 rue du bois\",\r\n        \"zipCode\": \"78910\",\r\n        \"town\": \"City1\",\r\n        \"longitude\": 0.0,\r\n        \"latitude\": 0.0\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/address",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"address"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "AUTHENTICATION",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"first_name\": \"John\",\r\n  \"last_name\": \"Doe\",\r\n  \"mail\": \"example@example.com\",\r\n  \"password\": \"password123\",\r\n  \"picture\": \"base64-encoded-image-data\",\r\n  \"phone\": \"0234567890\",\r\n  \"matricule\": \"AFPA123\",\r\n  \"preferenceLabels\": [\"blabla\", \"mask\", \"music\"],\r\n  \"cars\": [\r\n    {\r\n    \"matriculation\": \"ABC123\",\r\n    \"color\":{\"label\":\"Red\"},\r\n    \"placeNumber\": 4,\r\n    \"luggage\": true,\r\n    \"modelName\": \"Model X\",\r\n    \"brandName\": \"Brand A\"\r\n    }\r\n  ],\r\n    \"conversations\":[],\r\n    \"messages\":[],\r\n    \"rides\":[],\r\n    \"reservations\":[],\r\n    \"createdDate\":\"10-01-2023 19:00:00\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/auth/register",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Authenticate",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\": \"admin@admin.com\",\r\n    \"password\": \"admin\",\r\n    \"rememberMe\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/auth/authenticate",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"auth",
+								"authenticate"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "BRAND",
+			"item": [
+				{
+					"name": "getAllWithSearch",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/brand/search?search=Brand A",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"brand",
+								"search"
+							],
+							"query": [
+								{
+									"key": "search",
+									"value": "Brand A"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "CAR",
+			"item": [
+				{
+					"name": "getAllByEmail",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "MODEL",
+			"item": [
+				{
+					"name": "getAllByBrandName",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/model/search-brand?brandName=Brand B&search=Model Y",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"model",
+								"search-brand"
+							],
+							"query": [
+								{
+									"key": "brandName",
+									"value": "Brand B"
+								},
+								{
+									"key": "search",
+									"value": "Model Y"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "PREFERENCE",
+			"item": [
+				{
+					"name": "getAll",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/preference",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"preference"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updatePreferenceUser",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/preference/update/{userIdentifiant}",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"preference",
+								"update",
+								"{userIdentifiant}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getUserPreferenceByEmailOrMatricule",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/user-matricule/{emailOrMatricule}",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user-matricule",
+								"{emailOrMatricule}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "RIDE",
+			"item": [
+				{
+					"name": "getAllRides",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/ride",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"ride"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getRideById",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/ride/1",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"ride",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "createRide",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/ride",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"ride"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateRide",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/ride/1",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"ride",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteRide",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/ride/1",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"ride",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getRideByDate",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"addressIds\": [1,2],\r\n    \"departDate\": \"01-09-2023T06:30:00\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/ride/search-ride",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"ride",
+								"search-ride"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "USER",
+			"item": [
+				{
+					"name": "ADMIN",
+					"item": [
+						{
+							"name": "register",
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "{{token}}",
+											"type": "string"
+										}
+									]
+								},
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{base_url}}/user/admin/register",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"user",
+										"admin",
+										"register"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "search",
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "{{token}}",
+											"type": "string"
+										}
+									]
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/user/admin/search?search&number=0&size=6&direction=DESC&property=createdDate",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"user",
+										"admin",
+										"search"
+									],
+									"query": [
+										{
+											"key": "search",
+											"value": null
+										},
+										{
+											"key": "number",
+											"value": "0"
+										},
+										{
+											"key": "size",
+											"value": "6"
+										},
+										{
+											"key": "direction",
+											"value": "DESC"
+										},
+										{
+											"key": "property",
+											"value": "createdDate"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "updatePasswordOfUser",
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "{{token}}",
+											"type": "string"
+										}
+									]
+								},
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/user/admin/update-password",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"user",
+										"admin",
+										"update-password"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "blockUser",
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "{{token}}",
+											"type": "string"
+										}
+									]
+								},
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/user/admin/block/TEST",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"user",
+										"admin",
+										"block",
+										"TEST"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "unblockUser",
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "{{token}}",
+											"type": "string"
+										}
+									]
+								},
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "{{base_url}}/user/admin/unblock/TEST",
+									"host": [
+										"{{base_url}}"
+									],
+									"path": [
+										"user",
+										"admin",
+										"unblock",
+										"TEST"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "findAllWithPagination",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/user/admin/all",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user",
+								"admin",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "byEmail",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/user/email/admin@admin.com",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user",
+								"email",
+								"admin@admin.com"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteByMailOrMatricule",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/user/delete/{mailOrMatricule}",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user",
+								"delete",
+								"{mailOrMatricule}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateByMatricule",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/user/update/{matricule}",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user",
+								"update",
+								"{matricule}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "findById",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/user/id/1000",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user",
+								"id",
+								"1000"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "changePassword",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"oldPassword\": \"\",\r\n    \"newPassword\": \"\",\r\n    \"matricule\": \"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}/user/change-password",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"user",
+								"change-password"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "COLOR",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
