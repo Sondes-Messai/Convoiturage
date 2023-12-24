@@ -1,0 +1,66 @@
+.border-gradient-white {
+  background: linear-gradient(#ffffff, #ffffff) padding-box,
+    linear-gradient(110deg, #87bb34 0%, #00a0e0 100%) border-box;
+  border-radius: 50em;
+  border: 2px solid transparent;
+}
+
+.border-gradient-white-simple {
+  background: linear-gradient(#ffffff, #ffffff) padding-box,
+    linear-gradient(110deg, #87bb34 0%, #00a0e0 100%) border-box;
+  border: 2px solid transparent;
+}
+
+/* .border-gradient-white:hover,
+:focus {
+  background: linear-gradient(#f1f1f1, #f1f1f1) padding-box;
+  border-radius: 50em;
+  border: 2px solid transparent;
+} */
+
+.border-gradient-full {
+  position: relative;
+  background: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+  background-clip: padding-box;
+  border: solid 2px transparent;
+  box-sizing: border-box;
+}
+
+.border-gradient-full:hover {
+  background: white;
+  background-clip: padding-box;
+}
+
+.border-gradient-full:hover > * {
+  background: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.border-gradient-full::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  margin: -2px;
+  border-radius: inherit;
+  background: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+}
+
+.gradient {
+  background: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+}
+.text-gradient {
+  background: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+  background-clip: text; /* Ajoutez cette ligne */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.border-gradient-button {
+  background: linear-gradient(#ffffff, #ffffff) padding-box,
+    linear-gradient(110deg, #87bb34 0%, #00a0e0 100%) border-box;
+  border: 2px solid transparent;
+}

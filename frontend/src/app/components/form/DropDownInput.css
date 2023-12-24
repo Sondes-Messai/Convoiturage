@@ -1,0 +1,12 @@
+.closed {
+  animation: 0.5s rotate;
+}
+
+@keyframes rotate {
+  from {
+    rotate: 90deg;
+  }
+  to {
+    rotate: 0deg;
+  }
+}

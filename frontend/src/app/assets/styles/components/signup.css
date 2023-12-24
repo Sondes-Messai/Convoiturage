@@ -1,0 +1,319 @@
+.signupInput,
+select {
+  max-width: 100%;
+  height: 44px;
+  border-radius: 100px;
+  background-color: #f1f1f1;
+}
+
+.signupInputImg {
+  height: 77px;
+}
+
+.progress-bar {
+  display: flex;
+  align-items: center;
+}
+
+.progress-bar {
+  display: flex;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.circle {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid gray;
+  background-color: #ffffff;
+}
+
+.circle.active {
+  border-color: #87bb34;
+  background-color: #87bb34;
+}
+
+.check-mark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  filter: invert(99%) sepia(9%) saturate(0%) hue-rotate(271deg) brightness(150%)
+    contrast(150%);
+  font-size: 12px;
+}
+
+.line {
+  flex-grow: 1;
+  height: 2px;
+  background-color: gray;
+}
+
+.line.active {
+  background-color: #87bb34;
+}
+
+.mid-point {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: gray;
+}
+
+.mid-point.active {
+  background-color: #87bb34;
+}
+
+.step-label {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 4px;
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.flex-grid {
+  display: grid;
+}
+
+.btnKawaaGreen > span {
+  text-align: center;
+  margin: auto;
+}
+
+.btnKawaaGreen {
+  width: 140px;
+  height: 42px;
+  border-radius: 100px;
+  gap: 10px;
+  background-color: #87bb34;
+  box-shadow: 0 2px 4px rgba(135, 187, 52, 0.4);
+  transition:
+    background-color 0.3s,
+    box-shadow 0.3s;
+}
+
+.btnKawaaGreen:hover {
+  animation-name: buttonAnimation;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+}
+
+.btnKawaaGreen:active {
+  background-color: #44a33d;
+}
+
+.btnKawaaGreen:not(:hover) {
+  animation-name: buttonAnimationReverse;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+.skipLink {
+  text-decoration: underline;
+  transition:
+    color 0.3s,
+    text-decoration-color 0.3s;
+  cursor: pointer;
+}
+
+.skipLink:hover,
+#imageLabel:hover,
+#preview:hover {
+  text-decoration: none;
+  filter: invert(10%) sepia(83%) saturate(7325%) hue-rotate(319deg)
+    brightness(99%) contrast(95%);
+}
+
+.content > div {
+  width: 100%;
+}
+
+.imagepreview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 80px;
+  max-height: 80px;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #e6e6e6;
+  position: relative;
+}
+
+.imgcontainer {
+  height: 77px;
+}
+
+#preview {
+  filter: invert(57%) sepia(8%) saturate(8%) hue-rotate(325deg) brightness(94%)
+    contrast(92%);
+  width: 50%;
+  height: 50%;
+}
+
+.signupInputImage {
+  display: none;
+}
+
+#profilPhoto {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin-left: 1%;
+}
+
+#imageLabel {
+  color: #898989;
+  display: flex;
+}
+
+.choixIcon {
+  max-width: 30px;
+  height: auto;
+}
+
+.choixContainer,
+.choixText {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.formPreferences > .choixContainer {
+  position: relative;
+  right: 5%;
+}
+
+.choixRadio {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.choixBorder {
+  border-bottom: solid #e6e6e6 1px;
+  width: 60%;
+  margin: auto;
+}
+
+input[type="radio"] {
+  @apply appearance-none h-4 w-4 rounded-full shadow-[0_0_0_1px_rgba(227,0,126,1)] checked:border-[3px] checked:bg-rose-afpa mr-2;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
+/* input[type="radio"] + *::before {
+    content: "";
+    display: inline-block;
+    vertical-align: bottom;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.3rem;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 0.1rem;
+    border-color: #E3007E;
+  }
+input[type="radio"]:checked + *::before {
+    background: radial-gradient(#E3007E 0%, #E3007E 40%, transparent 50%, transparent);
+    border-color: #E3007E;
+  } */
+
+#cgulink {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#connexionLink {
+  color: #87bb34;
+  font-weight: bold;
+}
+
+#connexionLink:hover {
+  color: #e3007e;
+}
+
+#dejainscrit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.error {
+  color: #f87171;
+  font-size: smaller;
+  padding-left: 1%;
+}
+
+#imageDl,
+#imageDl > *,
+.imagepreview {
+  cursor: pointer;
+}
+
+.namefieldInput {
+  display: flex;
+  flex-direction: column;
+}
+
+.namefield {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.flex-end {
+  align-items: flex-end;
+}
+
+.radioText {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.radioBottom {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#radiobutton > div {
+  width: 80%;
+  margin: auto;
+}
+
+.formPreferences {
+  background-color: #f1f1f1;
+  padding: 2%;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.firstChoice {
+  margin-bottom: 5%;
+}
+
+#TopTitle {
+  margin-bottom: 3%;
+}
+
+.TopTitle {
+  margin-bottom: 6%;
+}

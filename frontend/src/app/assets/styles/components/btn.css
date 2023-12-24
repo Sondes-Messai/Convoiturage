@@ -1,0 +1,243 @@
+.btn {
+@apply inline-flex items-center justify-center px-4 py-2 bg-gray-300
+    border border-transparent font-semibold capitalize text-white 
+    hover:bg-gray-500 active:bg-gray-700 focus:outline-none 
+    focus:border-red-700 focus:ring focus:ring-red-200 disabled:opacity-25 transition text-sm
+    placeholder-gray-500 pl-4 pr-4
+    rounded-2xl border-gray-400 w-56
+    focus:outline-none focus:border-gray-400;
+} 
+
+.btn-grey-light {
+    @apply inline-flex items-center  px-4 py-2 
+     
+   
+    text-grey-afpa
+    transition text-sm
+    bg-grey-afpa-light
+    pl-4 pr-4
+    rounded-2xl  w-56 py-2
+    text-[15px]
+}
+
+.btn-vert-afpa{
+    @apply bg-green-afpa focus:border-red-700 focus:ring-red-200 ;
+
+}
+
+.btn-green-afpa {
+  @apply bg-green-afpa focus:ring-red-200 focus:border-blue-400;
+}
+
+.btn-rose-afpa {
+  @apply bg-rose-afpa focus:ring-red-200 focus:border-blue-400 hover:bg-rose-afpa;
+}
+
+.btn-link-primary {
+  @apply font-medium text-primary hover:text-primary-dark;
+}
+
+.btn-primary {
+  @apply text-white bg-primary hover:bg-primary-dark hover:text-white active:ring-primary;
+}
+
+.btn-secondary {
+  @apply text-white bg-secondary hover:bg-secondary-dark hover:text-white active:ring-secondary-light;
+}
+
+.btn-blue {
+  @apply text-white bg-blue-600 hover:bg-blue-700 hover:text-white active:ring-primary;
+}
+
+.btn-red {
+  @apply text-white bg-red-600 hover:bg-red-700 hover:text-white active:ring-red-500;
+}
+
+.btn-green {
+  @apply text-white bg-green-600 hover:bg-green-700 hover:text-white active:ring-green-500;
+}
+
+.btn-yellow {
+  @apply text-white bg-yellow-500 hover:bg-yellow-600 hover:text-white active:ring-yellow-500;
+}
+
+.btn-purple {
+  @apply text-white bg-purple-600 hover:bg-purple-700 hover:text-white active:ring-purple-500;
+}
+
+
+.btn-indigo{
+    @apply text-white bg-indigo-600 hover:bg-indigo-700 hover:text-white active:ring-indigo-500 ;
+}
+
+/* Style de base pour le bouton */
+.rounded-3xl {
+  background: white;
+  color: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+}
+
+/* Style lorsque le bouton est sélectionné */
+.selected {
+  background: linear-gradient(110deg, #87bb34 0%, #00a0e0 100%);
+  color: white;
+}
+
+.btnKawaaGreen {
+  width: 140px;
+  height: 42px;
+  border-radius: 100px;
+  background-color: #87bb34;
+  box-shadow: 0 2px 4px rgba(135, 187, 52, 0.4);
+  transition:
+    background-color 0.3s,
+    box-shadow 0.3s;
+}
+
+.btnKawaaRed {
+  width: 140px;
+  height: 42px;
+  border-radius: 100px;
+  background-color: #e3007e;
+  box-shadow: 0 2px 4px #E3007E;
+  transition:
+    background-color 0.3s,
+    box-shadow 0.3s;
+}
+
+.btnKawaaGreenCo {
+  width: 100%;
+  height: 42px;
+  border-radius: 100px;
+  padding: 10px 41px 12px 42px;
+  gap: 10px;
+  background-color: #87bb34;
+  box-shadow: 0 2px 4px rgba(135, 187, 52, 0.4);
+  transition:
+    background-color 0.3s,
+    box-shadow 0.3s;
+}
+
+.btnKawaaRedCo {
+  width: 100%;
+  height: 42px;
+  border-radius: 100px;
+  padding: 10px 41px 12px 42px;
+  gap: 10px;
+  background-color: #e3007e;
+  box-shadow: 0 2px 4px rgba(207, 16, 16, 0.4);
+
+  transition:
+    background-color 0.3s,
+    box-shadow 0.3s;
+}
+
+.btnKawaaGreen:hover,
+.btnKawaaGreenCo:hover,
+.btnKawaaGreen:hover {
+  animation-name: buttonAnimation;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+}
+
+.btnKawaaGreen:not(:hover),
+.btnKawaaGreenCo:not(:hover) {
+  animation-name: buttonAnimationReverse;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+}
+
+.btnKawaaGreenVide {
+  color: #87bb34;
+  background-color: white;
+  border: solid 2px #87bb34;
+  border-radius: 100px;
+  width: 140px;
+  height: 42px;
+}
+
+.btnKawaaGreenVide:hover {
+  animation-name: buttonAnimationVide;
+  animation-duration: 2.5s;
+  animation-fill-mode: forwards;
+}
+
+.btnKawaaGreen:not(:hover) {
+  animation-name: buttonAnimationVideReverse;
+  animation-duration: 2.5s;
+  animation-fill-mode: forwards;
+}
+
+.btnKawaaGreenVide > span {
+  color: #87bb34;
+}
+
+.btnKawaaGreenVide:hover span {
+  animation-name: textAnimation;
+  animation-duration: 2.5s;
+  animation-fill-mode: forwards;
+}
+
+.btnKawaaGreenVide:not(hover) span {
+  animation-name: textAnimationReverse;
+  animation-duration: 2.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes buttonAnimationVide {
+  0% {
+    background-color: white;
+  }
+  25% {
+    background-color: #87bb34;
+  }
+  100% {
+    background-color: #87bb34;
+  }
+}
+
+@keyframes buttonAnimationVideReverse {
+  0% {
+    background-color: #87bb34;
+  }
+  75% {
+    background-color: #87bb34;
+  }
+  100% {
+    background-color: white;
+  }
+}
+
+@keyframes buttonAnimation {
+  0% {
+    background-color: #87bb34;
+  }
+  25% {
+    background-color: #87bb34;
+  }
+  100% {
+    background-color: #44a33d;
+  }
+}
+
+@keyframes buttonAnimationReverse {
+  0% {
+    background-color: #44a33d;
+  }
+  75% {
+    background-color: #87bb34;
+  }
+  100% {
+    background-color: #87bb34;
+  }
+}
+
+#radiobutton > div {
+  width: 80%;
+  margin: auto;
+}

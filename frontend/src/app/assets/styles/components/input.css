@@ -1,0 +1,93 @@
+.input, textarea{
+    @apply text-sm placeholder-gray-500 pl-3  pr-4
+    rounded-full border border-gray-400
+    bg-gray-200 focus:bg-white
+    w-full py-2 focus:outline-none focus:border-green-afpa;
+}
+
+.input-preference{
+  @apply text-sm  w-full px-3 py-3 mt-1 placeholder-gray-400 pl-3  pr-4
+  rounded-full 
+  bg-grey-afpa-light focus:bg-white focus:outline-none focus:border-2 focus:border-green-afpa
+}
+
+.input-error {
+  @apply ring-red-500 border-red-500 focus:ring-red-500 focus:border-red-500 z-10 placeholder-red-500;
+}
+
+.checkbox {
+  @apply h-4 w-4 text-primary focus:ring-primary border-gray-300 rounded cursor-pointer;
+}
+
+.checkbox-error {
+  @apply border-red-500 border-2;
+}
+
+.radio {
+  @apply focus:ring-primary h-4 w-4 text-primary-dark border-gray-300;
+}
+
+.radio-error {
+  @apply border-red-500 border-2;
+}
+
+.input-icon {
+  @apply relative;
+}
+
+.input-icon img {
+  @apply w-10 h-8 text-gray-400 absolute top-1;
+}
+
+.input-icon-img-right {
+  @apply w-10 h-8 text-gray-400 absolute top-1 right-1;
+}
+
+.input-icon-button {
+  @apply flex items-center justify-center bg-transparent border-none absolute top-1 right-1;
+}
+
+.input-icon input {
+  @apply pl-14;
+}
+
+.input-slide-right {
+  transition: transform 1.9s ease; /* Ajoute une transition de 0.3 seconde avec une fonction d'accélération (ease) à la propriété transform */
+}
+
+.input-slide-right.slide-enter-active {
+  transform: translateX(50%); /* Déplace l'input de 100% vers la droite */
+}
+
+.input-slide-right2 {
+  transition: transform 0.4s ease; /* Ajoute une transition de 0.3 seconde avec une fonction d'accélération (ease) à la propriété transform */
+}
+
+.input-slide-right2.slide-enter-active {
+  transform: translateX(50%); /* Déplace l'input de 100% vers la droite */
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+input[type="checkbox"] + ::before {
+  content: "";
+  display: inline-block;
+  vertical-align: bottom;
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.3rem;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 0.1rem;
+  border-color: #e3007e;
+}
+input[type="checkbox"]:checked + ::before {
+  background: radial-gradient(
+    #e3007e 0%,
+    #e3007e 40%,
+    transparent 50%,
+    transparent
+  );
+  border-color: #e3007e;
+}

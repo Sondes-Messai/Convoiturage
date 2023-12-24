@@ -1,0 +1,21 @@
+.text-green-afpa {
+  color: #87bb34;
+}
+
+.text-rose-afpa {
+
+  @apply bg-rose-afpa focus:ring-red-200 focus:border-blue-400 hover:bg-rose-afpa;
+}
+
+textarea {
+  padding-top: 2cm; /* Ajoute un décalage de 2 centimètres au-dessus du texte */
+  background-color: transparent; /* Pour conserver le fond transparent */
+  overflow-y: auto; /* Ajoute une barre de défilement vertical lorsque le texte est trop long */
+}
+
+.radioText {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}

@@ -1,0 +1,8172 @@
+[
+  {
+    "id": 1,
+    "marque": "AIWAYS",
+    "modele": "U5"
+  },
+  {
+    "id": 2,
+    "marque": "ALEKO",
+    "modele": "2141"
+  },
+  {
+    "id": 3,
+    "marque": "ALFA ROMEO",
+    "modele": "1300"
+  },
+  {
+    "id": 4,
+    "marque": "ALFA ROMEO",
+    "modele": "1600"
+  },
+  {
+    "id": 5,
+    "marque": "ALFA ROMEO",
+    "modele": "164"
+  },
+  {
+    "id": 6,
+    "marque": "ALFA ROMEO",
+    "modele": "1750"
+  },
+  {
+    "id": 7,
+    "marque": "ALFA ROMEO",
+    "modele": "2000"
+  },
+  {
+    "id": 8,
+    "marque": "ALFA ROMEO",
+    "modele": "4C"
+  },
+  {
+    "id": 9,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 145"
+  },
+  {
+    "id": 10,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 146"
+  },
+  {
+    "id": 11,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 147"
+  },
+  {
+    "id": 12,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 155"
+  },
+  {
+    "id": 13,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 156"
+  },
+  {
+    "id": 14,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 159"
+  },
+  {
+    "id": 15,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 159 SW"
+  },
+  {
+    "id": 16,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 166"
+  },
+  {
+    "id": 17,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 33"
+  },
+  {
+    "id": 18,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 6"
+  },
+  {
+    "id": 19,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 75"
+  },
+  {
+    "id": 20,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA 90"
+  },
+  {
+    "id": 21,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA GT"
+  },
+  {
+    "id": 22,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA GTV"
+  },
+  {
+    "id": 23,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFA-SUD"
+  },
+  {
+    "id": 24,
+    "marque": "ALFA ROMEO",
+    "modele": "ALFETTA"
+  },
+  {
+    "id": 25,
+    "marque": "ALFA ROMEO",
+    "modele": "BRERA"
+  },
+  {
+    "id": 26,
+    "marque": "ALFA ROMEO",
+    "modele": "CROSSWAGON"
+  },
+  {
+    "id": 27,
+    "marque": "ALFA ROMEO",
+    "modele": "GIULIA"
+  },
+  {
+    "id": 28,
+    "marque": "ALFA ROMEO",
+    "modele": "GIULIETTA"
+  },
+  {
+    "id": 29,
+    "marque": "ALFA ROMEO",
+    "modele": "MITO"
+  },
+  {
+    "id": 30,
+    "marque": "ALFA ROMEO",
+    "modele": "RZ"
+  },
+  {
+    "id": 31,
+    "marque": "ALFA ROMEO",
+    "modele": "SPIDER"
+  },
+  {
+    "id": 32,
+    "marque": "ALFA ROMEO",
+    "modele": "SPORTWAGON"
+  },
+  {
+    "id": 33,
+    "marque": "ALFA ROMEO",
+    "modele": "SPRINT"
+  },
+  {
+    "id": 34,
+    "marque": "ALFA ROMEO",
+    "modele": "STELVIO"
+  },
+  {
+    "id": 35,
+    "marque": "ALFA ROMEO",
+    "modele": "SZ"
+  },
+  {
+    "id": 36,
+    "marque": "ALFA ROMEO",
+    "modele": "TONALE"
+  },
+  {
+    "id": 37,
+    "marque": "ALPINE RENAULT",
+    "modele": "A110"
+  },
+  {
+    "id": 38,
+    "marque": "ALPINE RENAULT",
+    "modele": "A110 II"
+  },
+  {
+    "id": 39,
+    "marque": "ALPINE RENAULT",
+    "modele": "A310"
+  },
+  {
+    "id": 40,
+    "marque": "ALPINE RENAULT",
+    "modele": "A610"
+  },
+  {
+    "id": 41,
+    "marque": "ALPINE RENAULT",
+    "modele": "LE MANS"
+  },
+  {
+    "id": 42,
+    "marque": "ALPINE RENAULT",
+    "modele": "V6"
+  },
+  {
+    "id": 43,
+    "marque": "ARO",
+    "modele": "4X4"
+  },
+  {
+    "id": 44,
+    "marque": "ARO",
+    "modele": "SPARTANA"
+  },
+  {
+    "id": 45,
+    "marque": "ASIA",
+    "modele": "ROCSTA"
+  },
+  {
+    "id": 46,
+    "marque": "ASTON MARTIN",
+    "modele": "CYGNET"
+  },
+  {
+    "id": 47,
+    "marque": "AUDI",
+    "modele": "100"
+  },
+  {
+    "id": 48,
+    "marque": "AUDI",
+    "modele": "200"
+  },
+  {
+    "id": 49,
+    "marque": "AUDI",
+    "modele": "50"
+  },
+  {
+    "id": 50,
+    "marque": "AUDI",
+    "modele": "60"
+  },
+  {
+    "id": 51,
+    "marque": "AUDI",
+    "modele": "70"
+  },
+  {
+    "id": 52,
+    "marque": "AUDI",
+    "modele": "75"
+  },
+  {
+    "id": 53,
+    "marque": "AUDI",
+    "modele": "80"
+  },
+  {
+    "id": 54,
+    "marque": "AUDI",
+    "modele": "90"
+  },
+  {
+    "id": 55,
+    "marque": "AUDI",
+    "modele": "A1"
+  },
+  {
+    "id": 56,
+    "marque": "AUDI",
+    "modele": "A1 II"
+  },
+  {
+    "id": 57,
+    "marque": "AUDI",
+    "modele": "A2"
+  },
+  {
+    "id": 58,
+    "marque": "AUDI",
+    "modele": "A3"
+  },
+  {
+    "id": 59,
+    "marque": "AUDI",
+    "modele": "A3 *"
+  },
+  {
+    "id": 60,
+    "marque": "AUDI",
+    "modele": "A3 IV"
+  },
+  {
+    "id": 61,
+    "marque": "AUDI",
+    "modele": "A3 SPORTBACK"
+  },
+  {
+    "id": 62,
+    "marque": "AUDI",
+    "modele": "A4"
+  },
+  {
+    "id": 63,
+    "marque": "AUDI",
+    "modele": "A4 III - IV"
+  },
+  {
+    "id": 64,
+    "marque": "AUDI",
+    "modele": "A4 V"
+  },
+  {
+    "id": 65,
+    "marque": "AUDI",
+    "modele": "A5"
+  },
+  {
+    "id": 66,
+    "marque": "AUDI",
+    "modele": "A5 SPORTBACK"
+  },
+  {
+    "id": 67,
+    "marque": "AUDI",
+    "modele": "A6"
+  },
+  {
+    "id": 68,
+    "marque": "AUDI",
+    "modele": "A6 III"
+  },
+  {
+    "id": 69,
+    "marque": "AUDI",
+    "modele": "A6 IV"
+  },
+  {
+    "id": 70,
+    "marque": "AUDI",
+    "modele": "A6 V"
+  },
+  {
+    "id": 71,
+    "marque": "AUDI",
+    "modele": "A7"
+  },
+  {
+    "id": 72,
+    "marque": "AUDI",
+    "modele": "A8"
+  },
+  {
+    "id": 73,
+    "marque": "AUDI",
+    "modele": "ALLROAD"
+  },
+  {
+    "id": 74,
+    "marque": "AUDI",
+    "modele": "CABRIOLET"
+  },
+  {
+    "id": 75,
+    "marque": "AUDI",
+    "modele": "COUPE"
+  },
+  {
+    "id": 76,
+    "marque": "AUDI",
+    "modele": "E-TRON"
+  },
+  {
+    "id": 77,
+    "marque": "AUDI",
+    "modele": "E-TRON GT"
+  },
+  {
+    "id": 78,
+    "marque": "AUDI",
+    "modele": "GT"
+  },
+  {
+    "id": 79,
+    "marque": "AUDI",
+    "modele": "Q2"
+  },
+  {
+    "id": 80,
+    "marque": "AUDI",
+    "modele": "Q3"
+  },
+  {
+    "id": 81,
+    "marque": "AUDI",
+    "modele": "Q3 II"
+  },
+  {
+    "id": 82,
+    "marque": "AUDI",
+    "modele": "Q4 E-TRON"
+  },
+  {
+    "id": 83,
+    "marque": "AUDI",
+    "modele": "Q5"
+  },
+  {
+    "id": 84,
+    "marque": "AUDI",
+    "modele": "Q7"
+  },
+  {
+    "id": 85,
+    "marque": "AUDI",
+    "modele": "Q8"
+  },
+  {
+    "id": 86,
+    "marque": "AUDI",
+    "modele": "QUATTRO"
+  },
+  {
+    "id": 87,
+    "marque": "AUDI",
+    "modele": "R8"
+  },
+  {
+    "id": 88,
+    "marque": "AUDI",
+    "modele": "RO 80"
+  },
+  {
+    "id": 89,
+    "marque": "AUDI",
+    "modele": "RS3"
+  },
+  {
+    "id": 90,
+    "marque": "AUDI",
+    "modele": "RS3 IV"
+  },
+  {
+    "id": 91,
+    "marque": "AUDI",
+    "modele": "RS4"
+  },
+  {
+    "id": 92,
+    "marque": "AUDI",
+    "modele": "RS5"
+  },
+  {
+    "id": 93,
+    "marque": "AUDI",
+    "modele": "RS6"
+  },
+  {
+    "id": 94,
+    "marque": "AUDI",
+    "modele": "RS7"
+  },
+  {
+    "id": 95,
+    "marque": "AUDI",
+    "modele": "S1"
+  },
+  {
+    "id": 96,
+    "marque": "AUDI",
+    "modele": "S3"
+  },
+  {
+    "id": 97,
+    "marque": "AUDI",
+    "modele": "S3 IV"
+  },
+  {
+    "id": 98,
+    "marque": "AUDI",
+    "modele": "S3 SPORTBACK"
+  },
+  {
+    "id": 99,
+    "marque": "AUDI",
+    "modele": "S4"
+  },
+  {
+    "id": 100,
+    "marque": "AUDI",
+    "modele": "S5"
+  },
+  {
+    "id": 101,
+    "marque": "AUDI",
+    "modele": "S6"
+  },
+  {
+    "id": 102,
+    "marque": "AUDI",
+    "modele": "S6 V"
+  },
+  {
+    "id": 103,
+    "marque": "AUDI",
+    "modele": "S7"
+  },
+  {
+    "id": 104,
+    "marque": "AUDI",
+    "modele": "S7 II"
+  },
+  {
+    "id": 105,
+    "marque": "AUDI",
+    "modele": "S8"
+  },
+  {
+    "id": 106,
+    "marque": "AUDI",
+    "modele": "TT"
+  },
+  {
+    "id": 107,
+    "marque": "AUDI",
+    "modele": "V8"
+  },
+  {
+    "id": 108,
+    "marque": "AUSTIN",
+    "modele": "850"
+  },
+  {
+    "id": 109,
+    "marque": "AUSTIN",
+    "modele": "ALLEGRO"
+  },
+  {
+    "id": 110,
+    "marque": "AUSTIN",
+    "modele": "JEEP"
+  },
+  {
+    "id": 111,
+    "marque": "AUSTIN",
+    "modele": "MAESTRO"
+  },
+  {
+    "id": 112,
+    "marque": "AUSTIN",
+    "modele": "METRO"
+  },
+  {
+    "id": 113,
+    "marque": "AUSTIN",
+    "modele": "MINI"
+  },
+  {
+    "id": 114,
+    "marque": "AUSTIN",
+    "modele": "MONTEGO"
+  },
+  {
+    "id": 115,
+    "marque": "AUSTIN",
+    "modele": "MORRISITAL"
+  },
+  {
+    "id": 116,
+    "marque": "AUSTIN",
+    "modele": "PRINCESS"
+  },
+  {
+    "id": 117,
+    "marque": "AUSTIN",
+    "modele": "SHERPA"
+  },
+  {
+    "id": 118,
+    "marque": "AUTOBIANCHI",
+    "modele": "500"
+  },
+  {
+    "id": 119,
+    "marque": "AUTOBIANCHI",
+    "modele": "A111"
+  },
+  {
+    "id": 120,
+    "marque": "AUTOBIANCHI",
+    "modele": "A112"
+  },
+  {
+    "id": 121,
+    "marque": "AUTOBIANCHI",
+    "modele": "PRIMULA"
+  },
+  {
+    "id": 122,
+    "marque": "AUTOBIANCHI",
+    "modele": "Y10"
+  },
+  {
+    "id": 123,
+    "marque": "AUVERLAND",
+    "modele": "A3"
+  },
+  {
+    "id": 124,
+    "marque": "BEDFORD",
+    "modele": "CF"
+  },
+  {
+    "id": 125,
+    "marque": "BEDFORD",
+    "modele": "MIDI"
+  },
+  {
+    "id": 126,
+    "marque": "BEE BEE AUTOMOTIVE",
+    "modele": "BEE BEE XS"
+  },
+  {
+    "id": 127,
+    "marque": "BENTLEY",
+    "modele": "ARNAGE"
+  },
+  {
+    "id": 128,
+    "marque": "BENTLEY",
+    "modele": "AZURE T"
+  },
+  {
+    "id": 129,
+    "marque": "BENTLEY",
+    "modele": "BROOKLANDS"
+  },
+  {
+    "id": 130,
+    "marque": "BENTLEY",
+    "modele": "CONTINENTAL FLYING SPUR"
+  },
+  {
+    "id": 131,
+    "marque": "BENTLEY",
+    "modele": "CONTINENTAL GT"
+  },
+  {
+    "id": 132,
+    "marque": "BENTLEY",
+    "modele": "MULSANNE"
+  },
+  {
+    "id": 133,
+    "marque": "BERTONE",
+    "modele": "4X4"
+  },
+  {
+    "id": 134,
+    "marque": "BMW",
+    "modele": "1502"
+  },
+  {
+    "id": 135,
+    "marque": "BMW",
+    "modele": "1600"
+  },
+  {
+    "id": 136,
+    "marque": "BMW",
+    "modele": "1602"
+  },
+  {
+    "id": 137,
+    "marque": "BMW",
+    "modele": "1800"
+  },
+  {
+    "id": 138,
+    "marque": "BMW",
+    "modele": "1802"
+  },
+  {
+    "id": 139,
+    "marque": "BMW",
+    "modele": "2000"
+  },
+  {
+    "id": 140,
+    "marque": "BMW",
+    "modele": "2002"
+  },
+  {
+    "id": 141,
+    "marque": "BMW",
+    "modele": "2500"
+  },
+  {
+    "id": 142,
+    "marque": "BMW",
+    "modele": "3,0"
+  },
+  {
+    "id": 143,
+    "marque": "BMW",
+    "modele": "3,3"
+  },
+  {
+    "id": 144,
+    "marque": "BMW",
+    "modele": "315"
+  },
+  {
+    "id": 145,
+    "marque": "BMW",
+    "modele": "316"
+  },
+  {
+    "id": 146,
+    "marque": "BMW",
+    "modele": "318"
+  },
+  {
+    "id": 147,
+    "marque": "BMW",
+    "modele": "320"
+  },
+  {
+    "id": 148,
+    "marque": "BMW",
+    "modele": "323"
+  },
+  {
+    "id": 149,
+    "marque": "BMW",
+    "modele": "324"
+  },
+  {
+    "id": 150,
+    "marque": "BMW",
+    "modele": "325"
+  },
+  {
+    "id": 151,
+    "marque": "BMW",
+    "modele": "328"
+  },
+  {
+    "id": 152,
+    "marque": "BMW",
+    "modele": "330"
+  },
+  {
+    "id": 153,
+    "marque": "BMW",
+    "modele": "518"
+  },
+  {
+    "id": 154,
+    "marque": "BMW",
+    "modele": "520"
+  },
+  {
+    "id": 155,
+    "marque": "BMW",
+    "modele": "523"
+  },
+  {
+    "id": 156,
+    "marque": "BMW",
+    "modele": "524"
+  },
+  {
+    "id": 157,
+    "marque": "BMW",
+    "modele": "525"
+  },
+  {
+    "id": 158,
+    "marque": "BMW",
+    "modele": "528"
+  },
+  {
+    "id": 159,
+    "marque": "BMW",
+    "modele": "530"
+  },
+  {
+    "id": 160,
+    "marque": "BMW",
+    "modele": "535"
+  },
+  {
+    "id": 161,
+    "marque": "BMW",
+    "modele": "540"
+  },
+  {
+    "id": 162,
+    "marque": "BMW",
+    "modele": "545"
+  },
+  {
+    "id": 163,
+    "marque": "BMW",
+    "modele": "550"
+  },
+  {
+    "id": 164,
+    "marque": "BMW",
+    "modele": "628"
+  },
+  {
+    "id": 165,
+    "marque": "BMW",
+    "modele": "630"
+  },
+  {
+    "id": 166,
+    "marque": "BMW",
+    "modele": "633"
+  },
+  {
+    "id": 167,
+    "marque": "BMW",
+    "modele": "635"
+  },
+  {
+    "id": 168,
+    "marque": "BMW",
+    "modele": "645"
+  },
+  {
+    "id": 169,
+    "marque": "BMW",
+    "modele": "650"
+  },
+  {
+    "id": 170,
+    "marque": "BMW",
+    "modele": "725"
+  },
+  {
+    "id": 171,
+    "marque": "BMW",
+    "modele": "728"
+  },
+  {
+    "id": 172,
+    "marque": "BMW",
+    "modele": "730"
+  },
+  {
+    "id": 173,
+    "marque": "BMW",
+    "modele": "732"
+  },
+  {
+    "id": 174,
+    "marque": "BMW",
+    "modele": "733"
+  },
+  {
+    "id": 175,
+    "marque": "BMW",
+    "modele": "735"
+  },
+  {
+    "id": 176,
+    "marque": "BMW",
+    "modele": "740"
+  },
+  {
+    "id": 177,
+    "marque": "BMW",
+    "modele": "745"
+  },
+  {
+    "id": 178,
+    "marque": "BMW",
+    "modele": "750"
+  },
+  {
+    "id": 179,
+    "marque": "BMW",
+    "modele": "760"
+  },
+  {
+    "id": 180,
+    "marque": "BMW",
+    "modele": "840"
+  },
+  {
+    "id": 181,
+    "marque": "BMW",
+    "modele": "850"
+  },
+  {
+    "id": 182,
+    "marque": "BMW",
+    "modele": "I3"
+  },
+  {
+    "id": 183,
+    "marque": "BMW",
+    "modele": "I8"
+  },
+  {
+    "id": 184,
+    "marque": "BMW",
+    "modele": "IX"
+  },
+  {
+    "id": 185,
+    "marque": "BMW",
+    "modele": "L7"
+  },
+  {
+    "id": 186,
+    "marque": "BMW",
+    "modele": "M2"
+  },
+  {
+    "id": 187,
+    "marque": "BMW",
+    "modele": "M3"
+  },
+  {
+    "id": 188,
+    "marque": "BMW",
+    "modele": "M4"
+  },
+  {
+    "id": 189,
+    "marque": "BMW",
+    "modele": "M5"
+  },
+  {
+    "id": 190,
+    "marque": "BMW",
+    "modele": "M535"
+  },
+  {
+    "id": 191,
+    "marque": "BMW",
+    "modele": "M6"
+  },
+  {
+    "id": 192,
+    "marque": "BMW",
+    "modele": "M635"
+  },
+  {
+    "id": 193,
+    "marque": "BMW",
+    "modele": "M8"
+  },
+  {
+    "id": 194,
+    "marque": "BMW",
+    "modele": "SERIE 1"
+  },
+  {
+    "id": 195,
+    "marque": "BMW",
+    "modele": "SERIE 1 II"
+  },
+  {
+    "id": 196,
+    "marque": "BMW",
+    "modele": "SERIE 1 III"
+  },
+  {
+    "id": 197,
+    "marque": "BMW",
+    "modele": "SERIE 2"
+  },
+  {
+    "id": 198,
+    "marque": "BMW",
+    "modele": "SERIE 2 II"
+  },
+  {
+    "id": 199,
+    "marque": "BMW",
+    "modele": "SERIE 3"
+  },
+  {
+    "id": 200,
+    "marque": "BMW",
+    "modele": "SERIE 3 (SUITE)"
+  },
+  {
+    "id": 201,
+    "marque": "BMW",
+    "modele": "SERIE 3 VI"
+  },
+  {
+    "id": 202,
+    "marque": "BMW",
+    "modele": "SERIE 3 VII"
+  },
+  {
+    "id": 203,
+    "marque": "BMW",
+    "modele": "SERIE 4"
+  },
+  {
+    "id": 204,
+    "marque": "BMW",
+    "modele": "SERIE 4 II"
+  },
+  {
+    "id": 205,
+    "marque": "BMW",
+    "modele": "SERIE 5"
+  },
+  {
+    "id": 206,
+    "marque": "BMW",
+    "modele": "SERIE 6"
+  },
+  {
+    "id": 207,
+    "marque": "BMW",
+    "modele": "SERIE 7"
+  },
+  {
+    "id": 208,
+    "marque": "BMW",
+    "modele": "SERIE 7 VII"
+  },
+  {
+    "id": 209,
+    "marque": "BMW",
+    "modele": "SERIE 8"
+  },
+  {
+    "id": 210,
+    "marque": "BMW",
+    "modele": "X1"
+  },
+  {
+    "id": 211,
+    "marque": "BMW",
+    "modele": "X1 III"
+  },
+  {
+    "id": 212,
+    "marque": "BMW",
+    "modele": "X2"
+  },
+  {
+    "id": 213,
+    "marque": "BMW",
+    "modele": "X3"
+  },
+  {
+    "id": 214,
+    "marque": "BMW",
+    "modele": "X4"
+  },
+  {
+    "id": 215,
+    "marque": "BMW",
+    "modele": "X4 II"
+  },
+  {
+    "id": 216,
+    "marque": "BMW",
+    "modele": "X5"
+  },
+  {
+    "id": 217,
+    "marque": "BMW",
+    "modele": "X5 IV"
+  },
+  {
+    "id": 218,
+    "marque": "BMW",
+    "modele": "X6"
+  },
+  {
+    "id": 219,
+    "marque": "BMW",
+    "modele": "X6 III"
+  },
+  {
+    "id": 220,
+    "marque": "BMW",
+    "modele": "X7"
+  },
+  {
+    "id": 221,
+    "marque": "BMW",
+    "modele": "XM"
+  },
+  {
+    "id": 222,
+    "marque": "BMW",
+    "modele": "Z1"
+  },
+  {
+    "id": 223,
+    "marque": "BMW",
+    "modele": "Z3"
+  },
+  {
+    "id": 224,
+    "marque": "BMW",
+    "modele": "Z4"
+  },
+  {
+    "id": 225,
+    "marque": "BMW",
+    "modele": "Z8"
+  },
+  {
+    "id": 226,
+    "marque": "BUICK",
+    "modele": "PARKAVENUE"
+  },
+  {
+    "id": 227,
+    "marque": "CADILLAC",
+    "modele": "CTS"
+  },
+  {
+    "id": 228,
+    "marque": "CADILLAC",
+    "modele": "ELDORADO"
+  },
+  {
+    "id": 229,
+    "marque": "CADILLAC",
+    "modele": "ESCALADE"
+  },
+  {
+    "id": 230,
+    "marque": "CADILLAC",
+    "modele": "SEVILLE"
+  },
+  {
+    "id": 231,
+    "marque": "CHEVROLET",
+    "modele": "ALERO"
+  },
+  {
+    "id": 232,
+    "marque": "CHEVROLET",
+    "modele": "AVEO"
+  },
+  {
+    "id": 233,
+    "marque": "CHEVROLET",
+    "modele": "BERETTA"
+  },
+  {
+    "id": 234,
+    "marque": "CHEVROLET",
+    "modele": "BLAZER"
+  },
+  {
+    "id": 235,
+    "marque": "CHEVROLET",
+    "modele": "CAMARO"
+  },
+  {
+    "id": 236,
+    "marque": "CHEVROLET",
+    "modele": "CAPTIVA"
+  },
+  {
+    "id": 237,
+    "marque": "CHEVROLET",
+    "modele": "CORSICA"
+  },
+  {
+    "id": 238,
+    "marque": "CHEVROLET",
+    "modele": "CORVETTE"
+  },
+  {
+    "id": 239,
+    "marque": "CHEVROLET",
+    "modele": "CRUZE"
+  },
+  {
+    "id": 240,
+    "marque": "CHEVROLET",
+    "modele": "EPICA"
+  },
+  {
+    "id": 241,
+    "marque": "CHEVROLET",
+    "modele": "EVANDA"
+  },
+  {
+    "id": 242,
+    "marque": "CHEVROLET",
+    "modele": "KALOS"
+  },
+  {
+    "id": 243,
+    "marque": "CHEVROLET",
+    "modele": "LACETTI"
+  },
+  {
+    "id": 244,
+    "marque": "CHEVROLET",
+    "modele": "MALIBU"
+  },
+  {
+    "id": 245,
+    "marque": "CHEVROLET",
+    "modele": "MATIZ"
+  },
+  {
+    "id": 246,
+    "marque": "CHEVROLET",
+    "modele": "NUBIRA"
+  },
+  {
+    "id": 247,
+    "marque": "CHEVROLET",
+    "modele": "ORLANDO"
+  },
+  {
+    "id": 248,
+    "marque": "CHEVROLET",
+    "modele": "REZZO"
+  },
+  {
+    "id": 249,
+    "marque": "CHEVROLET",
+    "modele": "SPARK"
+  },
+  {
+    "id": 250,
+    "marque": "CHEVROLET",
+    "modele": "TRANS SPORT"
+  },
+  {
+    "id": 251,
+    "marque": "CHEVROLET",
+    "modele": "TRAX"
+  },
+  {
+    "id": 252,
+    "marque": "CHEVROLET",
+    "modele": "VOLT"
+  },
+  {
+    "id": 253,
+    "marque": "CHRYSLER",
+    "modele": "300C"
+  },
+  {
+    "id": 254,
+    "marque": "CHRYSLER",
+    "modele": "300M"
+  },
+  {
+    "id": 255,
+    "marque": "CHRYSLER",
+    "modele": "CROSSFIRE"
+  },
+  {
+    "id": 256,
+    "marque": "CHRYSLER",
+    "modele": "ES"
+  },
+  {
+    "id": 257,
+    "marque": "CHRYSLER",
+    "modele": "GRAND VOYAGER"
+  },
+  {
+    "id": 258,
+    "marque": "CHRYSLER",
+    "modele": "LE BARON"
+  },
+  {
+    "id": 259,
+    "marque": "CHRYSLER",
+    "modele": "NEON"
+  },
+  {
+    "id": 260,
+    "marque": "CHRYSLER",
+    "modele": "NEW YORKER"
+  },
+  {
+    "id": 261,
+    "marque": "CHRYSLER",
+    "modele": "PT CRUISER"
+  },
+  {
+    "id": 262,
+    "marque": "CHRYSLER",
+    "modele": "SARATOGA"
+  },
+  {
+    "id": 263,
+    "marque": "CHRYSLER",
+    "modele": "SEBRING"
+  },
+  {
+    "id": 264,
+    "marque": "CHRYSLER",
+    "modele": "STRATUS"
+  },
+  {
+    "id": 265,
+    "marque": "CHRYSLER",
+    "modele": "VIPER"
+  },
+  {
+    "id": 266,
+    "marque": "CHRYSLER",
+    "modele": "VISION"
+  },
+  {
+    "id": 267,
+    "marque": "CHRYSLER",
+    "modele": "VOYAGER"
+  },
+  {
+    "id": 268,
+    "marque": "CITROEN",
+    "modele": "2 CV"
+  },
+  {
+    "id": 269,
+    "marque": "CITROEN",
+    "modele": "ACADIANE"
+  },
+  {
+    "id": 270,
+    "marque": "CITROEN",
+    "modele": "AK"
+  },
+  {
+    "id": 271,
+    "marque": "CITROEN",
+    "modele": "AMI"
+  },
+  {
+    "id": 272,
+    "marque": "CITROEN",
+    "modele": "AX"
+  },
+  {
+    "id": 273,
+    "marque": "CITROEN",
+    "modele": "AXEL"
+  },
+  {
+    "id": 274,
+    "marque": "CITROEN",
+    "modele": "AZU"
+  },
+  {
+    "id": 275,
+    "marque": "CITROEN",
+    "modele": "BERLINGO"
+  },
+  {
+    "id": 276,
+    "marque": "CITROEN",
+    "modele": "BERLINGO II"
+  },
+  {
+    "id": 277,
+    "marque": "CITROEN",
+    "modele": "BERLINGO III"
+  },
+  {
+    "id": 278,
+    "marque": "CITROEN",
+    "modele": "BX"
+  },
+  {
+    "id": 279,
+    "marque": "CITROEN",
+    "modele": "C-CROSSER"
+  },
+  {
+    "id": 280,
+    "marque": "CITROEN",
+    "modele": "C-ELYSEE"
+  },
+  {
+    "id": 281,
+    "marque": "CITROEN",
+    "modele": "C-ZERO"
+  },
+  {
+    "id": 282,
+    "marque": "CITROEN",
+    "modele": "C1"
+  },
+  {
+    "id": 283,
+    "marque": "CITROEN",
+    "modele": "C15"
+  },
+  {
+    "id": 284,
+    "marque": "CITROEN",
+    "modele": "C2"
+  },
+  {
+    "id": 285,
+    "marque": "CITROEN",
+    "modele": "C25"
+  },
+  {
+    "id": 286,
+    "marque": "CITROEN",
+    "modele": "C25 COMBI"
+  },
+  {
+    "id": 287,
+    "marque": "CITROEN",
+    "modele": "C3"
+  },
+  {
+    "id": 288,
+    "marque": "CITROEN",
+    "modele": "C3 AIRCROSS"
+  },
+  {
+    "id": 289,
+    "marque": "CITROEN",
+    "modele": "C3 II"
+  },
+  {
+    "id": 290,
+    "marque": "CITROEN",
+    "modele": "C3 III"
+  },
+  {
+    "id": 291,
+    "marque": "CITROEN",
+    "modele": "C3 PICASSO"
+  },
+  {
+    "id": 292,
+    "marque": "CITROEN",
+    "modele": "C3 PLURIEL"
+  },
+  {
+    "id": 293,
+    "marque": "CITROEN",
+    "modele": "C35"
+  },
+  {
+    "id": 294,
+    "marque": "CITROEN",
+    "modele": "C4"
+  },
+  {
+    "id": 295,
+    "marque": "CITROEN",
+    "modele": "C4 AIRCROSS"
+  },
+  {
+    "id": 296,
+    "marque": "CITROEN",
+    "modele": "C4 CACTUS"
+  },
+  {
+    "id": 297,
+    "marque": "CITROEN",
+    "modele": "C4 II"
+  },
+  {
+    "id": 298,
+    "marque": "CITROEN",
+    "modele": "C4 III"
+  },
+  {
+    "id": 299,
+    "marque": "CITROEN",
+    "modele": "C4 PICASSO"
+  },
+  {
+    "id": 300,
+    "marque": "CITROEN",
+    "modele": "C4 PICASSO II"
+  },
+  {
+    "id": 301,
+    "marque": "CITROEN",
+    "modele": "C4 SPACETOURER"
+  },
+  {
+    "id": 302,
+    "marque": "CITROEN",
+    "modele": "C4 X"
+  },
+  {
+    "id": 303,
+    "marque": "CITROEN",
+    "modele": "C5"
+  },
+  {
+    "id": 304,
+    "marque": "CITROEN",
+    "modele": "C5 AIRCROSS"
+  },
+  {
+    "id": 305,
+    "marque": "CITROEN",
+    "modele": "C5 II"
+  },
+  {
+    "id": 306,
+    "marque": "CITROEN",
+    "modele": "C5 II TOURER"
+  },
+  {
+    "id": 307,
+    "marque": "CITROEN",
+    "modele": "C5 X"
+  },
+  {
+    "id": 308,
+    "marque": "CITROEN",
+    "modele": "C6"
+  },
+  {
+    "id": 309,
+    "marque": "CITROEN",
+    "modele": "C8"
+  },
+  {
+    "id": 310,
+    "marque": "CITROEN",
+    "modele": "CX"
+  },
+  {
+    "id": 311,
+    "marque": "CITROEN",
+    "modele": "CX SERIE2"
+  },
+  {
+    "id": 312,
+    "marque": "CITROEN",
+    "modele": "D"
+  },
+  {
+    "id": 313,
+    "marque": "CITROEN",
+    "modele": "DANGEL C15"
+  },
+  {
+    "id": 314,
+    "marque": "CITROEN",
+    "modele": "DANGEL C25"
+  },
+  {
+    "id": 315,
+    "marque": "CITROEN",
+    "modele": "DS"
+  },
+  {
+    "id": 316,
+    "marque": "CITROEN",
+    "modele": "DS3"
+  },
+  {
+    "id": 317,
+    "marque": "CITROEN",
+    "modele": "DS4"
+  },
+  {
+    "id": 318,
+    "marque": "CITROEN",
+    "modele": "DS5"
+  },
+  {
+    "id": 319,
+    "marque": "CITROEN",
+    "modele": "DYANE"
+  },
+  {
+    "id": 320,
+    "marque": "CITROEN",
+    "modele": "EVASION"
+  },
+  {
+    "id": 321,
+    "marque": "CITROEN",
+    "modele": "GS"
+  },
+  {
+    "id": 322,
+    "marque": "CITROEN",
+    "modele": "GSA"
+  },
+  {
+    "id": 323,
+    "marque": "CITROEN",
+    "modele": "HY"
+  },
+  {
+    "id": 324,
+    "marque": "CITROEN",
+    "modele": "ID"
+  },
+  {
+    "id": 325,
+    "marque": "CITROEN",
+    "modele": "JUMPER"
+  },
+  {
+    "id": 326,
+    "marque": "CITROEN",
+    "modele": "JUMPY"
+  },
+  {
+    "id": 327,
+    "marque": "CITROEN",
+    "modele": "KATAR"
+  },
+  {
+    "id": 328,
+    "marque": "CITROEN",
+    "modele": "LN"
+  },
+  {
+    "id": 329,
+    "marque": "CITROEN",
+    "modele": "LNA"
+  },
+  {
+    "id": 330,
+    "marque": "CITROEN",
+    "modele": "MEHARI"
+  },
+  {
+    "id": 331,
+    "marque": "CITROEN",
+    "modele": "NEMO"
+  },
+  {
+    "id": 332,
+    "marque": "CITROEN",
+    "modele": "SAXO"
+  },
+  {
+    "id": 333,
+    "marque": "CITROEN",
+    "modele": "SM"
+  },
+  {
+    "id": 334,
+    "marque": "CITROEN",
+    "modele": "SPACETOURER"
+  },
+  {
+    "id": 335,
+    "marque": "CITROEN",
+    "modele": "TANGARA"
+  },
+  {
+    "id": 336,
+    "marque": "CITROEN",
+    "modele": "TRACTION"
+  },
+  {
+    "id": 337,
+    "marque": "CITROEN",
+    "modele": "VISA"
+  },
+  {
+    "id": 338,
+    "marque": "CITROEN",
+    "modele": "XANTIA"
+  },
+  {
+    "id": 339,
+    "marque": "CITROEN",
+    "modele": "XM"
+  },
+  {
+    "id": 340,
+    "marque": "CITROEN",
+    "modele": "XSARA"
+  },
+  {
+    "id": 341,
+    "marque": "CITROEN",
+    "modele": "XSARA PICASSO"
+  },
+  {
+    "id": 342,
+    "marque": "CITROEN",
+    "modele": "ZX"
+  },
+  {
+    "id": 343,
+    "marque": "COURB",
+    "modele": "C-ZEN"
+  },
+  {
+    "id": 344,
+    "marque": "CUPRA",
+    "modele": "ATECA"
+  },
+  {
+    "id": 345,
+    "marque": "CUPRA",
+    "modele": "BORN"
+  },
+  {
+    "id": 346,
+    "marque": "CUPRA",
+    "modele": "FORMENTOR"
+  },
+  {
+    "id": 347,
+    "marque": "CUPRA",
+    "modele": "LEON"
+  },
+  {
+    "id": 348,
+    "marque": "DACIA",
+    "modele": "DOKKER"
+  },
+  {
+    "id": 349,
+    "marque": "DACIA",
+    "modele": "DUSTER"
+  },
+  {
+    "id": 350,
+    "marque": "DACIA",
+    "modele": "JOGGER"
+  },
+  {
+    "id": 351,
+    "marque": "DACIA",
+    "modele": "LODGY"
+  },
+  {
+    "id": 352,
+    "marque": "DACIA",
+    "modele": "LOGAN"
+  },
+  {
+    "id": 353,
+    "marque": "DACIA",
+    "modele": "SANDERO"
+  },
+  {
+    "id": 354,
+    "marque": "DACIA",
+    "modele": "SANDERO III"
+  },
+  {
+    "id": 355,
+    "marque": "DACIA",
+    "modele": "SPRING"
+  },
+  {
+    "id": 356,
+    "marque": "DAEWOO",
+    "modele": "ESPERO"
+  },
+  {
+    "id": 357,
+    "marque": "DAEWOO",
+    "modele": "EVANDA"
+  },
+  {
+    "id": 358,
+    "marque": "DAEWOO",
+    "modele": "KALOS"
+  },
+  {
+    "id": 359,
+    "marque": "DAEWOO",
+    "modele": "KORANDO"
+  },
+  {
+    "id": 360,
+    "marque": "DAEWOO",
+    "modele": "LACETTI"
+  },
+  {
+    "id": 361,
+    "marque": "DAEWOO",
+    "modele": "LANOS"
+  },
+  {
+    "id": 362,
+    "marque": "DAEWOO",
+    "modele": "LEGANZA"
+  },
+  {
+    "id": 363,
+    "marque": "DAEWOO",
+    "modele": "MATIZ"
+  },
+  {
+    "id": 364,
+    "marque": "DAEWOO",
+    "modele": "MUSSO"
+  },
+  {
+    "id": 365,
+    "marque": "DAEWOO",
+    "modele": "NEXIA"
+  },
+  {
+    "id": 366,
+    "marque": "DAEWOO",
+    "modele": "NUBIRA"
+  },
+  {
+    "id": 367,
+    "marque": "DAEWOO",
+    "modele": "REXTON"
+  },
+  {
+    "id": 368,
+    "marque": "DAEWOO",
+    "modele": "REZZO"
+  },
+  {
+    "id": 369,
+    "marque": "DAF",
+    "modele": "33"
+  },
+  {
+    "id": 370,
+    "marque": "DAF",
+    "modele": "400"
+  },
+  {
+    "id": 371,
+    "marque": "DAF",
+    "modele": "44"
+  },
+  {
+    "id": 372,
+    "marque": "DAF",
+    "modele": "46"
+  },
+  {
+    "id": 373,
+    "marque": "DAF",
+    "modele": "55"
+  },
+  {
+    "id": 374,
+    "marque": "DAF",
+    "modele": "66"
+  },
+  {
+    "id": 375,
+    "marque": "DAF",
+    "modele": "VA400"
+  },
+  {
+    "id": 376,
+    "marque": "DAF",
+    "modele": "VH400"
+  },
+  {
+    "id": 377,
+    "marque": "DAIHATSU",
+    "modele": "APPLAUSE"
+  },
+  {
+    "id": 378,
+    "marque": "DAIHATSU",
+    "modele": "CHARADE"
+  },
+  {
+    "id": 379,
+    "marque": "DAIHATSU",
+    "modele": "COPEN"
+  },
+  {
+    "id": 380,
+    "marque": "DAIHATSU",
+    "modele": "CUORE"
+  },
+  {
+    "id": 381,
+    "marque": "DAIHATSU",
+    "modele": "DOMINO"
+  },
+  {
+    "id": 382,
+    "marque": "DAIHATSU",
+    "modele": "FEROZA"
+  },
+  {
+    "id": 383,
+    "marque": "DAIHATSU",
+    "modele": "GRAN MOVE"
+  },
+  {
+    "id": 384,
+    "marque": "DAIHATSU",
+    "modele": "HIJET"
+  },
+  {
+    "id": 385,
+    "marque": "DAIHATSU",
+    "modele": "MATERIA"
+  },
+  {
+    "id": 386,
+    "marque": "DAIHATSU",
+    "modele": "MOVE"
+  },
+  {
+    "id": 387,
+    "marque": "DAIHATSU",
+    "modele": "ROCKY"
+  },
+  {
+    "id": 388,
+    "marque": "DAIHATSU",
+    "modele": "SIRION"
+  },
+  {
+    "id": 389,
+    "marque": "DAIHATSU",
+    "modele": "TERIOS"
+  },
+  {
+    "id": 390,
+    "marque": "DAIHATSU",
+    "modele": "TREVIS"
+  },
+  {
+    "id": 391,
+    "marque": "DAIHATSU",
+    "modele": "YRV"
+  },
+  {
+    "id": 392,
+    "marque": "DAIMLER",
+    "modele": "DAIMLER"
+  },
+  {
+    "id": 393,
+    "marque": "DATSUN",
+    "modele": "100"
+  },
+  {
+    "id": 394,
+    "marque": "DATSUN",
+    "modele": "120"
+  },
+  {
+    "id": 395,
+    "marque": "DATSUN",
+    "modele": "1600"
+  },
+  {
+    "id": 396,
+    "marque": "DATSUN",
+    "modele": "180"
+  },
+  {
+    "id": 397,
+    "marque": "DATSUN",
+    "modele": "200"
+  },
+  {
+    "id": 398,
+    "marque": "DATSUN",
+    "modele": "220"
+  },
+  {
+    "id": 399,
+    "marque": "DATSUN",
+    "modele": "260"
+  },
+  {
+    "id": 400,
+    "marque": "DATSUN",
+    "modele": "280"
+  },
+  {
+    "id": 401,
+    "marque": "DATSUN",
+    "modele": "BLUEBIRD"
+  },
+  {
+    "id": 402,
+    "marque": "DATSUN",
+    "modele": "CEDRIC"
+  },
+  {
+    "id": 403,
+    "marque": "DATSUN",
+    "modele": "CHERRY"
+  },
+  {
+    "id": 404,
+    "marque": "DATSUN",
+    "modele": "KING-CAB"
+  },
+  {
+    "id": 405,
+    "marque": "DATSUN",
+    "modele": "LAUREL"
+  },
+  {
+    "id": 406,
+    "marque": "DATSUN",
+    "modele": "PATROL"
+  },
+  {
+    "id": 407,
+    "marque": "DATSUN",
+    "modele": "PICK-UP"
+  },
+  {
+    "id": 408,
+    "marque": "DATSUN",
+    "modele": "SILVIA"
+  },
+  {
+    "id": 409,
+    "marque": "DATSUN",
+    "modele": "STANZA"
+  },
+  {
+    "id": 410,
+    "marque": "DATSUN",
+    "modele": "SUNNY"
+  },
+  {
+    "id": 411,
+    "marque": "DATSUN",
+    "modele": "VIOLET"
+  },
+  {
+    "id": 412,
+    "marque": "DODGE",
+    "modele": "AVENGER"
+  },
+  {
+    "id": 413,
+    "marque": "DODGE",
+    "modele": "CALIBER"
+  },
+  {
+    "id": 414,
+    "marque": "DODGE",
+    "modele": "JOURNEY"
+  },
+  {
+    "id": 415,
+    "marque": "DODGE",
+    "modele": "NITRO"
+  },
+  {
+    "id": 416,
+    "marque": "DS",
+    "modele": "DS3"
+  },
+  {
+    "id": 417,
+    "marque": "DS",
+    "modele": "DS3 CROSSBACK"
+  },
+  {
+    "id": 418,
+    "marque": "DS",
+    "modele": "DS4"
+  },
+  {
+    "id": 419,
+    "marque": "DS",
+    "modele": "DS4 II"
+  },
+  {
+    "id": 420,
+    "marque": "DS",
+    "modele": "DS5"
+  },
+  {
+    "id": 421,
+    "marque": "DS",
+    "modele": "DS7"
+  },
+  {
+    "id": 422,
+    "marque": "DS",
+    "modele": "DS7 CROSSBACK"
+  },
+  {
+    "id": 423,
+    "marque": "DS",
+    "modele": "DS9"
+  },
+  {
+    "id": 424,
+    "marque": "EBRO",
+    "modele": "F275"
+  },
+  {
+    "id": 425,
+    "marque": "EBRO",
+    "modele": "F350"
+  },
+  {
+    "id": 426,
+    "marque": "EBRO",
+    "modele": "JX20"
+  },
+  {
+    "id": 427,
+    "marque": "EBRO",
+    "modele": "JX28"
+  },
+  {
+    "id": 428,
+    "marque": "EBRO",
+    "modele": "PATROL"
+  },
+  {
+    "id": 429,
+    "marque": "EBRO",
+    "modele": "TRADE"
+  },
+  {
+    "id": 430,
+    "marque": "EBRO",
+    "modele": "VANETTE"
+  },
+  {
+    "id": 431,
+    "marque": "FERRARI",
+    "modele": "ROMA"
+  },
+  {
+    "id": 432,
+    "marque": "FIAT",
+    "modele": "124"
+  },
+  {
+    "id": 433,
+    "marque": "FIAT",
+    "modele": "124 SPIDER"
+  },
+  {
+    "id": 434,
+    "marque": "FIAT",
+    "modele": "126"
+  },
+  {
+    "id": 435,
+    "marque": "FIAT",
+    "modele": "127"
+  },
+  {
+    "id": 436,
+    "marque": "FIAT",
+    "modele": "128"
+  },
+  {
+    "id": 437,
+    "marque": "FIAT",
+    "modele": "130"
+  },
+  {
+    "id": 438,
+    "marque": "FIAT",
+    "modele": "131"
+  },
+  {
+    "id": 439,
+    "marque": "FIAT",
+    "modele": "132"
+  },
+  {
+    "id": 440,
+    "marque": "FIAT",
+    "modele": "133"
+  },
+  {
+    "id": 441,
+    "marque": "FIAT",
+    "modele": "238"
+  },
+  {
+    "id": 442,
+    "marque": "FIAT",
+    "modele": "4X4 CROSS"
+  },
+  {
+    "id": 443,
+    "marque": "FIAT",
+    "modele": "500"
+  },
+  {
+    "id": 444,
+    "marque": "FIAT",
+    "modele": "500 III"
+  },
+  {
+    "id": 445,
+    "marque": "FIAT",
+    "modele": "500L"
+  },
+  {
+    "id": 446,
+    "marque": "FIAT",
+    "modele": "500X"
+  },
+  {
+    "id": 447,
+    "marque": "FIAT",
+    "modele": "600"
+  },
+  {
+    "id": 448,
+    "marque": "FIAT",
+    "modele": "850"
+  },
+  {
+    "id": 449,
+    "marque": "FIAT",
+    "modele": "900"
+  },
+  {
+    "id": 450,
+    "marque": "FIAT",
+    "modele": "ARGENTA"
+  },
+  {
+    "id": 451,
+    "marque": "FIAT",
+    "modele": "BARCHETTA"
+  },
+  {
+    "id": 452,
+    "marque": "FIAT",
+    "modele": "BRAVA"
+  },
+  {
+    "id": 453,
+    "marque": "FIAT",
+    "modele": "BRAVO"
+  },
+  {
+    "id": 454,
+    "marque": "FIAT",
+    "modele": "BRAVO II"
+  },
+  {
+    "id": 455,
+    "marque": "FIAT",
+    "modele": "CINQUECENTO"
+  },
+  {
+    "id": 456,
+    "marque": "FIAT",
+    "modele": "COUPE"
+  },
+  {
+    "id": 457,
+    "marque": "FIAT",
+    "modele": "CROMA"
+  },
+  {
+    "id": 458,
+    "marque": "FIAT",
+    "modele": "DOBLO"
+  },
+  {
+    "id": 459,
+    "marque": "FIAT",
+    "modele": "DOBLO III"
+  },
+  {
+    "id": 460,
+    "marque": "FIAT",
+    "modele": "DUCATO"
+  },
+  {
+    "id": 461,
+    "marque": "FIAT",
+    "modele": "FIORINO"
+  },
+  {
+    "id": 462,
+    "marque": "FIAT",
+    "modele": "FIORINO QUBO"
+  },
+  {
+    "id": 463,
+    "marque": "FIAT",
+    "modele": "FREEMONT"
+  },
+  {
+    "id": 464,
+    "marque": "FIAT",
+    "modele": "FULLBACK"
+  },
+  {
+    "id": 465,
+    "marque": "FIAT",
+    "modele": "GRANDE PUNTO"
+  },
+  {
+    "id": 466,
+    "marque": "FIAT",
+    "modele": "IDEA"
+  },
+  {
+    "id": 467,
+    "marque": "FIAT",
+    "modele": "MAREA"
+  },
+  {
+    "id": 468,
+    "marque": "FIAT",
+    "modele": "MULTIPLA"
+  },
+  {
+    "id": 469,
+    "marque": "FIAT",
+    "modele": "PALIO"
+  },
+  {
+    "id": 470,
+    "marque": "FIAT",
+    "modele": "PANDA"
+  },
+  {
+    "id": 471,
+    "marque": "FIAT",
+    "modele": "PININFARINA"
+  },
+  {
+    "id": 472,
+    "marque": "FIAT",
+    "modele": "PUNTO"
+  },
+  {
+    "id": 473,
+    "marque": "FIAT",
+    "modele": "PUNTO EVO"
+  },
+  {
+    "id": 474,
+    "marque": "FIAT",
+    "modele": "REGATA"
+  },
+  {
+    "id": 475,
+    "marque": "FIAT",
+    "modele": "RITMO"
+  },
+  {
+    "id": 476,
+    "marque": "FIAT",
+    "modele": "SCUDO"
+  },
+  {
+    "id": 477,
+    "marque": "FIAT",
+    "modele": "SCUDO III"
+  },
+  {
+    "id": 478,
+    "marque": "FIAT",
+    "modele": "SEDICI"
+  },
+  {
+    "id": 479,
+    "marque": "FIAT",
+    "modele": "SEICENTO"
+  },
+  {
+    "id": 480,
+    "marque": "FIAT",
+    "modele": "STILO"
+  },
+  {
+    "id": 481,
+    "marque": "FIAT",
+    "modele": "STRADA"
+  },
+  {
+    "id": 482,
+    "marque": "FIAT",
+    "modele": "TALENTO"
+  },
+  {
+    "id": 483,
+    "marque": "FIAT",
+    "modele": "TEMPRA"
+  },
+  {
+    "id": 484,
+    "marque": "FIAT",
+    "modele": "TIPO"
+  },
+  {
+    "id": 485,
+    "marque": "FIAT",
+    "modele": "ULYSSE"
+  },
+  {
+    "id": 486,
+    "marque": "FIAT",
+    "modele": "ULYSSE III"
+  },
+  {
+    "id": 487,
+    "marque": "FIAT",
+    "modele": "UNO"
+  },
+  {
+    "id": 488,
+    "marque": "FIAT",
+    "modele": "X1\\/9"
+  },
+  {
+    "id": 489,
+    "marque": "FISKER",
+    "modele": "KARMA"
+  },
+  {
+    "id": 490,
+    "marque": "FORD",
+    "modele": "A0406"
+  },
+  {
+    "id": 491,
+    "marque": "FORD",
+    "modele": "A0407"
+  },
+  {
+    "id": 492,
+    "marque": "FORD",
+    "modele": "A0408"
+  },
+  {
+    "id": 493,
+    "marque": "FORD",
+    "modele": "A0409"
+  },
+  {
+    "id": 494,
+    "marque": "FORD",
+    "modele": "A0410"
+  },
+  {
+    "id": 495,
+    "marque": "FORD",
+    "modele": "AEROSTAR"
+  },
+  {
+    "id": 496,
+    "marque": "FORD",
+    "modele": "ANGLIA"
+  },
+  {
+    "id": 497,
+    "marque": "FORD",
+    "modele": "B-MAX"
+  },
+  {
+    "id": 498,
+    "marque": "FORD",
+    "modele": "CAPRI"
+  },
+  {
+    "id": 499,
+    "marque": "FORD",
+    "modele": "CONSUL"
+  },
+  {
+    "id": 500,
+    "marque": "FORD",
+    "modele": "CORTINA"
+  },
+  {
+    "id": 501,
+    "marque": "FORD",
+    "modele": "COUGAR"
+  },
+  {
+    "id": 502,
+    "marque": "FORD",
+    "modele": "COURRIER"
+  },
+  {
+    "id": 503,
+    "marque": "FORD",
+    "modele": "ECOSPORT"
+  },
+  {
+    "id": 504,
+    "marque": "FORD",
+    "modele": "EDGE"
+  },
+  {
+    "id": 505,
+    "marque": "FORD",
+    "modele": "ESCORT"
+  },
+  {
+    "id": 506,
+    "marque": "FORD",
+    "modele": "EXPLORER"
+  },
+  {
+    "id": 507,
+    "marque": "FORD",
+    "modele": "FIESTA"
+  },
+  {
+    "id": 508,
+    "marque": "FORD",
+    "modele": "FOCUS"
+  },
+  {
+    "id": 509,
+    "marque": "FORD",
+    "modele": "FOCUS C-MAX"
+  },
+  {
+    "id": 510,
+    "marque": "FORD",
+    "modele": "FOCUS IV"
+  },
+  {
+    "id": 511,
+    "marque": "FORD",
+    "modele": "FUSION"
+  },
+  {
+    "id": 512,
+    "marque": "FORD",
+    "modele": "GALAXY"
+  },
+  {
+    "id": 513,
+    "marque": "FORD",
+    "modele": "GRANADA"
+  },
+  {
+    "id": 514,
+    "marque": "FORD",
+    "modele": "KA"
+  },
+  {
+    "id": 515,
+    "marque": "FORD",
+    "modele": "KA+"
+  },
+  {
+    "id": 516,
+    "marque": "FORD",
+    "modele": "KUGA"
+  },
+  {
+    "id": 517,
+    "marque": "FORD",
+    "modele": "KUGA III"
+  },
+  {
+    "id": 518,
+    "marque": "FORD",
+    "modele": "MAVERICK"
+  },
+  {
+    "id": 519,
+    "marque": "FORD",
+    "modele": "MONDEO"
+  },
+  {
+    "id": 520,
+    "marque": "FORD",
+    "modele": "MONDEO*"
+  },
+  {
+    "id": 521,
+    "marque": "FORD",
+    "modele": "MUSTANG"
+  },
+  {
+    "id": 522,
+    "marque": "FORD",
+    "modele": "MUSTANG MACH-E"
+  },
+  {
+    "id": 523,
+    "marque": "FORD",
+    "modele": "ORION"
+  },
+  {
+    "id": 524,
+    "marque": "FORD",
+    "modele": "P 100"
+  },
+  {
+    "id": 525,
+    "marque": "FORD",
+    "modele": "PROBE"
+  },
+  {
+    "id": 526,
+    "marque": "FORD",
+    "modele": "PUMA"
+  },
+  {
+    "id": 527,
+    "marque": "FORD",
+    "modele": "PUMA II"
+  },
+  {
+    "id": 528,
+    "marque": "FORD",
+    "modele": "RANGER"
+  },
+  {
+    "id": 529,
+    "marque": "FORD",
+    "modele": "RANGER IV"
+  },
+  {
+    "id": 530,
+    "marque": "FORD",
+    "modele": "S-MAX"
+  },
+  {
+    "id": 531,
+    "marque": "FORD",
+    "modele": "SCORPIO"
+  },
+  {
+    "id": 532,
+    "marque": "FORD",
+    "modele": "SIERRA"
+  },
+  {
+    "id": 533,
+    "marque": "FORD",
+    "modele": "TAUNUS"
+  },
+  {
+    "id": 534,
+    "marque": "FORD",
+    "modele": "TOURNEO"
+  },
+  {
+    "id": 535,
+    "marque": "FORD",
+    "modele": "TOURNEO CONNECT"
+  },
+  {
+    "id": 536,
+    "marque": "FORD",
+    "modele": "TOURNEO CONNECT III"
+  },
+  {
+    "id": 537,
+    "marque": "FORD",
+    "modele": "TOURNEO COURIER"
+  },
+  {
+    "id": 538,
+    "marque": "FORD",
+    "modele": "TOURNEO CUSTOM"
+  },
+  {
+    "id": 539,
+    "marque": "FORD",
+    "modele": "TRANSIT"
+  },
+  {
+    "id": 540,
+    "marque": "FORD",
+    "modele": "TRANSIT CONNECT"
+  },
+  {
+    "id": 541,
+    "marque": "FORD",
+    "modele": "TRANSIT COURIER"
+  },
+  {
+    "id": 542,
+    "marque": "FORD",
+    "modele": "TRANSIT CUSTOM"
+  },
+  {
+    "id": 543,
+    "marque": "FORD",
+    "modele": "TRANSIT VI"
+  },
+  {
+    "id": 544,
+    "marque": "FSO-POLSKI",
+    "modele": "125"
+  },
+  {
+    "id": 545,
+    "marque": "FSO-POLSKI",
+    "modele": "125P"
+  },
+  {
+    "id": 546,
+    "marque": "FSO-POLSKI",
+    "modele": "1500"
+  },
+  {
+    "id": 547,
+    "marque": "FSO-POLSKI",
+    "modele": "ATOU"
+  },
+  {
+    "id": 548,
+    "marque": "FSO-POLSKI",
+    "modele": "CARO"
+  },
+  {
+    "id": 549,
+    "marque": "FSO-POLSKI",
+    "modele": "LINDA"
+  },
+  {
+    "id": 550,
+    "marque": "FSO-POLSKI",
+    "modele": "POLONEZ"
+  },
+  {
+    "id": 551,
+    "marque": "FSO-POLSKI",
+    "modele": "TRUCK"
+  },
+  {
+    "id": 552,
+    "marque": "GAC GONOW",
+    "modele": "GA"
+  },
+  {
+    "id": 553,
+    "marque": "GAC GONOW",
+    "modele": "WAY"
+  },
+  {
+    "id": 554,
+    "marque": "GME",
+    "modele": "MIDI"
+  },
+  {
+    "id": 555,
+    "marque": "GME",
+    "modele": "RASCAL"
+  },
+  {
+    "id": 556,
+    "marque": "GRANDIN",
+    "modele": "DALLAS"
+  },
+  {
+    "id": 557,
+    "marque": "HONDA",
+    "modele": "ACCORD"
+  },
+  {
+    "id": 558,
+    "marque": "HONDA",
+    "modele": "ACTY"
+  },
+  {
+    "id": 559,
+    "marque": "HONDA",
+    "modele": "CIVIC"
+  },
+  {
+    "id": 560,
+    "marque": "HONDA",
+    "modele": "CIVIC XI"
+  },
+  {
+    "id": 561,
+    "marque": "HONDA",
+    "modele": "CONCERTO"
+  },
+  {
+    "id": 562,
+    "marque": "HONDA",
+    "modele": "CR-Z"
+  },
+  {
+    "id": 563,
+    "marque": "HONDA",
+    "modele": "CRV"
+  },
+  {
+    "id": 564,
+    "marque": "HONDA",
+    "modele": "CRV V"
+  },
+  {
+    "id": 565,
+    "marque": "HONDA",
+    "modele": "CRX"
+  },
+  {
+    "id": 566,
+    "marque": "HONDA",
+    "modele": "FR-V"
+  },
+  {
+    "id": 567,
+    "marque": "HONDA",
+    "modele": "HONDA E"
+  },
+  {
+    "id": 568,
+    "marque": "HONDA",
+    "modele": "HR-V"
+  },
+  {
+    "id": 569,
+    "marque": "HONDA",
+    "modele": "HR-V III"
+  },
+  {
+    "id": 570,
+    "marque": "HONDA",
+    "modele": "INSIGHT"
+  },
+  {
+    "id": 571,
+    "marque": "HONDA",
+    "modele": "INTEGRA"
+  },
+  {
+    "id": 572,
+    "marque": "HONDA",
+    "modele": "JAZZ"
+  },
+  {
+    "id": 573,
+    "marque": "HONDA",
+    "modele": "JAZZ IV"
+  },
+  {
+    "id": 574,
+    "marque": "HONDA",
+    "modele": "LEGEND"
+  },
+  {
+    "id": 575,
+    "marque": "HONDA",
+    "modele": "LOGO"
+  },
+  {
+    "id": 576,
+    "marque": "HONDA",
+    "modele": "N360"
+  },
+  {
+    "id": 577,
+    "marque": "HONDA",
+    "modele": "NSX"
+  },
+  {
+    "id": 578,
+    "marque": "HONDA",
+    "modele": "PRELUDE"
+  },
+  {
+    "id": 579,
+    "marque": "HONDA",
+    "modele": "QUINTET"
+  },
+  {
+    "id": 580,
+    "marque": "HONDA",
+    "modele": "S2000"
+  },
+  {
+    "id": 581,
+    "marque": "HONDA",
+    "modele": "SHUTTLE"
+  },
+  {
+    "id": 582,
+    "marque": "HONDA",
+    "modele": "STREAM"
+  },
+  {
+    "id": 583,
+    "marque": "HYUNDAI",
+    "modele": "ACCENT"
+  },
+  {
+    "id": 584,
+    "marque": "HYUNDAI",
+    "modele": "ATOS"
+  },
+  {
+    "id": 585,
+    "marque": "HYUNDAI",
+    "modele": "AZERA"
+  },
+  {
+    "id": 586,
+    "marque": "HYUNDAI",
+    "modele": "BAYON"
+  },
+  {
+    "id": 587,
+    "marque": "HYUNDAI",
+    "modele": "COUPE"
+  },
+  {
+    "id": 588,
+    "marque": "HYUNDAI",
+    "modele": "ELANTRA"
+  },
+  {
+    "id": 589,
+    "marque": "HYUNDAI",
+    "modele": "GALLOPER"
+  },
+  {
+    "id": 590,
+    "marque": "HYUNDAI",
+    "modele": "GENESIS"
+  },
+  {
+    "id": 591,
+    "marque": "HYUNDAI",
+    "modele": "GETZ"
+  },
+  {
+    "id": 592,
+    "marque": "HYUNDAI",
+    "modele": "H-1"
+  },
+  {
+    "id": 593,
+    "marque": "HYUNDAI",
+    "modele": "H100"
+  },
+  {
+    "id": 594,
+    "marque": "HYUNDAI",
+    "modele": "I10"
+  },
+  {
+    "id": 595,
+    "marque": "HYUNDAI",
+    "modele": "I10 III"
+  },
+  {
+    "id": 596,
+    "marque": "HYUNDAI",
+    "modele": "I20"
+  },
+  {
+    "id": 597,
+    "marque": "HYUNDAI",
+    "modele": "I20 III"
+  },
+  {
+    "id": 598,
+    "marque": "HYUNDAI",
+    "modele": "I30"
+  },
+  {
+    "id": 599,
+    "marque": "HYUNDAI",
+    "modele": "I40"
+  },
+  {
+    "id": 600,
+    "marque": "HYUNDAI",
+    "modele": "IONIQ"
+  },
+  {
+    "id": 601,
+    "marque": "HYUNDAI",
+    "modele": "IONIQ 5"
+  },
+  {
+    "id": 602,
+    "marque": "HYUNDAI",
+    "modele": "IX20"
+  },
+  {
+    "id": 603,
+    "marque": "HYUNDAI",
+    "modele": "IX35"
+  },
+  {
+    "id": 604,
+    "marque": "HYUNDAI",
+    "modele": "IX55"
+  },
+  {
+    "id": 605,
+    "marque": "HYUNDAI",
+    "modele": "KONA"
+  },
+  {
+    "id": 606,
+    "marque": "HYUNDAI",
+    "modele": "LANTRA"
+  },
+  {
+    "id": 607,
+    "marque": "HYUNDAI",
+    "modele": "MATRIX"
+  },
+  {
+    "id": 608,
+    "marque": "HYUNDAI",
+    "modele": "NEXO"
+  },
+  {
+    "id": 609,
+    "marque": "HYUNDAI",
+    "modele": "PONY"
+  },
+  {
+    "id": 610,
+    "marque": "HYUNDAI",
+    "modele": "SANTA FE"
+  },
+  {
+    "id": 611,
+    "marque": "HYUNDAI",
+    "modele": "SATELLITE"
+  },
+  {
+    "id": 612,
+    "marque": "HYUNDAI",
+    "modele": "SCOUPE"
+  },
+  {
+    "id": 613,
+    "marque": "HYUNDAI",
+    "modele": "SONATA"
+  },
+  {
+    "id": 614,
+    "marque": "HYUNDAI",
+    "modele": "TERRACAN"
+  },
+  {
+    "id": 615,
+    "marque": "HYUNDAI",
+    "modele": "TRAJET"
+  },
+  {
+    "id": 616,
+    "marque": "HYUNDAI",
+    "modele": "TUCSON"
+  },
+  {
+    "id": 617,
+    "marque": "HYUNDAI",
+    "modele": "TUCSON IV"
+  },
+  {
+    "id": 618,
+    "marque": "HYUNDAI",
+    "modele": "VELOSTER"
+  },
+  {
+    "id": 619,
+    "marque": "HYUNDAI",
+    "modele": "XG"
+  },
+  {
+    "id": 620,
+    "marque": "INFINITI",
+    "modele": "EX"
+  },
+  {
+    "id": 621,
+    "marque": "INFINITI",
+    "modele": "FX"
+  },
+  {
+    "id": 622,
+    "marque": "INFINITI",
+    "modele": "G"
+  },
+  {
+    "id": 623,
+    "marque": "INFINITI",
+    "modele": "M"
+  },
+  {
+    "id": 624,
+    "marque": "INFINITI",
+    "modele": "Q30"
+  },
+  {
+    "id": 625,
+    "marque": "INFINITI",
+    "modele": "Q50"
+  },
+  {
+    "id": 626,
+    "marque": "INFINITI",
+    "modele": "Q60"
+  },
+  {
+    "id": 627,
+    "marque": "INFINITI",
+    "modele": "Q70"
+  },
+  {
+    "id": 628,
+    "marque": "INFINITI",
+    "modele": "QX30"
+  },
+  {
+    "id": 629,
+    "marque": "INFINITI",
+    "modele": "QX50"
+  },
+  {
+    "id": 630,
+    "marque": "INFINITI",
+    "modele": "QX70"
+  },
+  {
+    "id": 631,
+    "marque": "INNOCENTI",
+    "modele": "1000"
+  },
+  {
+    "id": 632,
+    "marque": "INNOCENTI",
+    "modele": "1100"
+  },
+  {
+    "id": 633,
+    "marque": "INNOCENTI",
+    "modele": "2200"
+  },
+  {
+    "id": 634,
+    "marque": "INNOCENTI",
+    "modele": "500"
+  },
+  {
+    "id": 635,
+    "marque": "INNOCENTI",
+    "modele": "650"
+  },
+  {
+    "id": 636,
+    "marque": "INNOCENTI",
+    "modele": "90"
+  },
+  {
+    "id": 637,
+    "marque": "INNOCENTI",
+    "modele": "990"
+  },
+  {
+    "id": 638,
+    "marque": "INNOCENTI",
+    "modele": "DE TOMASO"
+  },
+  {
+    "id": 639,
+    "marque": "INNOCENTI",
+    "modele": "MINI"
+  },
+  {
+    "id": 640,
+    "marque": "INNOCENTI",
+    "modele": "MINIMATIC"
+  },
+  {
+    "id": 641,
+    "marque": "ISUZU",
+    "modele": "D-MAX"
+  },
+  {
+    "id": 642,
+    "marque": "ISUZU",
+    "modele": "D-MAX III"
+  },
+  {
+    "id": 643,
+    "marque": "ISUZU",
+    "modele": "SERIE N"
+  },
+  {
+    "id": 644,
+    "marque": "ISUZU",
+    "modele": "TROOPER"
+  },
+  {
+    "id": 645,
+    "marque": "IVECO",
+    "modele": "DAILY"
+  },
+  {
+    "id": 646,
+    "marque": "IVECO",
+    "modele": "MASSIF"
+  },
+  {
+    "id": 647,
+    "marque": "JAGUAR",
+    "modele": "420"
+  },
+  {
+    "id": 648,
+    "marque": "JAGUAR",
+    "modele": "E"
+  },
+  {
+    "id": 649,
+    "marque": "JAGUAR",
+    "modele": "E-PACE"
+  },
+  {
+    "id": 650,
+    "marque": "JAGUAR",
+    "modele": "F-PACE"
+  },
+  {
+    "id": 651,
+    "marque": "JAGUAR",
+    "modele": "F-TYPE"
+  },
+  {
+    "id": 652,
+    "marque": "JAGUAR",
+    "modele": "I-PACE"
+  },
+  {
+    "id": 653,
+    "marque": "JAGUAR",
+    "modele": "S-TYPE"
+  },
+  {
+    "id": 654,
+    "marque": "JAGUAR",
+    "modele": "SOVEREIGN"
+  },
+  {
+    "id": 655,
+    "marque": "JAGUAR",
+    "modele": "V12"
+  },
+  {
+    "id": 656,
+    "marque": "JAGUAR",
+    "modele": "X-TYPE"
+  },
+  {
+    "id": 657,
+    "marque": "JAGUAR",
+    "modele": "XE"
+  },
+  {
+    "id": 658,
+    "marque": "JAGUAR",
+    "modele": "XF"
+  },
+  {
+    "id": 659,
+    "marque": "JAGUAR",
+    "modele": "XJ"
+  },
+  {
+    "id": 660,
+    "marque": "JAGUAR",
+    "modele": "XJ6"
+  },
+  {
+    "id": 661,
+    "marque": "JAGUAR",
+    "modele": "XJ8"
+  },
+  {
+    "id": 662,
+    "marque": "JAGUAR",
+    "modele": "XJR"
+  },
+  {
+    "id": 663,
+    "marque": "JAGUAR",
+    "modele": "XJS"
+  },
+  {
+    "id": 664,
+    "marque": "JAGUAR",
+    "modele": "XJSC"
+  },
+  {
+    "id": 665,
+    "marque": "JAGUAR",
+    "modele": "XK"
+  },
+  {
+    "id": 666,
+    "marque": "JAGUAR",
+    "modele": "XK8"
+  },
+  {
+    "id": 667,
+    "marque": "JEEP",
+    "modele": "CHEROKEE"
+  },
+  {
+    "id": 668,
+    "marque": "JEEP",
+    "modele": "COMMANDER"
+  },
+  {
+    "id": 669,
+    "marque": "JEEP",
+    "modele": "COMPASS"
+  },
+  {
+    "id": 670,
+    "marque": "JEEP",
+    "modele": "GLADIATOR"
+  },
+  {
+    "id": 671,
+    "marque": "JEEP",
+    "modele": "GRAND CHEROKEE"
+  },
+  {
+    "id": 672,
+    "marque": "JEEP",
+    "modele": "GRAND CHEROKEE V"
+  },
+  {
+    "id": 673,
+    "marque": "JEEP",
+    "modele": "PATRIOT"
+  },
+  {
+    "id": 674,
+    "marque": "JEEP",
+    "modele": "RENEGADE"
+  },
+  {
+    "id": 675,
+    "marque": "JEEP",
+    "modele": "WRANGLER"
+  },
+  {
+    "id": 676,
+    "marque": "JEEP",
+    "modele": "WRANGLER IV"
+  },
+  {
+    "id": 677,
+    "marque": "KIA",
+    "modele": "BESTA"
+  },
+  {
+    "id": 678,
+    "marque": "KIA",
+    "modele": "CARENS"
+  },
+  {
+    "id": 679,
+    "marque": "KIA",
+    "modele": "CARNIVAL"
+  },
+  {
+    "id": 680,
+    "marque": "KIA",
+    "modele": "CEED"
+  },
+  {
+    "id": 681,
+    "marque": "KIA",
+    "modele": "CEED III"
+  },
+  {
+    "id": 682,
+    "marque": "KIA",
+    "modele": "CERATO"
+  },
+  {
+    "id": 683,
+    "marque": "KIA",
+    "modele": "CLARUS"
+  },
+  {
+    "id": 684,
+    "marque": "KIA",
+    "modele": "E-SOUL"
+  },
+  {
+    "id": 685,
+    "marque": "KIA",
+    "modele": "EV6"
+  },
+  {
+    "id": 686,
+    "marque": "KIA",
+    "modele": "MAGENTIS"
+  },
+  {
+    "id": 687,
+    "marque": "KIA",
+    "modele": "NIRO"
+  },
+  {
+    "id": 688,
+    "marque": "KIA",
+    "modele": "NIRO II"
+  },
+  {
+    "id": 689,
+    "marque": "KIA",
+    "modele": "OPIRUS"
+  },
+  {
+    "id": 690,
+    "marque": "KIA",
+    "modele": "OPTIMA"
+  },
+  {
+    "id": 691,
+    "marque": "KIA",
+    "modele": "PICANTO"
+  },
+  {
+    "id": 692,
+    "marque": "KIA",
+    "modele": "PREGIO"
+  },
+  {
+    "id": 693,
+    "marque": "KIA",
+    "modele": "PRIDE"
+  },
+  {
+    "id": 694,
+    "marque": "KIA",
+    "modele": "RIO"
+  },
+  {
+    "id": 695,
+    "marque": "KIA",
+    "modele": "SEPHIA"
+  },
+  {
+    "id": 696,
+    "marque": "KIA",
+    "modele": "SHUMA"
+  },
+  {
+    "id": 697,
+    "marque": "KIA",
+    "modele": "SORENTO"
+  },
+  {
+    "id": 698,
+    "marque": "KIA",
+    "modele": "SORENTO IV"
+  },
+  {
+    "id": 699,
+    "marque": "KIA",
+    "modele": "SOUL"
+  },
+  {
+    "id": 700,
+    "marque": "KIA",
+    "modele": "SPORTAGE"
+  },
+  {
+    "id": 701,
+    "marque": "KIA",
+    "modele": "SPORTAGE V"
+  },
+  {
+    "id": 702,
+    "marque": "KIA",
+    "modele": "STINGER"
+  },
+  {
+    "id": 703,
+    "marque": "KIA",
+    "modele": "STONIC"
+  },
+  {
+    "id": 704,
+    "marque": "KIA",
+    "modele": "VENGA"
+  },
+  {
+    "id": 705,
+    "marque": "LADA",
+    "modele": "110"
+  },
+  {
+    "id": 706,
+    "marque": "LADA",
+    "modele": "111"
+  },
+  {
+    "id": 707,
+    "marque": "LADA",
+    "modele": "1118"
+  },
+  {
+    "id": 708,
+    "marque": "LADA",
+    "modele": "112"
+  },
+  {
+    "id": 709,
+    "marque": "LADA",
+    "modele": "1200"
+  },
+  {
+    "id": 710,
+    "marque": "LADA",
+    "modele": "1300"
+  },
+  {
+    "id": 711,
+    "marque": "LADA",
+    "modele": "1500"
+  },
+  {
+    "id": 712,
+    "marque": "LADA",
+    "modele": "1600"
+  },
+  {
+    "id": 713,
+    "marque": "LADA",
+    "modele": "GRANTA"
+  },
+  {
+    "id": 714,
+    "marque": "LADA",
+    "modele": "KALINA"
+  },
+  {
+    "id": 715,
+    "marque": "LADA",
+    "modele": "KALINKA"
+  },
+  {
+    "id": 716,
+    "marque": "LADA",
+    "modele": "NIVA"
+  },
+  {
+    "id": 717,
+    "marque": "LADA",
+    "modele": "PRIORA"
+  },
+  {
+    "id": 718,
+    "marque": "LADA",
+    "modele": "SAGONA"
+  },
+  {
+    "id": 719,
+    "marque": "LADA",
+    "modele": "SAMARA"
+  },
+  {
+    "id": 720,
+    "marque": "LANCIA",
+    "modele": "BETA"
+  },
+  {
+    "id": 721,
+    "marque": "LANCIA",
+    "modele": "DEDRA"
+  },
+  {
+    "id": 722,
+    "marque": "LANCIA",
+    "modele": "DELTA"
+  },
+  {
+    "id": 723,
+    "marque": "LANCIA",
+    "modele": "FLAMINIA"
+  },
+  {
+    "id": 724,
+    "marque": "LANCIA",
+    "modele": "FLAVIA"
+  },
+  {
+    "id": 725,
+    "marque": "LANCIA",
+    "modele": "FULVIA"
+  },
+  {
+    "id": 726,
+    "marque": "LANCIA",
+    "modele": "GAMMA"
+  },
+  {
+    "id": 727,
+    "marque": "LANCIA",
+    "modele": "KAPPA"
+  },
+  {
+    "id": 728,
+    "marque": "LANCIA",
+    "modele": "LYBRA"
+  },
+  {
+    "id": 729,
+    "marque": "LANCIA",
+    "modele": "MUSA"
+  },
+  {
+    "id": 730,
+    "marque": "LANCIA",
+    "modele": "PHEDRA"
+  },
+  {
+    "id": 731,
+    "marque": "LANCIA",
+    "modele": "PRISMA"
+  },
+  {
+    "id": 732,
+    "marque": "LANCIA",
+    "modele": "THEMA"
+  },
+  {
+    "id": 733,
+    "marque": "LANCIA",
+    "modele": "THESIS"
+  },
+  {
+    "id": 734,
+    "marque": "LANCIA",
+    "modele": "TREVI"
+  },
+  {
+    "id": 735,
+    "marque": "LANCIA",
+    "modele": "VOYAGER"
+  },
+  {
+    "id": 736,
+    "marque": "LANCIA",
+    "modele": "Y"
+  },
+  {
+    "id": 737,
+    "marque": "LANCIA",
+    "modele": "Y10"
+  },
+  {
+    "id": 738,
+    "marque": "LANCIA",
+    "modele": "YPSILON"
+  },
+  {
+    "id": 739,
+    "marque": "LANCIA",
+    "modele": "ZETA"
+  },
+  {
+    "id": 740,
+    "marque": "LAND ROVER",
+    "modele": "110"
+  },
+  {
+    "id": 741,
+    "marque": "LAND ROVER",
+    "modele": "88"
+  },
+  {
+    "id": 742,
+    "marque": "LAND ROVER",
+    "modele": "90"
+  },
+  {
+    "id": 743,
+    "marque": "LAND ROVER",
+    "modele": "DEFENDER"
+  },
+  {
+    "id": 744,
+    "marque": "LAND ROVER",
+    "modele": "DEFENDER II"
+  },
+  {
+    "id": 745,
+    "marque": "LAND ROVER",
+    "modele": "DISCOVERY"
+  },
+  {
+    "id": 746,
+    "marque": "LAND ROVER",
+    "modele": "DISCOVERY SPORT"
+  },
+  {
+    "id": 747,
+    "marque": "LAND ROVER",
+    "modele": "EVOQUE"
+  },
+  {
+    "id": 748,
+    "marque": "LAND ROVER",
+    "modele": "EVOQUE II"
+  },
+  {
+    "id": 749,
+    "marque": "LAND ROVER",
+    "modele": "FREELANDER"
+  },
+  {
+    "id": 750,
+    "marque": "LAND ROVER",
+    "modele": "RANGE 4X4"
+  },
+  {
+    "id": 751,
+    "marque": "LAND ROVER",
+    "modele": "RANGE ROVER SPORT"
+  },
+  {
+    "id": 752,
+    "marque": "LAND ROVER",
+    "modele": "RANGE ROVER SPORT III"
+  },
+  {
+    "id": 753,
+    "marque": "LAND ROVER",
+    "modele": "RANGE ROVER V"
+  },
+  {
+    "id": 754,
+    "marque": "LAND ROVER",
+    "modele": "VELAR"
+  },
+  {
+    "id": 755,
+    "marque": "LDV",
+    "modele": "CONVOY"
+  },
+  {
+    "id": 756,
+    "marque": "LEXUS",
+    "modele": "CT"
+  },
+  {
+    "id": 757,
+    "marque": "LEXUS",
+    "modele": "ES"
+  },
+  {
+    "id": 758,
+    "marque": "LEXUS",
+    "modele": "GS"
+  },
+  {
+    "id": 759,
+    "marque": "LEXUS",
+    "modele": "IS"
+  },
+  {
+    "id": 760,
+    "marque": "LEXUS",
+    "modele": "IS SPORTCROSS"
+  },
+  {
+    "id": 761,
+    "marque": "LEXUS",
+    "modele": "LC"
+  },
+  {
+    "id": 762,
+    "marque": "LEXUS",
+    "modele": "LFA"
+  },
+  {
+    "id": 763,
+    "marque": "LEXUS",
+    "modele": "LS"
+  },
+  {
+    "id": 764,
+    "marque": "LEXUS",
+    "modele": "LS II"
+  },
+  {
+    "id": 765,
+    "marque": "LEXUS",
+    "modele": "NX"
+  },
+  {
+    "id": 766,
+    "marque": "LEXUS",
+    "modele": "NX II"
+  },
+  {
+    "id": 767,
+    "marque": "LEXUS",
+    "modele": "RC"
+  },
+  {
+    "id": 768,
+    "marque": "LEXUS",
+    "modele": "RX"
+  },
+  {
+    "id": 769,
+    "marque": "LEXUS",
+    "modele": "SC"
+  },
+  {
+    "id": 770,
+    "marque": "LEXUS",
+    "modele": "UX"
+  },
+  {
+    "id": 771,
+    "marque": "LOTUS",
+    "modele": "ELAN"
+  },
+  {
+    "id": 772,
+    "marque": "LOTUS",
+    "modele": "ELISE"
+  },
+  {
+    "id": 773,
+    "marque": "LOTUS",
+    "modele": "ESPRIT"
+  },
+  {
+    "id": 774,
+    "marque": "LOTUS",
+    "modele": "EUROPA"
+  },
+  {
+    "id": 775,
+    "marque": "LOTUS",
+    "modele": "EXIGE"
+  },
+  {
+    "id": 776,
+    "marque": "LOTUS",
+    "modele": "OMEGA"
+  },
+  {
+    "id": 777,
+    "marque": "LYNK&CO",
+    "modele": "01"
+  },
+  {
+    "id": 778,
+    "marque": "MAHINDRA",
+    "modele": "BOLERO"
+  },
+  {
+    "id": 779,
+    "marque": "MAHINDRA",
+    "modele": "CJ"
+  },
+  {
+    "id": 780,
+    "marque": "MAHINDRA",
+    "modele": "GOA"
+  },
+  {
+    "id": 781,
+    "marque": "MAN",
+    "modele": "TGE"
+  },
+  {
+    "id": 782,
+    "marque": "MARUTI",
+    "modele": "800"
+  },
+  {
+    "id": 783,
+    "marque": "MASERATI",
+    "modele": "COUPE"
+  },
+  {
+    "id": 784,
+    "marque": "MASERATI",
+    "modele": "GHIBLI"
+  },
+  {
+    "id": 785,
+    "marque": "MASERATI",
+    "modele": "GRANCABRIO"
+  },
+  {
+    "id": 786,
+    "marque": "MASERATI",
+    "modele": "GRANSPORT"
+  },
+  {
+    "id": 787,
+    "marque": "MASERATI",
+    "modele": "GRANTURISMO"
+  },
+  {
+    "id": 788,
+    "marque": "MASERATI",
+    "modele": "MC20"
+  },
+  {
+    "id": 789,
+    "marque": "MASERATI",
+    "modele": "QUATTROPORTE"
+  },
+  {
+    "id": 790,
+    "marque": "MATRA",
+    "modele": "BAGHEERA"
+  },
+  {
+    "id": 791,
+    "marque": "MATRA",
+    "modele": "M530"
+  },
+  {
+    "id": 792,
+    "marque": "MATRA",
+    "modele": "MURENA"
+  },
+  {
+    "id": 793,
+    "marque": "MATRA",
+    "modele": "RANCHO"
+  },
+  {
+    "id": 794,
+    "marque": "MAZDA",
+    "modele": "1000"
+  },
+  {
+    "id": 795,
+    "marque": "MAZDA",
+    "modele": "1200"
+  },
+  {
+    "id": 796,
+    "marque": "MAZDA",
+    "modele": "121"
+  },
+  {
+    "id": 797,
+    "marque": "MAZDA",
+    "modele": "1800"
+  },
+  {
+    "id": 798,
+    "marque": "MAZDA",
+    "modele": "323"
+  },
+  {
+    "id": 799,
+    "marque": "MAZDA",
+    "modele": "616"
+  },
+  {
+    "id": 800,
+    "marque": "MAZDA",
+    "modele": "626"
+  },
+  {
+    "id": 801,
+    "marque": "MAZDA",
+    "modele": "818"
+  },
+  {
+    "id": 802,
+    "marque": "MAZDA",
+    "modele": "929"
+  },
+  {
+    "id": 803,
+    "marque": "MAZDA",
+    "modele": "BONGO"
+  },
+  {
+    "id": 804,
+    "marque": "MAZDA",
+    "modele": "BT50"
+  },
+  {
+    "id": 805,
+    "marque": "MAZDA",
+    "modele": "CX-3"
+  },
+  {
+    "id": 806,
+    "marque": "MAZDA",
+    "modele": "CX-30"
+  },
+  {
+    "id": 807,
+    "marque": "MAZDA",
+    "modele": "CX-5"
+  },
+  {
+    "id": 808,
+    "marque": "MAZDA",
+    "modele": "CX-60"
+  },
+  {
+    "id": 809,
+    "marque": "MAZDA",
+    "modele": "CX-7"
+  },
+  {
+    "id": 810,
+    "marque": "MAZDA",
+    "modele": "DEMIO"
+  },
+  {
+    "id": 811,
+    "marque": "MAZDA",
+    "modele": "E2200"
+  },
+  {
+    "id": 812,
+    "marque": "MAZDA",
+    "modele": "MAZDA2"
+  },
+  {
+    "id": 813,
+    "marque": "MAZDA",
+    "modele": "MAZDA2 IV"
+  },
+  {
+    "id": 814,
+    "marque": "MAZDA",
+    "modele": "MAZDA3"
+  },
+  {
+    "id": 815,
+    "marque": "MAZDA",
+    "modele": "MAZDA3 IV"
+  },
+  {
+    "id": 816,
+    "marque": "MAZDA",
+    "modele": "MAZDA5"
+  },
+  {
+    "id": 817,
+    "marque": "MAZDA",
+    "modele": "MAZDA6"
+  },
+  {
+    "id": 818,
+    "marque": "MAZDA",
+    "modele": "MINIBUS"
+  },
+  {
+    "id": 819,
+    "marque": "MAZDA",
+    "modele": "MPV"
+  },
+  {
+    "id": 820,
+    "marque": "MAZDA",
+    "modele": "MX-30"
+  },
+  {
+    "id": 821,
+    "marque": "MAZDA",
+    "modele": "MX3"
+  },
+  {
+    "id": 822,
+    "marque": "MAZDA",
+    "modele": "MX5"
+  },
+  {
+    "id": 823,
+    "marque": "MAZDA",
+    "modele": "MX6"
+  },
+  {
+    "id": 824,
+    "marque": "MAZDA",
+    "modele": "PICK-UP"
+  },
+  {
+    "id": 825,
+    "marque": "MAZDA",
+    "modele": "PREMACY"
+  },
+  {
+    "id": 826,
+    "marque": "MAZDA",
+    "modele": "R100"
+  },
+  {
+    "id": 827,
+    "marque": "MAZDA",
+    "modele": "RX2"
+  },
+  {
+    "id": 828,
+    "marque": "MAZDA",
+    "modele": "RX3"
+  },
+  {
+    "id": 829,
+    "marque": "MAZDA",
+    "modele": "RX5"
+  },
+  {
+    "id": 830,
+    "marque": "MAZDA",
+    "modele": "RX7"
+  },
+  {
+    "id": 831,
+    "marque": "MAZDA",
+    "modele": "RX8"
+  },
+  {
+    "id": 832,
+    "marque": "MAZDA",
+    "modele": "T2500"
+  },
+  {
+    "id": 833,
+    "marque": "MAZDA",
+    "modele": "TRIBUTE"
+  },
+  {
+    "id": 834,
+    "marque": "MAZDA",
+    "modele": "XEDOS 6"
+  },
+  {
+    "id": 835,
+    "marque": "MAZDA",
+    "modele": "XEDOS 9"
+  },
+  {
+    "id": 836,
+    "marque": "MCC",
+    "modele": "SMART"
+  },
+  {
+    "id": 837,
+    "marque": "MEGA",
+    "modele": "CABRIOLET"
+  },
+  {
+    "id": 838,
+    "marque": "MEGA",
+    "modele": "CLUB"
+  },
+  {
+    "id": 839,
+    "marque": "MEGA",
+    "modele": "CONCEPT"
+  },
+  {
+    "id": 840,
+    "marque": "MEGA",
+    "modele": "FOURGON"
+  },
+  {
+    "id": 841,
+    "marque": "MEGA",
+    "modele": "RANCH"
+  },
+  {
+    "id": 842,
+    "marque": "MERCEDES",
+    "modele": "190"
+  },
+  {
+    "id": 843,
+    "marque": "MERCEDES",
+    "modele": "200"
+  },
+  {
+    "id": 844,
+    "marque": "MERCEDES",
+    "modele": "206"
+  },
+  {
+    "id": 845,
+    "marque": "MERCEDES",
+    "modele": "207"
+  },
+  {
+    "id": 846,
+    "marque": "MERCEDES",
+    "modele": "208"
+  },
+  {
+    "id": 847,
+    "marque": "MERCEDES",
+    "modele": "209"
+  },
+  {
+    "id": 848,
+    "marque": "MERCEDES",
+    "modele": "210"
+  },
+  {
+    "id": 849,
+    "marque": "MERCEDES",
+    "modele": "220"
+  },
+  {
+    "id": 850,
+    "marque": "MERCEDES",
+    "modele": "230"
+  },
+  {
+    "id": 851,
+    "marque": "MERCEDES",
+    "modele": "240"
+  },
+  {
+    "id": 852,
+    "marque": "MERCEDES",
+    "modele": "250"
+  },
+  {
+    "id": 853,
+    "marque": "MERCEDES",
+    "modele": "260"
+  },
+  {
+    "id": 854,
+    "marque": "MERCEDES",
+    "modele": "280"
+  },
+  {
+    "id": 855,
+    "marque": "MERCEDES",
+    "modele": "300"
+  },
+  {
+    "id": 856,
+    "marque": "MERCEDES",
+    "modele": "306"
+  },
+  {
+    "id": 857,
+    "marque": "MERCEDES",
+    "modele": "307"
+  },
+  {
+    "id": 858,
+    "marque": "MERCEDES",
+    "modele": "308"
+  },
+  {
+    "id": 859,
+    "marque": "MERCEDES",
+    "modele": "309"
+  },
+  {
+    "id": 860,
+    "marque": "MERCEDES",
+    "modele": "310"
+  },
+  {
+    "id": 861,
+    "marque": "MERCEDES",
+    "modele": "320"
+  },
+  {
+    "id": 862,
+    "marque": "MERCEDES",
+    "modele": "350"
+  },
+  {
+    "id": 863,
+    "marque": "MERCEDES",
+    "modele": "400"
+  },
+  {
+    "id": 864,
+    "marque": "MERCEDES",
+    "modele": "406"
+  },
+  {
+    "id": 865,
+    "marque": "MERCEDES",
+    "modele": "407"
+  },
+  {
+    "id": 866,
+    "marque": "MERCEDES",
+    "modele": "408"
+  },
+  {
+    "id": 867,
+    "marque": "MERCEDES",
+    "modele": "409"
+  },
+  {
+    "id": 868,
+    "marque": "MERCEDES",
+    "modele": "410"
+  },
+  {
+    "id": 869,
+    "marque": "MERCEDES",
+    "modele": "420"
+  },
+  {
+    "id": 870,
+    "marque": "MERCEDES",
+    "modele": "450"
+  },
+  {
+    "id": 871,
+    "marque": "MERCEDES",
+    "modele": "500"
+  },
+  {
+    "id": 872,
+    "marque": "MERCEDES",
+    "modele": "507"
+  },
+  {
+    "id": 873,
+    "marque": "MERCEDES",
+    "modele": "508"
+  },
+  {
+    "id": 874,
+    "marque": "MERCEDES",
+    "modele": "560"
+  },
+  {
+    "id": 875,
+    "marque": "MERCEDES",
+    "modele": "600"
+  },
+  {
+    "id": 876,
+    "marque": "MERCEDES",
+    "modele": "609"
+  },
+  {
+    "id": 877,
+    "marque": "MERCEDES",
+    "modele": "611"
+  },
+  {
+    "id": 878,
+    "marque": "MERCEDES",
+    "modele": "CITAN"
+  },
+  {
+    "id": 879,
+    "marque": "MERCEDES",
+    "modele": "CITAN II"
+  },
+  {
+    "id": 880,
+    "marque": "MERCEDES",
+    "modele": "CLASSE A"
+  },
+  {
+    "id": 881,
+    "marque": "MERCEDES",
+    "modele": "CLASSE A IV"
+  },
+  {
+    "id": 882,
+    "marque": "MERCEDES",
+    "modele": "CLASSE B"
+  },
+  {
+    "id": 883,
+    "marque": "MERCEDES",
+    "modele": "CLASSE B III"
+  },
+  {
+    "id": 884,
+    "marque": "MERCEDES",
+    "modele": "CLASSE C"
+  },
+  {
+    "id": 885,
+    "marque": "MERCEDES",
+    "modele": "CLASSE C III"
+  },
+  {
+    "id": 886,
+    "marque": "MERCEDES",
+    "modele": "CLASSE C IV"
+  },
+  {
+    "id": 887,
+    "marque": "MERCEDES",
+    "modele": "CLASSE C V"
+  },
+  {
+    "id": 888,
+    "marque": "MERCEDES",
+    "modele": "CLASSE CL"
+  },
+  {
+    "id": 889,
+    "marque": "MERCEDES",
+    "modele": "CLASSE CLA"
+  },
+  {
+    "id": 890,
+    "marque": "MERCEDES",
+    "modele": "CLASSE CLA II"
+  },
+  {
+    "id": 891,
+    "marque": "MERCEDES",
+    "modele": "CLASSE CLC"
+  },
+  {
+    "id": 892,
+    "marque": "MERCEDES",
+    "modele": "CLASSE CLK"
+  },
+  {
+    "id": 893,
+    "marque": "MERCEDES",
+    "modele": "CLASSE CLS"
+  },
+  {
+    "id": 894,
+    "marque": "MERCEDES",
+    "modele": "CLASSE E"
+  },
+  {
+    "id": 895,
+    "marque": "MERCEDES",
+    "modele": "CLASSE E IV"
+  },
+  {
+    "id": 896,
+    "marque": "MERCEDES",
+    "modele": "CLASSE E V"
+  },
+  {
+    "id": 897,
+    "marque": "MERCEDES",
+    "modele": "CLASSE EQA"
+  },
+  {
+    "id": 898,
+    "marque": "MERCEDES",
+    "modele": "CLASSE EQB"
+  },
+  {
+    "id": 899,
+    "marque": "MERCEDES",
+    "modele": "CLASSE EQC"
+  },
+  {
+    "id": 900,
+    "marque": "MERCEDES",
+    "modele": "CLASSE EQE"
+  },
+  {
+    "id": 901,
+    "marque": "MERCEDES",
+    "modele": "CLASSE EQS"
+  },
+  {
+    "id": 902,
+    "marque": "MERCEDES",
+    "modele": "CLASSE EQV"
+  },
+  {
+    "id": 903,
+    "marque": "MERCEDES",
+    "modele": "CLASSE G"
+  },
+  {
+    "id": 904,
+    "marque": "MERCEDES",
+    "modele": "CLASSE G II"
+  },
+  {
+    "id": 905,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GL"
+  },
+  {
+    "id": 906,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLA"
+  },
+  {
+    "id": 907,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLA II"
+  },
+  {
+    "id": 908,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLB"
+  },
+  {
+    "id": 909,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLC"
+  },
+  {
+    "id": 910,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLE"
+  },
+  {
+    "id": 911,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLE II"
+  },
+  {
+    "id": 912,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLK"
+  },
+  {
+    "id": 913,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLS"
+  },
+  {
+    "id": 914,
+    "marque": "MERCEDES",
+    "modele": "CLASSE GLS II"
+  },
+  {
+    "id": 915,
+    "marque": "MERCEDES",
+    "modele": "CLASSE M"
+  },
+  {
+    "id": 916,
+    "marque": "MERCEDES",
+    "modele": "CLASSE R"
+  },
+  {
+    "id": 917,
+    "marque": "MERCEDES",
+    "modele": "CLASSE S"
+  },
+  {
+    "id": 918,
+    "marque": "MERCEDES",
+    "modele": "CLASSE S V"
+  },
+  {
+    "id": 919,
+    "marque": "MERCEDES",
+    "modele": "CLASSE SL"
+  },
+  {
+    "id": 920,
+    "marque": "MERCEDES",
+    "modele": "CLASSE SLC"
+  },
+  {
+    "id": 921,
+    "marque": "MERCEDES",
+    "modele": "CLASSE SLK"
+  },
+  {
+    "id": 922,
+    "marque": "MERCEDES",
+    "modele": "CLASSE SLS"
+  },
+  {
+    "id": 923,
+    "marque": "MERCEDES",
+    "modele": "CLASSE V"
+  },
+  {
+    "id": 924,
+    "marque": "MERCEDES",
+    "modele": "CLASSE X"
+  },
+  {
+    "id": 925,
+    "marque": "MERCEDES",
+    "modele": "GT"
+  },
+  {
+    "id": 926,
+    "marque": "MERCEDES",
+    "modele": "MB100"
+  },
+  {
+    "id": 927,
+    "marque": "MERCEDES",
+    "modele": "SPRINTER"
+  },
+  {
+    "id": 928,
+    "marque": "MERCEDES",
+    "modele": "VANEO"
+  },
+  {
+    "id": 929,
+    "marque": "MERCEDES",
+    "modele": "VARIO PLUS"
+  },
+  {
+    "id": 930,
+    "marque": "MERCEDES",
+    "modele": "VIANO"
+  },
+  {
+    "id": 931,
+    "marque": "MERCEDES",
+    "modele": "VITO"
+  },
+  {
+    "id": 932,
+    "marque": "MG",
+    "modele": "EHS"
+  },
+  {
+    "id": 933,
+    "marque": "MG",
+    "modele": "F"
+  },
+  {
+    "id": 934,
+    "marque": "MG",
+    "modele": "MARVEL R"
+  },
+  {
+    "id": 935,
+    "marque": "MG",
+    "modele": "MG4"
+  },
+  {
+    "id": 936,
+    "marque": "MG",
+    "modele": "MG5"
+  },
+  {
+    "id": 937,
+    "marque": "MG",
+    "modele": "TF"
+  },
+  {
+    "id": 938,
+    "marque": "MG",
+    "modele": "ZR"
+  },
+  {
+    "id": 939,
+    "marque": "MG",
+    "modele": "ZS"
+  },
+  {
+    "id": 940,
+    "marque": "MG",
+    "modele": "ZS II"
+  },
+  {
+    "id": 941,
+    "marque": "MG",
+    "modele": "ZT"
+  },
+  {
+    "id": 942,
+    "marque": "MIA",
+    "modele": "ELECTRIC"
+  },
+  {
+    "id": 943,
+    "marque": "MINI",
+    "modele": "COUNTRYMAN"
+  },
+  {
+    "id": 944,
+    "marque": "MINI",
+    "modele": "MINI"
+  },
+  {
+    "id": 945,
+    "marque": "MINI",
+    "modele": "MINI CLUBMAN"
+  },
+  {
+    "id": 946,
+    "marque": "MINI",
+    "modele": "PACEMAN"
+  },
+  {
+    "id": 947,
+    "marque": "MITSUBISHI",
+    "modele": 3000
+  },
+  {
+    "id": 948,
+    "marque": "MITSUBISHI",
+    "modele": "ASX"
+  },
+  {
+    "id": 949,
+    "marque": "MITSUBISHI",
+    "modele": "CANTER"
+  },
+  {
+    "id": 950,
+    "marque": "MITSUBISHI",
+    "modele": "CARISMA"
+  },
+  {
+    "id": 951,
+    "marque": "MITSUBISHI",
+    "modele": "COLT"
+  },
+  {
+    "id": 952,
+    "marque": "MITSUBISHI",
+    "modele": "ECLIPSE CROSS"
+  },
+  {
+    "id": 953,
+    "marque": "MITSUBISHI",
+    "modele": "ESTATE"
+  },
+  {
+    "id": 954,
+    "marque": "MITSUBISHI",
+    "modele": "GALANT"
+  },
+  {
+    "id": 955,
+    "marque": "MITSUBISHI",
+    "modele": "GRANDIS"
+  },
+  {
+    "id": 956,
+    "marque": "MITSUBISHI",
+    "modele": "I-MIEV"
+  },
+  {
+    "id": 957,
+    "marque": "MITSUBISHI",
+    "modele": "L200"
+  },
+  {
+    "id": 958,
+    "marque": "MITSUBISHI",
+    "modele": "LANCER"
+  },
+  {
+    "id": 959,
+    "marque": "MITSUBISHI",
+    "modele": "MONTERO"
+  },
+  {
+    "id": 960,
+    "marque": "MITSUBISHI",
+    "modele": "OUTLANDER"
+  },
+  {
+    "id": 961,
+    "marque": "MITSUBISHI",
+    "modele": "PAJERO"
+  },
+  {
+    "id": 962,
+    "marque": "MITSUBISHI",
+    "modele": "SAPPORO"
+  },
+  {
+    "id": 963,
+    "marque": "MITSUBISHI",
+    "modele": "SPACE RUNNER"
+  },
+  {
+    "id": 964,
+    "marque": "MITSUBISHI",
+    "modele": "SPACE STAR"
+  },
+  {
+    "id": 965,
+    "marque": "MITSUBISHI",
+    "modele": "SPACE STAR II"
+  },
+  {
+    "id": 966,
+    "marque": "MITSUBISHI",
+    "modele": "SPACE WAGON"
+  },
+  {
+    "id": 967,
+    "marque": "MPM MOTORS",
+    "modele": "PS160"
+  },
+  {
+    "id": 968,
+    "marque": "NISSAN",
+    "modele": "100 NX"
+  },
+  {
+    "id": 969,
+    "marque": "NISSAN",
+    "modele": "200 SX"
+  },
+  {
+    "id": 970,
+    "marque": "NISSAN",
+    "modele": "300 ZX"
+  },
+  {
+    "id": 971,
+    "marque": "NISSAN",
+    "modele": "350 Z"
+  },
+  {
+    "id": 972,
+    "marque": "NISSAN",
+    "modele": "370 Z"
+  },
+  {
+    "id": 973,
+    "marque": "NISSAN",
+    "modele": "ALMERA"
+  },
+  {
+    "id": 974,
+    "marque": "NISSAN",
+    "modele": "ALMERA TINO"
+  },
+  {
+    "id": 975,
+    "marque": "NISSAN",
+    "modele": "ARIYA"
+  },
+  {
+    "id": 976,
+    "marque": "NISSAN",
+    "modele": "ATLEON"
+  },
+  {
+    "id": 977,
+    "marque": "NISSAN",
+    "modele": "BLUEBIRD"
+  },
+  {
+    "id": 978,
+    "marque": "NISSAN",
+    "modele": "CABSTAR"
+  },
+  {
+    "id": 979,
+    "marque": "NISSAN",
+    "modele": "CEDRIC"
+  },
+  {
+    "id": 980,
+    "marque": "NISSAN",
+    "modele": "CUBE"
+  },
+  {
+    "id": 981,
+    "marque": "NISSAN",
+    "modele": "ECO T100"
+  },
+  {
+    "id": 982,
+    "marque": "NISSAN",
+    "modele": "GT-R"
+  },
+  {
+    "id": 983,
+    "marque": "NISSAN",
+    "modele": "INTERSTAR"
+  },
+  {
+    "id": 984,
+    "marque": "NISSAN",
+    "modele": "INTERSTAR II"
+  },
+  {
+    "id": 985,
+    "marque": "NISSAN",
+    "modele": "JUKE"
+  },
+  {
+    "id": 986,
+    "marque": "NISSAN",
+    "modele": "JUKE II"
+  },
+  {
+    "id": 987,
+    "marque": "NISSAN",
+    "modele": "KING-CAB"
+  },
+  {
+    "id": 988,
+    "marque": "NISSAN",
+    "modele": "KUBISTAR"
+  },
+  {
+    "id": 989,
+    "marque": "NISSAN",
+    "modele": "L35"
+  },
+  {
+    "id": 990,
+    "marque": "NISSAN",
+    "modele": "LEAF"
+  },
+  {
+    "id": 991,
+    "marque": "NISSAN",
+    "modele": "MAXIMA"
+  },
+  {
+    "id": 992,
+    "marque": "NISSAN",
+    "modele": "MAXIMA QX"
+  },
+  {
+    "id": 993,
+    "marque": "NISSAN",
+    "modele": "MICRA"
+  },
+  {
+    "id": 994,
+    "marque": "NISSAN",
+    "modele": "MURANO"
+  },
+  {
+    "id": 995,
+    "marque": "NISSAN",
+    "modele": "NAVARA"
+  },
+  {
+    "id": 996,
+    "marque": "NISSAN",
+    "modele": "NOTE"
+  },
+  {
+    "id": 997,
+    "marque": "NISSAN",
+    "modele": "NP300"
+  },
+  {
+    "id": 998,
+    "marque": "NISSAN",
+    "modele": "NV200"
+  },
+  {
+    "id": 999,
+    "marque": "NISSAN",
+    "modele": "NV250"
+  },
+  {
+    "id": 1000,
+    "marque": "NISSAN",
+    "modele": "NV300"
+  },
+  {
+    "id": 1001,
+    "marque": "NISSAN",
+    "modele": "NV400"
+  },
+  {
+    "id": 1002,
+    "marque": "NISSAN",
+    "modele": "PATHFINDER"
+  },
+  {
+    "id": 1003,
+    "marque": "NISSAN",
+    "modele": "PATROL"
+  },
+  {
+    "id": 1004,
+    "marque": "NISSAN",
+    "modele": "PICK-UP"
+  },
+  {
+    "id": 1005,
+    "marque": "NISSAN",
+    "modele": "PIXO"
+  },
+  {
+    "id": 1006,
+    "marque": "NISSAN",
+    "modele": "PRAIRIE"
+  },
+  {
+    "id": 1007,
+    "marque": "NISSAN",
+    "modele": "PRIMASTAR"
+  },
+  {
+    "id": 1008,
+    "marque": "NISSAN",
+    "modele": "PRIMASTAR II"
+  },
+  {
+    "id": 1009,
+    "marque": "NISSAN",
+    "modele": "PRIMERA"
+  },
+  {
+    "id": 1010,
+    "marque": "NISSAN",
+    "modele": "PULSAR"
+  },
+  {
+    "id": 1011,
+    "marque": "NISSAN",
+    "modele": "QASHQAI"
+  },
+  {
+    "id": 1012,
+    "marque": "NISSAN",
+    "modele": "QASHQAI III"
+  },
+  {
+    "id": 1013,
+    "marque": "NISSAN",
+    "modele": "SERENA"
+  },
+  {
+    "id": 1014,
+    "marque": "NISSAN",
+    "modele": "SILVIA"
+  },
+  {
+    "id": 1015,
+    "marque": "NISSAN",
+    "modele": "STANZA"
+  },
+  {
+    "id": 1016,
+    "marque": "NISSAN",
+    "modele": "SUNNY"
+  },
+  {
+    "id": 1017,
+    "marque": "NISSAN",
+    "modele": "TERRANO"
+  },
+  {
+    "id": 1018,
+    "marque": "NISSAN",
+    "modele": "TERRANO II"
+  },
+  {
+    "id": 1019,
+    "marque": "NISSAN",
+    "modele": "TINO"
+  },
+  {
+    "id": 1020,
+    "marque": "NISSAN",
+    "modele": "TOWNSTAR"
+  },
+  {
+    "id": 1021,
+    "marque": "NISSAN",
+    "modele": "TRADE"
+  },
+  {
+    "id": 1022,
+    "marque": "NISSAN",
+    "modele": "URVAN"
+  },
+  {
+    "id": 1023,
+    "marque": "NISSAN",
+    "modele": "VANETTE"
+  },
+  {
+    "id": 1024,
+    "marque": "NISSAN",
+    "modele": "X-TRAIL"
+  },
+  {
+    "id": 1025,
+    "marque": "NISSAN",
+    "modele": "X-TRAIL IV"
+  },
+  {
+    "id": 1026,
+    "marque": "OPEL",
+    "modele": "ADAM"
+  },
+  {
+    "id": 1027,
+    "marque": "OPEL",
+    "modele": "ADMIRAL"
+  },
+  {
+    "id": 1028,
+    "marque": "OPEL",
+    "modele": "AGILA"
+  },
+  {
+    "id": 1029,
+    "marque": "OPEL",
+    "modele": "AMPERA"
+  },
+  {
+    "id": 1030,
+    "marque": "OPEL",
+    "modele": "ANTARA"
+  },
+  {
+    "id": 1031,
+    "marque": "OPEL",
+    "modele": "ASCONA"
+  },
+  {
+    "id": 1032,
+    "marque": "OPEL",
+    "modele": "ASTRA"
+  },
+  {
+    "id": 1033,
+    "marque": "OPEL",
+    "modele": "ASTRA VI"
+  },
+  {
+    "id": 1034,
+    "marque": "OPEL",
+    "modele": "CABRIO"
+  },
+  {
+    "id": 1035,
+    "marque": "OPEL",
+    "modele": "CALIBRA"
+  },
+  {
+    "id": 1036,
+    "marque": "OPEL",
+    "modele": "CAMPO"
+  },
+  {
+    "id": 1037,
+    "marque": "OPEL",
+    "modele": "CASCADA"
+  },
+  {
+    "id": 1038,
+    "marque": "OPEL",
+    "modele": "CITY"
+  },
+  {
+    "id": 1039,
+    "marque": "OPEL",
+    "modele": "COMBO"
+  },
+  {
+    "id": 1040,
+    "marque": "OPEL",
+    "modele": "COMBO III"
+  },
+  {
+    "id": 1041,
+    "marque": "OPEL",
+    "modele": "COMBO LIFE"
+  },
+  {
+    "id": 1042,
+    "marque": "OPEL",
+    "modele": "COMMODORE"
+  },
+  {
+    "id": 1043,
+    "marque": "OPEL",
+    "modele": "CORSA"
+  },
+  {
+    "id": 1044,
+    "marque": "OPEL",
+    "modele": "CORSA VI"
+  },
+  {
+    "id": 1045,
+    "marque": "OPEL",
+    "modele": "CORSAVAN"
+  },
+  {
+    "id": 1046,
+    "marque": "OPEL",
+    "modele": "CROSSLAND"
+  },
+  {
+    "id": 1047,
+    "marque": "OPEL",
+    "modele": "CROSSLAND X"
+  },
+  {
+    "id": 1048,
+    "marque": "OPEL",
+    "modele": "DIPLOMAT"
+  },
+  {
+    "id": 1049,
+    "marque": "OPEL",
+    "modele": "FRONTERA"
+  },
+  {
+    "id": 1050,
+    "marque": "OPEL",
+    "modele": "GRANDLAND"
+  },
+  {
+    "id": 1051,
+    "marque": "OPEL",
+    "modele": "GRANDLAND X"
+  },
+  {
+    "id": 1052,
+    "marque": "OPEL",
+    "modele": "GT"
+  },
+  {
+    "id": 1053,
+    "marque": "OPEL",
+    "modele": "INSIGNIA"
+  },
+  {
+    "id": 1054,
+    "marque": "OPEL",
+    "modele": "KADETT"
+  },
+  {
+    "id": 1055,
+    "marque": "OPEL",
+    "modele": "KAPITAN"
+  },
+  {
+    "id": 1056,
+    "marque": "OPEL",
+    "modele": "KARL"
+  },
+  {
+    "id": 1057,
+    "marque": "OPEL",
+    "modele": "MANTA"
+  },
+  {
+    "id": 1058,
+    "marque": "OPEL",
+    "modele": "MERIVA"
+  },
+  {
+    "id": 1059,
+    "marque": "OPEL",
+    "modele": "MOKKA"
+  },
+  {
+    "id": 1060,
+    "marque": "OPEL",
+    "modele": "MOKKA II"
+  },
+  {
+    "id": 1061,
+    "marque": "OPEL",
+    "modele": "MONTEREY"
+  },
+  {
+    "id": 1062,
+    "marque": "OPEL",
+    "modele": "MONZA"
+  },
+  {
+    "id": 1063,
+    "marque": "OPEL",
+    "modele": "MOVANO"
+  },
+  {
+    "id": 1064,
+    "marque": "OPEL",
+    "modele": "MOVANO III"
+  },
+  {
+    "id": 1065,
+    "marque": "OPEL",
+    "modele": "OMEGA"
+  },
+  {
+    "id": 1066,
+    "marque": "OPEL",
+    "modele": "REKORD"
+  },
+  {
+    "id": 1067,
+    "marque": "OPEL",
+    "modele": "SENATOR"
+  },
+  {
+    "id": 1068,
+    "marque": "OPEL",
+    "modele": "SIGNUM"
+  },
+  {
+    "id": 1069,
+    "marque": "OPEL",
+    "modele": "SINTRA"
+  },
+  {
+    "id": 1070,
+    "marque": "OPEL",
+    "modele": "SPEEDSTER"
+  },
+  {
+    "id": 1071,
+    "marque": "OPEL",
+    "modele": "TIGRA"
+  },
+  {
+    "id": 1072,
+    "marque": "OPEL",
+    "modele": "VECTRA"
+  },
+  {
+    "id": 1073,
+    "marque": "OPEL",
+    "modele": "VIVARO"
+  },
+  {
+    "id": 1074,
+    "marque": "OPEL",
+    "modele": "VIVARO III"
+  },
+  {
+    "id": 1075,
+    "marque": "OPEL",
+    "modele": "ZAFIRA"
+  },
+  {
+    "id": 1076,
+    "marque": "OPEL",
+    "modele": "ZAFIRA LIFE"
+  },
+  {
+    "id": 1077,
+    "marque": "PANHARD",
+    "modele": 24
+  },
+  {
+    "id": 1078,
+    "marque": "PANHARD",
+    "modele": "DYNA"
+  },
+  {
+    "id": 1079,
+    "marque": "PANHARD",
+    "modele": "PL"
+  },
+  {
+    "id": 1080,
+    "marque": "PEUGEOT",
+    "modele": 1007
+  },
+  {
+    "id": 1081,
+    "marque": "PEUGEOT",
+    "modele": 104
+  },
+  {
+    "id": 1082,
+    "marque": "PEUGEOT",
+    "modele": 106
+  },
+  {
+    "id": 1083,
+    "marque": "PEUGEOT",
+    "modele": 107
+  },
+  {
+    "id": 1084,
+    "marque": "PEUGEOT",
+    "modele": 108
+  },
+  {
+    "id": 1085,
+    "marque": "PEUGEOT",
+    "modele": 2008
+  },
+  {
+    "id": 1086,
+    "marque": "PEUGEOT",
+    "modele": "2008 II"
+  },
+  {
+    "id": 1087,
+    "marque": "PEUGEOT",
+    "modele": 203
+  },
+  {
+    "id": 1088,
+    "marque": "PEUGEOT",
+    "modele": 204
+  },
+  {
+    "id": 1089,
+    "marque": "PEUGEOT",
+    "modele": 205
+  },
+  {
+    "id": 1090,
+    "marque": "PEUGEOT",
+    "modele": 206
+  },
+  {
+    "id": 1091,
+    "marque": "PEUGEOT",
+    "modele": 207
+  },
+  {
+    "id": 1092,
+    "marque": "PEUGEOT",
+    "modele": 208
+  },
+  {
+    "id": 1093,
+    "marque": "PEUGEOT",
+    "modele": "208 II"
+  },
+  {
+    "id": 1094,
+    "marque": "PEUGEOT",
+    "modele": 3008
+  },
+  {
+    "id": 1095,
+    "marque": "PEUGEOT",
+    "modele": 304
+  },
+  {
+    "id": 1096,
+    "marque": "PEUGEOT",
+    "modele": 305
+  },
+  {
+    "id": 1097,
+    "marque": "PEUGEOT",
+    "modele": 306
+  },
+  {
+    "id": 1098,
+    "marque": "PEUGEOT",
+    "modele": 307
+  },
+  {
+    "id": 1099,
+    "marque": "PEUGEOT",
+    "modele": 308
+  },
+  {
+    "id": 1100,
+    "marque": "PEUGEOT",
+    "modele": "308 III"
+  },
+  {
+    "id": 1101,
+    "marque": "PEUGEOT",
+    "modele": 309
+  },
+  {
+    "id": 1102,
+    "marque": "PEUGEOT",
+    "modele": 4007
+  },
+  {
+    "id": 1103,
+    "marque": "PEUGEOT",
+    "modele": 4008
+  },
+  {
+    "id": 1104,
+    "marque": "PEUGEOT",
+    "modele": 403
+  },
+  {
+    "id": 1105,
+    "marque": "PEUGEOT",
+    "modele": 404
+  },
+  {
+    "id": 1106,
+    "marque": "PEUGEOT",
+    "modele": 405
+  },
+  {
+    "id": 1107,
+    "marque": "PEUGEOT",
+    "modele": 406
+  },
+  {
+    "id": 1108,
+    "marque": "PEUGEOT",
+    "modele": 407
+  },
+  {
+    "id": 1109,
+    "marque": "PEUGEOT",
+    "modele": 408
+  },
+  {
+    "id": 1110,
+    "marque": "PEUGEOT",
+    "modele": 5008
+  },
+  {
+    "id": 1111,
+    "marque": "PEUGEOT",
+    "modele": 504
+  },
+  {
+    "id": 1112,
+    "marque": "PEUGEOT",
+    "modele": 505
+  },
+  {
+    "id": 1113,
+    "marque": "PEUGEOT",
+    "modele": 508
+  },
+  {
+    "id": 1114,
+    "marque": "PEUGEOT",
+    "modele": "508 II"
+  },
+  {
+    "id": 1115,
+    "marque": "PEUGEOT",
+    "modele": 604
+  },
+  {
+    "id": 1116,
+    "marque": "PEUGEOT",
+    "modele": 605
+  },
+  {
+    "id": 1117,
+    "marque": "PEUGEOT",
+    "modele": 607
+  },
+  {
+    "id": 1118,
+    "marque": "PEUGEOT",
+    "modele": 806
+  },
+  {
+    "id": 1119,
+    "marque": "PEUGEOT",
+    "modele": 807
+  },
+  {
+    "id": 1120,
+    "marque": "PEUGEOT",
+    "modele": "BIPPER"
+  },
+  {
+    "id": 1121,
+    "marque": "PEUGEOT",
+    "modele": "BOXER"
+  },
+  {
+    "id": 1122,
+    "marque": "PEUGEOT",
+    "modele": "BOXER*"
+  },
+  {
+    "id": 1123,
+    "marque": "PEUGEOT",
+    "modele": "DANGEL 504"
+  },
+  {
+    "id": 1124,
+    "marque": "PEUGEOT",
+    "modele": "DANGEL 505"
+  },
+  {
+    "id": 1125,
+    "marque": "PEUGEOT",
+    "modele": "DANGEL J5"
+  },
+  {
+    "id": 1126,
+    "marque": "PEUGEOT",
+    "modele": "EXPERT"
+  },
+  {
+    "id": 1127,
+    "marque": "PEUGEOT",
+    "modele": "ION"
+  },
+  {
+    "id": 1128,
+    "marque": "PEUGEOT",
+    "modele": "J5"
+  },
+  {
+    "id": 1129,
+    "marque": "PEUGEOT",
+    "modele": "J5 COMBI"
+  },
+  {
+    "id": 1130,
+    "marque": "PEUGEOT",
+    "modele": "J7"
+  },
+  {
+    "id": 1131,
+    "marque": "PEUGEOT",
+    "modele": "J9"
+  },
+  {
+    "id": 1132,
+    "marque": "PEUGEOT",
+    "modele": "P4"
+  },
+  {
+    "id": 1133,
+    "marque": "PEUGEOT",
+    "modele": "PARTNER"
+  },
+  {
+    "id": 1134,
+    "marque": "PEUGEOT",
+    "modele": "PARTNER II"
+  },
+  {
+    "id": 1135,
+    "marque": "PEUGEOT",
+    "modele": "PARTNER III"
+  },
+  {
+    "id": 1136,
+    "marque": "PEUGEOT",
+    "modele": "RCZ"
+  },
+  {
+    "id": 1137,
+    "marque": "PEUGEOT",
+    "modele": "RIFTER"
+  },
+  {
+    "id": 1138,
+    "marque": "PEUGEOT",
+    "modele": "TRAVELLER"
+  },
+  {
+    "id": 1139,
+    "marque": "PIAGGIO",
+    "modele": "PORTER"
+  },
+  {
+    "id": 1140,
+    "marque": "PONTIAC",
+    "modele": "FIREBIRD"
+  },
+  {
+    "id": 1141,
+    "marque": "PONTIAC",
+    "modele": "TRANS SPORT"
+  },
+  {
+    "id": 1142,
+    "marque": "PORSCHE",
+    "modele": "718 BOXSTER"
+  },
+  {
+    "id": 1143,
+    "marque": "PORSCHE",
+    "modele": "718 CAYMAN"
+  },
+  {
+    "id": 1144,
+    "marque": "PORSCHE",
+    "modele": 911
+  },
+  {
+    "id": 1145,
+    "marque": "PORSCHE",
+    "modele": "911 VIII"
+  },
+  {
+    "id": 1146,
+    "marque": "PORSCHE",
+    "modele": 912
+  },
+  {
+    "id": 1147,
+    "marque": "PORSCHE",
+    "modele": 914
+  },
+  {
+    "id": 1148,
+    "marque": "PORSCHE",
+    "modele": 918
+  },
+  {
+    "id": 1149,
+    "marque": "PORSCHE",
+    "modele": 924
+  },
+  {
+    "id": 1150,
+    "marque": "PORSCHE",
+    "modele": 928
+  },
+  {
+    "id": 1151,
+    "marque": "PORSCHE",
+    "modele": 930
+  },
+  {
+    "id": 1152,
+    "marque": "PORSCHE",
+    "modele": 944
+  },
+  {
+    "id": 1153,
+    "marque": "PORSCHE",
+    "modele": 968
+  },
+  {
+    "id": 1154,
+    "marque": "PORSCHE",
+    "modele": "BOXSTER"
+  },
+  {
+    "id": 1155,
+    "marque": "PORSCHE",
+    "modele": "CAYENNE"
+  },
+  {
+    "id": 1156,
+    "marque": "PORSCHE",
+    "modele": "CAYMAN"
+  },
+  {
+    "id": 1157,
+    "marque": "PORSCHE",
+    "modele": "MACAN"
+  },
+  {
+    "id": 1158,
+    "marque": "PORSCHE",
+    "modele": "MACAN II"
+  },
+  {
+    "id": 1159,
+    "marque": "PORSCHE",
+    "modele": "PANAMERA"
+  },
+  {
+    "id": 1160,
+    "marque": "PORSCHE",
+    "modele": "TAYCAN"
+  },
+  {
+    "id": 1161,
+    "marque": "PROTON",
+    "modele": 313
+  },
+  {
+    "id": 1162,
+    "marque": "PROTON",
+    "modele": 315
+  },
+  {
+    "id": 1163,
+    "marque": "PROTON",
+    "modele": 413
+  },
+  {
+    "id": 1164,
+    "marque": "PROTON",
+    "modele": 415
+  },
+  {
+    "id": 1165,
+    "marque": "PROTON",
+    "modele": 416
+  },
+  {
+    "id": 1166,
+    "marque": "PROTON",
+    "modele": 418
+  },
+  {
+    "id": 1167,
+    "marque": "PROTON",
+    "modele": 420
+  },
+  {
+    "id": 1168,
+    "marque": "RENAULT",
+    "modele": "4CV"
+  },
+  {
+    "id": 1169,
+    "marque": "RENAULT",
+    "modele": "ALASKAN"
+  },
+  {
+    "id": 1170,
+    "marque": "RENAULT",
+    "modele": "ARKANA"
+  },
+  {
+    "id": 1171,
+    "marque": "RENAULT",
+    "modele": "AUSTRAL"
+  },
+  {
+    "id": 1172,
+    "marque": "RENAULT",
+    "modele": "AVANTIME"
+  },
+  {
+    "id": 1173,
+    "marque": "RENAULT",
+    "modele": "B110"
+  },
+  {
+    "id": 1174,
+    "marque": "RENAULT",
+    "modele": "B120"
+  },
+  {
+    "id": 1175,
+    "marque": "RENAULT",
+    "modele": "B70"
+  },
+  {
+    "id": 1176,
+    "marque": "RENAULT",
+    "modele": "B80"
+  },
+  {
+    "id": 1177,
+    "marque": "RENAULT",
+    "modele": "B90"
+  },
+  {
+    "id": 1178,
+    "marque": "RENAULT",
+    "modele": "CAPTUR"
+  },
+  {
+    "id": 1179,
+    "marque": "RENAULT",
+    "modele": "CAPTUR II"
+  },
+  {
+    "id": 1180,
+    "marque": "RENAULT",
+    "modele": "CARAVELLE"
+  },
+  {
+    "id": 1181,
+    "marque": "RENAULT",
+    "modele": "CHEROKEE"
+  },
+  {
+    "id": 1182,
+    "marque": "RENAULT",
+    "modele": "CLIO"
+  },
+  {
+    "id": 1183,
+    "marque": "RENAULT",
+    "modele": "CLIO III"
+  },
+  {
+    "id": 1184,
+    "marque": "RENAULT",
+    "modele": "CLIO III ESTATE"
+  },
+  {
+    "id": 1185,
+    "marque": "RENAULT",
+    "modele": "CLIO IV"
+  },
+  {
+    "id": 1186,
+    "marque": "RENAULT",
+    "modele": "CLIO IV ESTATE"
+  },
+  {
+    "id": 1187,
+    "marque": "RENAULT",
+    "modele": "CLIO V"
+  },
+  {
+    "id": 1188,
+    "marque": "RENAULT",
+    "modele": "DAUPHINE"
+  },
+  {
+    "id": 1189,
+    "marque": "RENAULT",
+    "modele": "DAUPHINOIS"
+  },
+  {
+    "id": 1190,
+    "marque": "RENAULT",
+    "modele": "ESPACE"
+  },
+  {
+    "id": 1191,
+    "marque": "RENAULT",
+    "modele": "ESPACE IV"
+  },
+  {
+    "id": 1192,
+    "marque": "RENAULT",
+    "modele": "ESPACE V"
+  },
+  {
+    "id": 1193,
+    "marque": "RENAULT",
+    "modele": "ESTAFETTE"
+  },
+  {
+    "id": 1194,
+    "marque": "RENAULT",
+    "modele": "EXPRESS"
+  },
+  {
+    "id": 1195,
+    "marque": "RENAULT",
+    "modele": "EXPRESS II"
+  },
+  {
+    "id": 1196,
+    "marque": "RENAULT",
+    "modele": "FLORIDE"
+  },
+  {
+    "id": 1197,
+    "marque": "RENAULT",
+    "modele": "FLUENCE"
+  },
+  {
+    "id": 1198,
+    "marque": "RENAULT",
+    "modele": "FREGATE"
+  },
+  {
+    "id": 1199,
+    "marque": "RENAULT",
+    "modele": "FUEGO"
+  },
+  {
+    "id": 1200,
+    "marque": "RENAULT",
+    "modele": "GRAND ESPACE"
+  },
+  {
+    "id": 1201,
+    "marque": "RENAULT",
+    "modele": "GRAND ESPACE IV"
+  },
+  {
+    "id": 1202,
+    "marque": "RENAULT",
+    "modele": "GRAND SCENIC"
+  },
+  {
+    "id": 1203,
+    "marque": "RENAULT",
+    "modele": "JEEP CJ7"
+  },
+  {
+    "id": 1204,
+    "marque": "RENAULT",
+    "modele": "JUVAQUATRE"
+  },
+  {
+    "id": 1205,
+    "marque": "RENAULT",
+    "modele": "KADJAR"
+  },
+  {
+    "id": 1206,
+    "marque": "RENAULT",
+    "modele": "KANGOO"
+  },
+  {
+    "id": 1207,
+    "marque": "RENAULT",
+    "modele": "KANGOO EXPRESS"
+  },
+  {
+    "id": 1208,
+    "marque": "RENAULT",
+    "modele": "KANGOO EXPRESS II"
+  },
+  {
+    "id": 1209,
+    "marque": "RENAULT",
+    "modele": "KANGOO II"
+  },
+  {
+    "id": 1210,
+    "marque": "RENAULT",
+    "modele": "KANGOO III"
+  },
+  {
+    "id": 1211,
+    "marque": "RENAULT",
+    "modele": "KOLEOS"
+  },
+  {
+    "id": 1212,
+    "marque": "RENAULT",
+    "modele": "LAGUNA"
+  },
+  {
+    "id": 1213,
+    "marque": "RENAULT",
+    "modele": "LAGUNA II"
+  },
+  {
+    "id": 1214,
+    "marque": "RENAULT",
+    "modele": "LAGUNA II ESTATE"
+  },
+  {
+    "id": 1215,
+    "marque": "RENAULT",
+    "modele": "LAGUNA III"
+  },
+  {
+    "id": 1216,
+    "marque": "RENAULT",
+    "modele": "LAGUNA III ESTATE"
+  },
+  {
+    "id": 1217,
+    "marque": "RENAULT",
+    "modele": "LAGUNA NEVADA"
+  },
+  {
+    "id": 1218,
+    "marque": "RENAULT",
+    "modele": "LATITUDE"
+  },
+  {
+    "id": 1219,
+    "marque": "RENAULT",
+    "modele": "MASCOTT"
+  },
+  {
+    "id": 1220,
+    "marque": "RENAULT",
+    "modele": "MASTER"
+  },
+  {
+    "id": 1221,
+    "marque": "RENAULT",
+    "modele": "MASTER III"
+  },
+  {
+    "id": 1222,
+    "marque": "RENAULT",
+    "modele": "MAXITY"
+  },
+  {
+    "id": 1223,
+    "marque": "RENAULT",
+    "modele": "MEGANE"
+  },
+  {
+    "id": 1224,
+    "marque": "RENAULT",
+    "modele": "MEGANE II"
+  },
+  {
+    "id": 1225,
+    "marque": "RENAULT",
+    "modele": "MEGANE II ESTATE"
+  },
+  {
+    "id": 1226,
+    "marque": "RENAULT",
+    "modele": "MEGANE III"
+  },
+  {
+    "id": 1227,
+    "marque": "RENAULT",
+    "modele": "MEGANE III ESTATE"
+  },
+  {
+    "id": 1228,
+    "marque": "RENAULT",
+    "modele": "MEGANE IV"
+  },
+  {
+    "id": 1229,
+    "marque": "RENAULT",
+    "modele": "MEGANE V"
+  },
+  {
+    "id": 1230,
+    "marque": "RENAULT",
+    "modele": "MESSENGER"
+  },
+  {
+    "id": 1231,
+    "marque": "RENAULT",
+    "modele": "MODUS"
+  },
+  {
+    "id": 1232,
+    "marque": "RENAULT",
+    "modele": "ONDINE"
+  },
+  {
+    "id": 1233,
+    "marque": "RENAULT",
+    "modele": "PRAIRIE"
+  },
+  {
+    "id": 1234,
+    "marque": "RENAULT",
+    "modele": "R10"
+  },
+  {
+    "id": 1235,
+    "marque": "RENAULT",
+    "modele": "R11"
+  },
+  {
+    "id": 1236,
+    "marque": "RENAULT",
+    "modele": "R12"
+  },
+  {
+    "id": 1237,
+    "marque": "RENAULT",
+    "modele": "R14"
+  },
+  {
+    "id": 1238,
+    "marque": "RENAULT",
+    "modele": "R15"
+  },
+  {
+    "id": 1239,
+    "marque": "RENAULT",
+    "modele": "R16"
+  },
+  {
+    "id": 1240,
+    "marque": "RENAULT",
+    "modele": "R17"
+  },
+  {
+    "id": 1241,
+    "marque": "RENAULT",
+    "modele": "R18"
+  },
+  {
+    "id": 1242,
+    "marque": "RENAULT",
+    "modele": "R19"
+  },
+  {
+    "id": 1243,
+    "marque": "RENAULT",
+    "modele": "R20"
+  },
+  {
+    "id": 1244,
+    "marque": "RENAULT",
+    "modele": "R21"
+  },
+  {
+    "id": 1245,
+    "marque": "RENAULT",
+    "modele": "R21 NEVADA"
+  },
+  {
+    "id": 1246,
+    "marque": "RENAULT",
+    "modele": "R25"
+  },
+  {
+    "id": 1247,
+    "marque": "RENAULT",
+    "modele": "R30"
+  },
+  {
+    "id": 1248,
+    "marque": "RENAULT",
+    "modele": "R4"
+  },
+  {
+    "id": 1249,
+    "marque": "RENAULT",
+    "modele": "R5"
+  },
+  {
+    "id": 1250,
+    "marque": "RENAULT",
+    "modele": "R6"
+  },
+  {
+    "id": 1251,
+    "marque": "RENAULT",
+    "modele": "R8"
+  },
+  {
+    "id": 1252,
+    "marque": "RENAULT",
+    "modele": "R9"
+  },
+  {
+    "id": 1253,
+    "marque": "RENAULT",
+    "modele": "RODEO"
+  },
+  {
+    "id": 1254,
+    "marque": "RENAULT",
+    "modele": "SAFRANE"
+  },
+  {
+    "id": 1255,
+    "marque": "RENAULT",
+    "modele": "SAVANE"
+  },
+  {
+    "id": 1256,
+    "marque": "RENAULT",
+    "modele": "SAVIEM"
+  },
+  {
+    "id": 1257,
+    "marque": "RENAULT",
+    "modele": "SCENIC"
+  },
+  {
+    "id": 1258,
+    "marque": "RENAULT",
+    "modele": "SCENIC II"
+  },
+  {
+    "id": 1259,
+    "marque": "RENAULT",
+    "modele": "SCENIC III"
+  },
+  {
+    "id": 1260,
+    "marque": "RENAULT",
+    "modele": "SCENIC IV"
+  },
+  {
+    "id": 1261,
+    "marque": "RENAULT",
+    "modele": "SPIDER"
+  },
+  {
+    "id": 1262,
+    "marque": "RENAULT",
+    "modele": "SUPERCINQ"
+  },
+  {
+    "id": 1263,
+    "marque": "RENAULT",
+    "modele": "TALISMAN"
+  },
+  {
+    "id": 1264,
+    "marque": "RENAULT",
+    "modele": "TRAFIC"
+  },
+  {
+    "id": 1265,
+    "marque": "RENAULT",
+    "modele": "TRAFIC III"
+  },
+  {
+    "id": 1266,
+    "marque": "RENAULT",
+    "modele": "TWINGO"
+  },
+  {
+    "id": 1267,
+    "marque": "RENAULT",
+    "modele": "TWINGO II"
+  },
+  {
+    "id": 1268,
+    "marque": "RENAULT",
+    "modele": "TWINGO III"
+  },
+  {
+    "id": 1269,
+    "marque": "RENAULT",
+    "modele": "VEL SATIS"
+  },
+  {
+    "id": 1270,
+    "marque": "RENAULT",
+    "modele": "WIND"
+  },
+  {
+    "id": 1271,
+    "marque": "RENAULT",
+    "modele": "WRANGLER"
+  },
+  {
+    "id": 1272,
+    "marque": "RENAULT",
+    "modele": "ZOE"
+  },
+  {
+    "id": 1273,
+    "marque": "ROVER",
+    "modele": 111
+  },
+  {
+    "id": 1274,
+    "marque": "ROVER",
+    "modele": 114
+  },
+  {
+    "id": 1275,
+    "marque": "ROVER",
+    "modele": 115
+  },
+  {
+    "id": 1276,
+    "marque": "ROVER",
+    "modele": 200
+  },
+  {
+    "id": 1277,
+    "marque": "ROVER",
+    "modele": 2000
+  },
+  {
+    "id": 1278,
+    "marque": "ROVER",
+    "modele": 213
+  },
+  {
+    "id": 1279,
+    "marque": "ROVER",
+    "modele": 214
+  },
+  {
+    "id": 1280,
+    "marque": "ROVER",
+    "modele": 216
+  },
+  {
+    "id": 1281,
+    "marque": "ROVER",
+    "modele": 218
+  },
+  {
+    "id": 1282,
+    "marque": "ROVER",
+    "modele": 220
+  },
+  {
+    "id": 1283,
+    "marque": "ROVER",
+    "modele": 2200
+  },
+  {
+    "id": 1284,
+    "marque": "ROVER",
+    "modele": 2300
+  },
+  {
+    "id": 1285,
+    "marque": "ROVER",
+    "modele": 2400
+  },
+  {
+    "id": 1286,
+    "marque": "ROVER",
+    "modele": 25
+  },
+  {
+    "id": 1287,
+    "marque": "ROVER",
+    "modele": 2600
+  },
+  {
+    "id": 1288,
+    "marque": "ROVER",
+    "modele": 3500
+  },
+  {
+    "id": 1289,
+    "marque": "ROVER",
+    "modele": 414
+  },
+  {
+    "id": 1290,
+    "marque": "ROVER",
+    "modele": 416
+  },
+  {
+    "id": 1291,
+    "marque": "ROVER",
+    "modele": 418
+  },
+  {
+    "id": 1292,
+    "marque": "ROVER",
+    "modele": 420
+  },
+  {
+    "id": 1293,
+    "marque": "ROVER",
+    "modele": 45
+  },
+  {
+    "id": 1294,
+    "marque": "ROVER",
+    "modele": 618
+  },
+  {
+    "id": 1295,
+    "marque": "ROVER",
+    "modele": 620
+  },
+  {
+    "id": 1296,
+    "marque": "ROVER",
+    "modele": 623
+  },
+  {
+    "id": 1297,
+    "marque": "ROVER",
+    "modele": 75
+  },
+  {
+    "id": 1298,
+    "marque": "ROVER",
+    "modele": 820
+  },
+  {
+    "id": 1299,
+    "marque": "ROVER",
+    "modele": 825
+  },
+  {
+    "id": 1300,
+    "marque": "ROVER",
+    "modele": 827
+  },
+  {
+    "id": 1301,
+    "marque": "ROVER",
+    "modele": "ESTATE"
+  },
+  {
+    "id": 1302,
+    "marque": "ROVER",
+    "modele": "FREIGHT"
+  },
+  {
+    "id": 1303,
+    "marque": "ROVER",
+    "modele": "STREETWISE"
+  },
+  {
+    "id": 1304,
+    "marque": "SAAB",
+    "modele": "9-3"
+  },
+  {
+    "id": 1305,
+    "marque": "SAAB",
+    "modele": "9-3 BERLINE DE SPORT"
+  },
+  {
+    "id": 1306,
+    "marque": "SAAB",
+    "modele": "9-3 SPORT HATCH"
+  },
+  {
+    "id": 1307,
+    "marque": "SAAB",
+    "modele": "9-3 X"
+  },
+  {
+    "id": 1308,
+    "marque": "SAAB",
+    "modele": "9-5"
+  },
+  {
+    "id": 1309,
+    "marque": "SAAB",
+    "modele": "9-5 ESTATE"
+  },
+  {
+    "id": 1310,
+    "marque": "SAAB",
+    "modele": 900
+  },
+  {
+    "id": 1311,
+    "marque": "SAAB",
+    "modele": 9000
+  },
+  {
+    "id": 1312,
+    "marque": "SANTANA",
+    "modele": "S300"
+  },
+  {
+    "id": 1313,
+    "marque": "SANTANA",
+    "modele": "S350"
+  },
+  {
+    "id": 1314,
+    "marque": "SANTANA",
+    "modele": "S410"
+  },
+  {
+    "id": 1315,
+    "marque": "SANTANA",
+    "modele": "S413"
+  },
+  {
+    "id": 1316,
+    "marque": "SANTANA",
+    "modele": "SAMURAI"
+  },
+  {
+    "id": 1317,
+    "marque": "SANTANA",
+    "modele": "VITARA"
+  },
+  {
+    "id": 1318,
+    "marque": "SEAT",
+    "modele": "ALHAMBRA"
+  },
+  {
+    "id": 1319,
+    "marque": "SEAT",
+    "modele": "ALTEA"
+  },
+  {
+    "id": 1320,
+    "marque": "SEAT",
+    "modele": "ALTEA  XL"
+  },
+  {
+    "id": 1321,
+    "marque": "SEAT",
+    "modele": "ARONA"
+  },
+  {
+    "id": 1322,
+    "marque": "SEAT",
+    "modele": "AROSA"
+  },
+  {
+    "id": 1323,
+    "marque": "SEAT",
+    "modele": "ATECA"
+  },
+  {
+    "id": 1324,
+    "marque": "SEAT",
+    "modele": "CORDOBA"
+  },
+  {
+    "id": 1325,
+    "marque": "SEAT",
+    "modele": "EXEO"
+  },
+  {
+    "id": 1326,
+    "marque": "SEAT",
+    "modele": "FURA"
+  },
+  {
+    "id": 1327,
+    "marque": "SEAT",
+    "modele": "IBIZA"
+  },
+  {
+    "id": 1328,
+    "marque": "SEAT",
+    "modele": "IBIZA*"
+  },
+  {
+    "id": 1329,
+    "marque": "SEAT",
+    "modele": "INCA"
+  },
+  {
+    "id": 1330,
+    "marque": "SEAT",
+    "modele": "LEON"
+  },
+  {
+    "id": 1331,
+    "marque": "SEAT",
+    "modele": "LEON IV"
+  },
+  {
+    "id": 1332,
+    "marque": "SEAT",
+    "modele": "MALAGA"
+  },
+  {
+    "id": 1333,
+    "marque": "SEAT",
+    "modele": "MARBELLA"
+  },
+  {
+    "id": 1334,
+    "marque": "SEAT",
+    "modele": "MII"
+  },
+  {
+    "id": 1335,
+    "marque": "SEAT",
+    "modele": "RONDA"
+  },
+  {
+    "id": 1336,
+    "marque": "SEAT",
+    "modele": "TARRACO"
+  },
+  {
+    "id": 1337,
+    "marque": "SEAT",
+    "modele": "TERRA"
+  },
+  {
+    "id": 1338,
+    "marque": "SEAT",
+    "modele": "TOLEDO"
+  },
+  {
+    "id": 1339,
+    "marque": "SERES DFSK",
+    "modele": "EC35"
+  },
+  {
+    "id": 1340,
+    "marque": "SERES DFSK",
+    "modele": "SERES 3"
+  },
+  {
+    "id": 1341,
+    "marque": "SKODA",
+    "modele": 1050
+  },
+  {
+    "id": 1342,
+    "marque": "SKODA",
+    "modele": 120
+  },
+  {
+    "id": 1343,
+    "marque": "SKODA",
+    "modele": 130
+  },
+  {
+    "id": 1344,
+    "marque": "SKODA",
+    "modele": "CITIGO"
+  },
+  {
+    "id": 1345,
+    "marque": "SKODA",
+    "modele": "ENYAQ"
+  },
+  {
+    "id": 1346,
+    "marque": "SKODA",
+    "modele": "FABIA"
+  },
+  {
+    "id": 1347,
+    "marque": "SKODA",
+    "modele": "FABIA IV"
+  },
+  {
+    "id": 1348,
+    "marque": "SKODA",
+    "modele": "FAVORIT"
+  },
+  {
+    "id": 1349,
+    "marque": "SKODA",
+    "modele": "FELICIA"
+  },
+  {
+    "id": 1350,
+    "marque": "SKODA",
+    "modele": "KAMIQ"
+  },
+  {
+    "id": 1351,
+    "marque": "SKODA",
+    "modele": "KAROQ"
+  },
+  {
+    "id": 1352,
+    "marque": "SKODA",
+    "modele": "KODIAQ"
+  },
+  {
+    "id": 1353,
+    "marque": "SKODA",
+    "modele": "OCTAVIA"
+  },
+  {
+    "id": 1354,
+    "marque": "SKODA",
+    "modele": "OCTAVIA IV"
+  },
+  {
+    "id": 1355,
+    "marque": "SKODA",
+    "modele": "RAPID"
+  },
+  {
+    "id": 1356,
+    "marque": "SKODA",
+    "modele": "ROOMSTER"
+  },
+  {
+    "id": 1357,
+    "marque": "SKODA",
+    "modele": "SCALA"
+  },
+  {
+    "id": 1358,
+    "marque": "SKODA",
+    "modele": "SUPERB"
+  },
+  {
+    "id": 1359,
+    "marque": "SKODA",
+    "modele": "YETI"
+  },
+  {
+    "id": 1360,
+    "marque": "SMART",
+    "modele": "CABRIO"
+  },
+  {
+    "id": 1361,
+    "marque": "SMART",
+    "modele": "CITY-COUPE"
+  },
+  {
+    "id": 1362,
+    "marque": "SMART",
+    "modele": "FORFOUR"
+  },
+  {
+    "id": 1363,
+    "marque": "SMART",
+    "modele": "FORTWO"
+  },
+  {
+    "id": 1364,
+    "marque": "SMART",
+    "modele": "FORTWO BUSINESS"
+  },
+  {
+    "id": 1365,
+    "marque": "SMART",
+    "modele": "FORTWO CABRIO"
+  },
+  {
+    "id": 1366,
+    "marque": "SMART",
+    "modele": "FORTWO COUPE"
+  },
+  {
+    "id": 1367,
+    "marque": "SMART",
+    "modele": "ROADSTER"
+  },
+  {
+    "id": 1368,
+    "marque": "SMART",
+    "modele": "ROADSTER-COUPE"
+  },
+  {
+    "id": 1369,
+    "marque": "SSANGYONG",
+    "modele": "ACTYON"
+  },
+  {
+    "id": 1370,
+    "marque": "SSANGYONG",
+    "modele": "FAMILY"
+  },
+  {
+    "id": 1371,
+    "marque": "SSANGYONG",
+    "modele": "KORANDO"
+  },
+  {
+    "id": 1372,
+    "marque": "SSANGYONG",
+    "modele": "KORANDO II"
+  },
+  {
+    "id": 1373,
+    "marque": "SSANGYONG",
+    "modele": "KYRON"
+  },
+  {
+    "id": 1374,
+    "marque": "SSANGYONG",
+    "modele": "MUSSO"
+  },
+  {
+    "id": 1375,
+    "marque": "SSANGYONG",
+    "modele": "REXTON"
+  },
+  {
+    "id": 1376,
+    "marque": "SSANGYONG",
+    "modele": "REXTON III"
+  },
+  {
+    "id": 1377,
+    "marque": "SSANGYONG",
+    "modele": "RODIUS"
+  },
+  {
+    "id": 1378,
+    "marque": "SSANGYONG",
+    "modele": "TIVOLI"
+  },
+  {
+    "id": 1379,
+    "marque": "SUBARU",
+    "modele": "B9 TRIBECA"
+  },
+  {
+    "id": 1380,
+    "marque": "SUBARU",
+    "modele": "BRZ"
+  },
+  {
+    "id": 1381,
+    "marque": "SUBARU",
+    "modele": "E12"
+  },
+  {
+    "id": 1382,
+    "marque": "SUBARU",
+    "modele": "FORESTER"
+  },
+  {
+    "id": 1383,
+    "marque": "SUBARU",
+    "modele": "FORESTER V"
+  },
+  {
+    "id": 1384,
+    "marque": "SUBARU",
+    "modele": "G3X JUSTY"
+  },
+  {
+    "id": 1385,
+    "marque": "SUBARU",
+    "modele": "IMPREZA"
+  },
+  {
+    "id": 1386,
+    "marque": "SUBARU",
+    "modele": "IMPREZA V"
+  },
+  {
+    "id": 1387,
+    "marque": "SUBARU",
+    "modele": "JUSTY"
+  },
+  {
+    "id": 1388,
+    "marque": "SUBARU",
+    "modele": "LEGACY"
+  },
+  {
+    "id": 1389,
+    "marque": "SUBARU",
+    "modele": "LEVORG"
+  },
+  {
+    "id": 1390,
+    "marque": "SUBARU",
+    "modele": "OUTBACK"
+  },
+  {
+    "id": 1391,
+    "marque": "SUBARU",
+    "modele": "OUTBACK VI"
+  },
+  {
+    "id": 1392,
+    "marque": "SUBARU",
+    "modele": "SVX"
+  },
+  {
+    "id": 1393,
+    "marque": "SUBARU",
+    "modele": "TREZIA"
+  },
+  {
+    "id": 1394,
+    "marque": "SUBARU",
+    "modele": "VIVIO"
+  },
+  {
+    "id": 1395,
+    "marque": "SUBARU",
+    "modele": "XV"
+  },
+  {
+    "id": 1396,
+    "marque": "SUBARU",
+    "modele": "XV II"
+  },
+  {
+    "id": 1397,
+    "marque": "SUNBEAM",
+    "modele": 1000
+  },
+  {
+    "id": 1398,
+    "marque": "SUNBEAM",
+    "modele": 1250
+  },
+  {
+    "id": 1399,
+    "marque": "SUNBEAM",
+    "modele": 1300
+  },
+  {
+    "id": 1400,
+    "marque": "SUNBEAM",
+    "modele": 1500
+  },
+  {
+    "id": 1401,
+    "marque": "SUNBEAM",
+    "modele": 1600
+  },
+  {
+    "id": 1402,
+    "marque": "SUNBEAM",
+    "modele": 1725
+  },
+  {
+    "id": 1403,
+    "marque": "SUNBEAM",
+    "modele": "AVENGER"
+  },
+  {
+    "id": 1404,
+    "marque": "SUNBEAM",
+    "modele": "LOTUS"
+  },
+  {
+    "id": 1405,
+    "marque": "SUNBEAM",
+    "modele": "TI"
+  },
+  {
+    "id": 1406,
+    "marque": "SUZUKI",
+    "modele": "ACROSS"
+  },
+  {
+    "id": 1407,
+    "marque": "SUZUKI",
+    "modele": "ALTO"
+  },
+  {
+    "id": 1408,
+    "marque": "SUZUKI",
+    "modele": "BALENO"
+  },
+  {
+    "id": 1409,
+    "marque": "SUZUKI",
+    "modele": "CELERIO"
+  },
+  {
+    "id": 1410,
+    "marque": "SUZUKI",
+    "modele": "GRAND VITARA"
+  },
+  {
+    "id": 1411,
+    "marque": "SUZUKI",
+    "modele": "IGNIS"
+  },
+  {
+    "id": 1412,
+    "marque": "SUZUKI",
+    "modele": "JIMNY"
+  },
+  {
+    "id": 1413,
+    "marque": "SUZUKI",
+    "modele": "JIMNY II"
+  },
+  {
+    "id": 1414,
+    "marque": "SUZUKI",
+    "modele": "KIZASHI"
+  },
+  {
+    "id": 1415,
+    "marque": "SUZUKI",
+    "modele": "LIANA"
+  },
+  {
+    "id": 1416,
+    "marque": "SUZUKI",
+    "modele": "S-CROSS"
+  },
+  {
+    "id": 1417,
+    "marque": "SUZUKI",
+    "modele": "S-CROSS II"
+  },
+  {
+    "id": 1418,
+    "marque": "SUZUKI",
+    "modele": "SAMURAI"
+  },
+  {
+    "id": 1419,
+    "marque": "SUZUKI",
+    "modele": "SPLASH"
+  },
+  {
+    "id": 1420,
+    "marque": "SUZUKI",
+    "modele": "SUPERCARRY"
+  },
+  {
+    "id": 1421,
+    "marque": "SUZUKI",
+    "modele": "SWACE"
+  },
+  {
+    "id": 1422,
+    "marque": "SUZUKI",
+    "modele": "SWIFT"
+  },
+  {
+    "id": 1423,
+    "marque": "SUZUKI",
+    "modele": "SX4"
+  },
+  {
+    "id": 1424,
+    "marque": "SUZUKI",
+    "modele": "VITARA"
+  },
+  {
+    "id": 1425,
+    "marque": "SUZUKI",
+    "modele": "WAGON R+"
+  },
+  {
+    "id": 1426,
+    "marque": "SUZUKI",
+    "modele": "X90"
+  },
+  {
+    "id": 1427,
+    "marque": "TALBOT",
+    "modele": 1000
+  },
+  {
+    "id": 1428,
+    "marque": "TALBOT",
+    "modele": 1005
+  },
+  {
+    "id": 1429,
+    "marque": "TALBOT",
+    "modele": 1006
+  },
+  {
+    "id": 1430,
+    "marque": "TALBOT",
+    "modele": 1100
+  },
+  {
+    "id": 1431,
+    "marque": "TALBOT",
+    "modele": 1300
+  },
+  {
+    "id": 1432,
+    "marque": "TALBOT",
+    "modele": 1301
+  },
+  {
+    "id": 1433,
+    "marque": "TALBOT",
+    "modele": 1307
+  },
+  {
+    "id": 1434,
+    "marque": "TALBOT",
+    "modele": 1308
+  },
+  {
+    "id": 1435,
+    "marque": "TALBOT",
+    "modele": 1309
+  },
+  {
+    "id": 1436,
+    "marque": "TALBOT",
+    "modele": 1500
+  },
+  {
+    "id": 1437,
+    "marque": "TALBOT",
+    "modele": 1501
+  },
+  {
+    "id": 1438,
+    "marque": "TALBOT",
+    "modele": 1510
+  },
+  {
+    "id": 1439,
+    "marque": "TALBOT",
+    "modele": 160
+  },
+  {
+    "id": 1440,
+    "marque": "TALBOT",
+    "modele": 1610
+  },
+  {
+    "id": 1441,
+    "marque": "TALBOT",
+    "modele": "2L"
+  },
+  {
+    "id": 1442,
+    "marque": "TALBOT",
+    "modele": "ARONDE"
+  },
+  {
+    "id": 1443,
+    "marque": "TALBOT",
+    "modele": "HORIZON"
+  },
+  {
+    "id": 1444,
+    "marque": "TALBOT",
+    "modele": "SAMBA"
+  },
+  {
+    "id": 1445,
+    "marque": "TALBOT",
+    "modele": "SIM QUATRE"
+  },
+  {
+    "id": 1446,
+    "marque": "TALBOT",
+    "modele": "SOLARA"
+  },
+  {
+    "id": 1447,
+    "marque": "TALBOT",
+    "modele": "TAGORA"
+  },
+  {
+    "id": 1448,
+    "marque": "TATA",
+    "modele": "TELCOLINE"
+  },
+  {
+    "id": 1449,
+    "marque": "TATA",
+    "modele": "TELCOSPORT"
+  },
+  {
+    "id": 1450,
+    "marque": "TESLA",
+    "modele": "MODEL 3"
+  },
+  {
+    "id": 1451,
+    "marque": "TESLA",
+    "modele": "MODEL S"
+  },
+  {
+    "id": 1452,
+    "marque": "TESLA",
+    "modele": "MODEL X"
+  },
+  {
+    "id": 1453,
+    "marque": "TESLA",
+    "modele": "MODEL Y"
+  },
+  {
+    "id": 1454,
+    "marque": "THINK",
+    "modele": "CITY"
+  },
+  {
+    "id": 1455,
+    "marque": "TOYOTA",
+    "modele": "AURIS"
+  },
+  {
+    "id": 1456,
+    "marque": "TOYOTA",
+    "modele": "AVENSIS"
+  },
+  {
+    "id": 1457,
+    "marque": "TOYOTA",
+    "modele": "AYGO"
+  },
+  {
+    "id": 1458,
+    "marque": "TOYOTA",
+    "modele": "AYGO X"
+  },
+  {
+    "id": 1459,
+    "marque": "TOYOTA",
+    "modele": "C-HR"
+  },
+  {
+    "id": 1460,
+    "marque": "TOYOTA",
+    "modele": "CAMRY"
+  },
+  {
+    "id": 1461,
+    "marque": "TOYOTA",
+    "modele": "CAMRY II"
+  },
+  {
+    "id": 1462,
+    "marque": "TOYOTA",
+    "modele": "CARINA"
+  },
+  {
+    "id": 1463,
+    "marque": "TOYOTA",
+    "modele": "CARINA E"
+  },
+  {
+    "id": 1464,
+    "marque": "TOYOTA",
+    "modele": "CARINA II"
+  },
+  {
+    "id": 1465,
+    "marque": "TOYOTA",
+    "modele": "CELICA"
+  },
+  {
+    "id": 1466,
+    "marque": "TOYOTA",
+    "modele": "COROLLA"
+  },
+  {
+    "id": 1467,
+    "marque": "TOYOTA",
+    "modele": "COROLLA VERSO"
+  },
+  {
+    "id": 1468,
+    "marque": "TOYOTA",
+    "modele": "COROLLA X"
+  },
+  {
+    "id": 1469,
+    "marque": "TOYOTA",
+    "modele": "CORONA"
+  },
+  {
+    "id": 1470,
+    "marque": "TOYOTA",
+    "modele": "CRESSIDA"
+  },
+  {
+    "id": 1471,
+    "marque": "TOYOTA",
+    "modele": "CROWN"
+  },
+  {
+    "id": 1472,
+    "marque": "TOYOTA",
+    "modele": "DYNA"
+  },
+  {
+    "id": 1473,
+    "marque": "TOYOTA",
+    "modele": "FUNCRUISER"
+  },
+  {
+    "id": 1474,
+    "marque": "TOYOTA",
+    "modele": "GR86"
+  },
+  {
+    "id": 1475,
+    "marque": "TOYOTA",
+    "modele": "GT86"
+  },
+  {
+    "id": 1476,
+    "marque": "TOYOTA",
+    "modele": "HI-ACE"
+  },
+  {
+    "id": 1477,
+    "marque": "TOYOTA",
+    "modele": "HI-LUX"
+  },
+  {
+    "id": 1478,
+    "marque": "TOYOTA",
+    "modele": "HIGHLANDER"
+  },
+  {
+    "id": 1479,
+    "marque": "TOYOTA",
+    "modele": "IQ"
+  },
+  {
+    "id": 1480,
+    "marque": "TOYOTA",
+    "modele": "LANDCRUISER"
+  },
+  {
+    "id": 1481,
+    "marque": "TOYOTA",
+    "modele": "LEXUS"
+  },
+  {
+    "id": 1482,
+    "marque": "TOYOTA",
+    "modele": "LITE ACE"
+  },
+  {
+    "id": 1483,
+    "marque": "TOYOTA",
+    "modele": "MIRAI"
+  },
+  {
+    "id": 1484,
+    "marque": "TOYOTA",
+    "modele": "MIRAI II"
+  },
+  {
+    "id": 1485,
+    "marque": "TOYOTA",
+    "modele": "MODELE F"
+  },
+  {
+    "id": 1486,
+    "marque": "TOYOTA",
+    "modele": "MR"
+  },
+  {
+    "id": 1487,
+    "marque": "TOYOTA",
+    "modele": "PASEO"
+  },
+  {
+    "id": 1488,
+    "marque": "TOYOTA",
+    "modele": "PICNIC"
+  },
+  {
+    "id": 1489,
+    "marque": "TOYOTA",
+    "modele": "PREVIA"
+  },
+  {
+    "id": 1490,
+    "marque": "TOYOTA",
+    "modele": "PRIUS"
+  },
+  {
+    "id": 1491,
+    "marque": "TOYOTA",
+    "modele": "PROACE"
+  },
+  {
+    "id": 1492,
+    "marque": "TOYOTA",
+    "modele": "PROACE CITY"
+  },
+  {
+    "id": 1493,
+    "marque": "TOYOTA",
+    "modele": "RAV4"
+  },
+  {
+    "id": 1494,
+    "marque": "TOYOTA",
+    "modele": "RAV4 III"
+  },
+  {
+    "id": 1495,
+    "marque": "TOYOTA",
+    "modele": "RAV4 IV"
+  },
+  {
+    "id": 1496,
+    "marque": "TOYOTA",
+    "modele": "RAV4 V"
+  },
+  {
+    "id": 1497,
+    "marque": "TOYOTA",
+    "modele": "RUNNER"
+  },
+  {
+    "id": 1498,
+    "marque": "TOYOTA",
+    "modele": "STARLET"
+  },
+  {
+    "id": 1499,
+    "marque": "TOYOTA",
+    "modele": "SUPRA"
+  },
+  {
+    "id": 1500,
+    "marque": "TOYOTA",
+    "modele": "SUPRA V"
+  },
+  {
+    "id": 1501,
+    "marque": "TOYOTA",
+    "modele": "TERCEL"
+  },
+  {
+    "id": 1502,
+    "marque": "TOYOTA",
+    "modele": "URBAN CRUISER"
+  },
+  {
+    "id": 1503,
+    "marque": "TOYOTA",
+    "modele": "VERSO"
+  },
+  {
+    "id": 1504,
+    "marque": "TOYOTA",
+    "modele": "VERSO-S"
+  },
+  {
+    "id": 1505,
+    "marque": "TOYOTA",
+    "modele": "YARIS"
+  },
+  {
+    "id": 1506,
+    "marque": "TOYOTA",
+    "modele": "YARIS CROSS"
+  },
+  {
+    "id": 1507,
+    "marque": "TOYOTA",
+    "modele": "YARIS II"
+  },
+  {
+    "id": 1508,
+    "marque": "TOYOTA",
+    "modele": "YARIS III"
+  },
+  {
+    "id": 1509,
+    "marque": "TOYOTA",
+    "modele": "YARIS IV"
+  },
+  {
+    "id": 1510,
+    "marque": "TRIUMPH",
+    "modele": 1300
+  },
+  {
+    "id": 1511,
+    "marque": "TRIUMPH",
+    "modele": 2000
+  },
+  {
+    "id": 1512,
+    "marque": "TRIUMPH",
+    "modele": 2500
+  },
+  {
+    "id": 1513,
+    "marque": "TRIUMPH",
+    "modele": "ACCLAIM"
+  },
+  {
+    "id": 1514,
+    "marque": "TRIUMPH",
+    "modele": "DOLOMITE"
+  },
+  {
+    "id": 1515,
+    "marque": "TRIUMPH",
+    "modele": "HERALD"
+  },
+  {
+    "id": 1516,
+    "marque": "TRIUMPH",
+    "modele": "SPITFIRE"
+  },
+  {
+    "id": 1517,
+    "marque": "TRIUMPH",
+    "modele": "STAG"
+  },
+  {
+    "id": 1518,
+    "marque": "TRIUMPH",
+    "modele": "TOLEDO"
+  },
+  {
+    "id": 1519,
+    "marque": "TRIUMPH",
+    "modele": "TR"
+  },
+  {
+    "id": 1520,
+    "marque": "TRIUMPH",
+    "modele": "TR4"
+  },
+  {
+    "id": 1521,
+    "marque": "TRIUMPH",
+    "modele": "TR6"
+  },
+  {
+    "id": 1522,
+    "marque": "UMM",
+    "modele": "ALTER"
+  },
+  {
+    "id": 1523,
+    "marque": "VOLKSWAGEN",
+    "modele": "1,6L"
+  },
+  {
+    "id": 1524,
+    "marque": "VOLKSWAGEN",
+    "modele": 1600
+  },
+  {
+    "id": 1525,
+    "marque": "VOLKSWAGEN",
+    "modele": 181
+  },
+  {
+    "id": 1526,
+    "marque": "VOLKSWAGEN",
+    "modele": 183
+  },
+  {
+    "id": 1527,
+    "marque": "VOLKSWAGEN",
+    "modele": 411
+  },
+  {
+    "id": 1528,
+    "marque": "VOLKSWAGEN",
+    "modele": 412
+  },
+  {
+    "id": 1529,
+    "marque": "VOLKSWAGEN",
+    "modele": "AMAROK"
+  },
+  {
+    "id": 1530,
+    "marque": "VOLKSWAGEN",
+    "modele": "ARTEON"
+  },
+  {
+    "id": 1531,
+    "marque": "VOLKSWAGEN",
+    "modele": "BORA"
+  },
+  {
+    "id": 1532,
+    "marque": "VOLKSWAGEN",
+    "modele": "CADDY"
+  },
+  {
+    "id": 1533,
+    "marque": "VOLKSWAGEN",
+    "modele": "CADDY V"
+  },
+  {
+    "id": 1534,
+    "marque": "VOLKSWAGEN",
+    "modele": "COCCINELLE"
+  },
+  {
+    "id": 1535,
+    "marque": "VOLKSWAGEN",
+    "modele": "CORRADO"
+  },
+  {
+    "id": 1536,
+    "marque": "VOLKSWAGEN",
+    "modele": "CRAFTER"
+  },
+  {
+    "id": 1537,
+    "marque": "VOLKSWAGEN",
+    "modele": "EOS"
+  },
+  {
+    "id": 1538,
+    "marque": "VOLKSWAGEN",
+    "modele": "FOX"
+  },
+  {
+    "id": 1539,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF"
+  },
+  {
+    "id": 1540,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF III"
+  },
+  {
+    "id": 1541,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF IV"
+  },
+  {
+    "id": 1542,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF PLUS"
+  },
+  {
+    "id": 1543,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF SPORTSVAN"
+  },
+  {
+    "id": 1544,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF V"
+  },
+  {
+    "id": 1545,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF VI"
+  },
+  {
+    "id": 1546,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF VII"
+  },
+  {
+    "id": 1547,
+    "marque": "VOLKSWAGEN",
+    "modele": "GOLF VIII"
+  },
+  {
+    "id": 1548,
+    "marque": "VOLKSWAGEN",
+    "modele": "ID.3"
+  },
+  {
+    "id": 1549,
+    "marque": "VOLKSWAGEN",
+    "modele": "ID.4"
+  },
+  {
+    "id": 1550,
+    "marque": "VOLKSWAGEN",
+    "modele": "ID.5"
+  },
+  {
+    "id": 1551,
+    "marque": "VOLKSWAGEN",
+    "modele": "ID.BUZZ"
+  },
+  {
+    "id": 1552,
+    "marque": "VOLKSWAGEN",
+    "modele": "JETTA"
+  },
+  {
+    "id": 1553,
+    "marque": "VOLKSWAGEN",
+    "modele": "JETTA II"
+  },
+  {
+    "id": 1554,
+    "marque": "VOLKSWAGEN",
+    "modele": "JETTA III"
+  },
+  {
+    "id": 1555,
+    "marque": "VOLKSWAGEN",
+    "modele": "K70"
+  },
+  {
+    "id": 1556,
+    "marque": "VOLKSWAGEN",
+    "modele": "LT28"
+  },
+  {
+    "id": 1557,
+    "marque": "VOLKSWAGEN",
+    "modele": "LT31"
+  },
+  {
+    "id": 1558,
+    "marque": "VOLKSWAGEN",
+    "modele": "LT32"
+  },
+  {
+    "id": 1559,
+    "marque": "VOLKSWAGEN",
+    "modele": "LT35"
+  },
+  {
+    "id": 1560,
+    "marque": "VOLKSWAGEN",
+    "modele": "LT40A"
+  },
+  {
+    "id": 1561,
+    "marque": "VOLKSWAGEN",
+    "modele": "LT46A"
+  },
+  {
+    "id": 1562,
+    "marque": "VOLKSWAGEN",
+    "modele": "LUPO"
+  },
+  {
+    "id": 1563,
+    "marque": "VOLKSWAGEN",
+    "modele": "MULTIVAN T7"
+  },
+  {
+    "id": 1564,
+    "marque": "VOLKSWAGEN",
+    "modele": "NEW BEETLE"
+  },
+  {
+    "id": 1565,
+    "marque": "VOLKSWAGEN",
+    "modele": "PASSAT"
+  },
+  {
+    "id": 1566,
+    "marque": "VOLKSWAGEN",
+    "modele": "PASSAT CC"
+  },
+  {
+    "id": 1567,
+    "marque": "VOLKSWAGEN",
+    "modele": "PASSAT SW"
+  },
+  {
+    "id": 1568,
+    "marque": "VOLKSWAGEN",
+    "modele": "PASSAT*"
+  },
+  {
+    "id": 1569,
+    "marque": "VOLKSWAGEN",
+    "modele": "PHAETON"
+  },
+  {
+    "id": 1570,
+    "marque": "VOLKSWAGEN",
+    "modele": "POLO"
+  },
+  {
+    "id": 1571,
+    "marque": "VOLKSWAGEN",
+    "modele": "POLO V"
+  },
+  {
+    "id": 1572,
+    "marque": "VOLKSWAGEN",
+    "modele": "POLO VI"
+  },
+  {
+    "id": 1573,
+    "marque": "VOLKSWAGEN",
+    "modele": "SANTANA"
+  },
+  {
+    "id": 1574,
+    "marque": "VOLKSWAGEN",
+    "modele": "SCIROCCO"
+  },
+  {
+    "id": 1575,
+    "marque": "VOLKSWAGEN",
+    "modele": "SHARAN"
+  },
+  {
+    "id": 1576,
+    "marque": "VOLKSWAGEN",
+    "modele": "T-CROSS"
+  },
+  {
+    "id": 1577,
+    "marque": "VOLKSWAGEN",
+    "modele": "T-ROC"
+  },
+  {
+    "id": 1578,
+    "marque": "VOLKSWAGEN",
+    "modele": "TAIGO"
+  },
+  {
+    "id": 1579,
+    "marque": "VOLKSWAGEN",
+    "modele": "TARO"
+  },
+  {
+    "id": 1580,
+    "marque": "VOLKSWAGEN",
+    "modele": "TIGUAN"
+  },
+  {
+    "id": 1581,
+    "marque": "VOLKSWAGEN",
+    "modele": "TOUAREG"
+  },
+  {
+    "id": 1582,
+    "marque": "VOLKSWAGEN",
+    "modele": "TOUAREG III"
+  },
+  {
+    "id": 1583,
+    "marque": "VOLKSWAGEN",
+    "modele": "TOURAN"
+  },
+  {
+    "id": 1584,
+    "marque": "VOLKSWAGEN",
+    "modele": "TRANSPORTER"
+  },
+  {
+    "id": 1585,
+    "marque": "VOLKSWAGEN",
+    "modele": "UP"
+  },
+  {
+    "id": 1586,
+    "marque": "VOLKSWAGEN",
+    "modele": "VENTO"
+  },
+  {
+    "id": 1587,
+    "marque": "VOLVO",
+    "modele": 122
+  },
+  {
+    "id": 1588,
+    "marque": "VOLVO",
+    "modele": 142
+  },
+  {
+    "id": 1589,
+    "marque": "VOLVO",
+    "modele": 144
+  },
+  {
+    "id": 1590,
+    "marque": "VOLVO",
+    "modele": 164
+  },
+  {
+    "id": 1591,
+    "marque": "VOLVO",
+    "modele": 1800
+  },
+  {
+    "id": 1592,
+    "marque": "VOLVO",
+    "modele": 240
+  },
+  {
+    "id": 1593,
+    "marque": "VOLVO",
+    "modele": 242
+  },
+  {
+    "id": 1594,
+    "marque": "VOLVO",
+    "modele": 244
+  },
+  {
+    "id": 1595,
+    "marque": "VOLVO",
+    "modele": 245
+  },
+  {
+    "id": 1596,
+    "marque": "VOLVO",
+    "modele": 262
+  },
+  {
+    "id": 1597,
+    "marque": "VOLVO",
+    "modele": 264
+  },
+  {
+    "id": 1598,
+    "marque": "VOLVO",
+    "modele": 265
+  },
+  {
+    "id": 1599,
+    "marque": "VOLVO",
+    "modele": 340
+  },
+  {
+    "id": 1600,
+    "marque": "VOLVO",
+    "modele": 360
+  },
+  {
+    "id": 1601,
+    "marque": "VOLVO",
+    "modele": 440
+  },
+  {
+    "id": 1602,
+    "marque": "VOLVO",
+    "modele": 460
+  },
+  {
+    "id": 1603,
+    "marque": "VOLVO",
+    "modele": 480
+  },
+  {
+    "id": 1604,
+    "marque": "VOLVO",
+    "modele": 66
+  },
+  {
+    "id": 1605,
+    "marque": "VOLVO",
+    "modele": 740
+  },
+  {
+    "id": 1606,
+    "marque": "VOLVO",
+    "modele": 760
+  },
+  {
+    "id": 1607,
+    "marque": "VOLVO",
+    "modele": 780
+  },
+  {
+    "id": 1608,
+    "marque": "VOLVO",
+    "modele": 850
+  },
+  {
+    "id": 1609,
+    "marque": "VOLVO",
+    "modele": 940
+  },
+  {
+    "id": 1610,
+    "marque": "VOLVO",
+    "modele": 960
+  },
+  {
+    "id": 1611,
+    "marque": "VOLVO",
+    "modele": "C30"
+  },
+  {
+    "id": 1612,
+    "marque": "VOLVO",
+    "modele": "C40"
+  },
+  {
+    "id": 1613,
+    "marque": "VOLVO",
+    "modele": "C70"
+  },
+  {
+    "id": 1614,
+    "marque": "VOLVO",
+    "modele": "CROSS COUNTRY"
+  },
+  {
+    "id": 1615,
+    "marque": "VOLVO",
+    "modele": "S40"
+  },
+  {
+    "id": 1616,
+    "marque": "VOLVO",
+    "modele": "S60"
+  },
+  {
+    "id": 1617,
+    "marque": "VOLVO",
+    "modele": "S60 III"
+  },
+  {
+    "id": 1618,
+    "marque": "VOLVO",
+    "modele": "S70"
+  },
+  {
+    "id": 1619,
+    "marque": "VOLVO",
+    "modele": "S80"
+  },
+  {
+    "id": 1620,
+    "marque": "VOLVO",
+    "modele": "S90"
+  },
+  {
+    "id": 1621,
+    "marque": "VOLVO",
+    "modele": "V40"
+  },
+  {
+    "id": 1622,
+    "marque": "VOLVO",
+    "modele": "V50"
+  },
+  {
+    "id": 1623,
+    "marque": "VOLVO",
+    "modele": "V60"
+  },
+  {
+    "id": 1624,
+    "marque": "VOLVO",
+    "modele": "V60 II"
+  },
+  {
+    "id": 1625,
+    "marque": "VOLVO",
+    "modele": "V70"
+  },
+  {
+    "id": 1626,
+    "marque": "VOLVO",
+    "modele": "V90"
+  },
+  {
+    "id": 1627,
+    "marque": "VOLVO",
+    "modele": "XC40"
+  },
+  {
+    "id": 1628,
+    "marque": "VOLVO",
+    "modele": "XC60"
+  },
+  {
+    "id": 1629,
+    "marque": "VOLVO",
+    "modele": "XC70"
+  },
+  {
+    "id": 1630,
+    "marque": "VOLVO",
+    "modele": "XC90"
+  },
+  {
+    "id": 1631,
+    "marque": "ZASTAVA",
+    "modele": 1100
+  },
+  {
+    "id": 1632,
+    "marque": "ZASTAVA",
+    "modele": 1300
+  },
+  {
+    "id": 1633,
+    "marque": "ZASTAVA",
+    "modele": "YUGO"
+  },
+  {
+    "id": 1634,
+    "marque": "ZAZ",
+    "modele": "TAVRIA"
+  }
+]

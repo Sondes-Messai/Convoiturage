@@ -1,0 +1,322 @@
+/* Dans votre fichier CSS ou dans un style React */
+.expanded {
+  height: 200px; /* Ajustez cette valeur en fonction de la taille souhaitée */
+  border: 2px solid #87bb34; /* Couleur de bordure au clic */
+  resize: both; /* Permet à l'utilisateur de redimensionner manuellement */
+  transition: all 0.3s ease-in-out; /* Animation de transition fluide */
+}
+
+.signupInput,
+select {
+  max-width: 100%;
+  height: 44px;
+  border-radius: 100px;
+  background-color: #e6e6e6;
+}
+
+.signupInputWhite,
+select {
+  max-width: 100%;
+  height: 44px;
+  border-radius: 100px;
+  background-color: white;
+}
+
+.signupInput,
+.signupInputWhite:focus {
+  background-color: white;
+  border: solid 2px #87bb34;
+  box-shadow: 0 0 2px #87bb34;
+}
+
+.signupInputImg {
+  height: 77px;
+}
+
+.progress-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px; /* Ajustez la largeur selon vos besoins */
+  margin: auto;
+}
+
+.progress-circle {
+  position: relative;
+  width: 30px; /* Ajustez le diamètre du cercle selon vos besoins */
+  height: 30px; /* Ajustez le diamètre du cercle selon vos besoins */
+  border-radius: 50%; /* Rendre le cercle rond */
+  background-color: #f2f2f2; /* Couleur de fond du cercle */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress-circle.active {
+  background-color: #4caf50; /* Couleur de fond du cercle actif */
+}
+
+.progress-circle {
+  color: #fff; /* Couleur du texte à l'intérieur du cercle */
+}
+
+.progress-circle:not(:first-child)::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -15px; /* Ajustez la distance entre les cercles selon vos besoins */
+  width: 10px; /* Ajustez la longueur du trait selon vos besoins */
+  height: 2px; /* Ajustez l'épaisseur du trait selon vos besoins */
+  background-color: #4caf50; /* Couleur du trait */
+}
+
+.progress-circle:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -15px; /* Ajustez la distance entre les cercles selon vos besoins */
+  width: 10px; /* Ajustez la longueur du trait selon vos besoins */
+  height: 2px; /* Ajustez l'épaisseur du trait selon vos besoins */
+  background-color: #4caf50; /* Couleur du trait */
+}
+
+
+
+.flex-grid {
+  display: grid;
+}
+
+
+.skipLink {
+  text-decoration: underline;
+  transition:
+    color 0.3s,
+    text-decoration-color 0.3s;
+  cursor: pointer;
+}
+
+.skipLink:hover,
+#imageLabel:hover,
+#preview:hover {
+  text-decoration: none;
+  filter: invert(10%) sepia(83%) saturate(7325%) hue-rotate(319deg)
+    brightness(99%) contrast(95%);
+}
+
+
+@keyframes textAnimation {
+  0% {
+    color: #87bb34;
+  }
+  25% {
+    color: white;
+  }
+  100% {
+    color: white;
+  }
+}
+
+@keyframes textAnimationReverse {
+  0% {
+    color: white;
+  }
+  25% {
+    color: #87bb34;
+  }
+  100% {
+    color: #87bb34;
+  }
+}
+
+
+
+.content > div {
+  width: 100%;
+}
+
+.imagepreview {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 80px;
+  max-height: 80px;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #e6e6e6;
+  position: relative;
+}
+
+.imgcontainer {
+  height: 77px;
+}
+
+#preview {
+  filter: invert(57%) sepia(8%) saturate(8%) hue-rotate(325deg) brightness(94%)
+    contrast(92%);
+  width: 50%;
+  height: 50%;
+}
+
+.signupInputImage {
+  display: none;
+}
+
+#profilPhoto {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin-left: 1%;
+}
+
+#imageLabel {
+  color: #898989;
+  display: flex;
+}
+
+.choixIcon {
+  max-width: 30px;
+  height: auto;
+}
+
+.choixContainer,
+.choixText {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.choixRadio {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.choixBorder {
+  border-bottom: solid #e6e6e6 1px;
+  width: 60%;
+  margin: auto;
+}
+
+.bottomChoix {
+  margin-top: 1%;
+  display: flex;
+  width: 33%;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  height: 10%;
+}
+
+#cgulink {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#connexionLink {
+  color: #87bb34;
+  font-weight: bold;
+}
+
+#connexionLink:hover {
+  color: #e3007e;
+}
+
+.connexionLinks:hover {
+  color: #e3007e;
+  text-decoration: none;
+}
+
+#dejainscrit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.error {
+  color: #f87171;
+  font-size: smaller;
+  padding-left: 1%;
+}
+
+#imageDl,
+#imageDl > *,
+.imagepreview {
+  cursor: pointer;
+}
+
+.namefieldInput {
+  display: flex;
+  flex-direction: column;
+}
+
+.namefield {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.flex-end {
+  align-items: flex-end;
+}
+
+.radioBottom {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.white {
+  background-color: white;
+}
+
+.car-gallery {
+  text-align: center;
+  margin: 20px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 10%;margin-right: 10%;
+}
+
+.car-image {
+  width: 200px; /* Taille fixe des images */
+  height: 150px;
+  object-fit: cover; /* Pour maintenir les proportions de l'image */
+  margin: 5px;
+}
+
+.image-container {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.image-container:hover {
+  transform: scale(1.1);
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  transition: opacity 0.3s ease;
+  opacity: 0;
+  color: black;
+}
+
+.image-container.selected .buttons-container {
+  opacity: 1;
+}
+
+
+

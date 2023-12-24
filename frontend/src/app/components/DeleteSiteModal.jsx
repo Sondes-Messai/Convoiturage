@@ -1,0 +1,19 @@
+// DeleteSiteModal.jsx
+
+import React from "react";
+import Modal from "./Modal";
+
+const DeleteSiteModal = ({ isOpen, onCancel, onConfirm }) => {
+  const deleteSiteMessage = {
+    confirmText: "Confirmer",
+    cancelText: "Annuler"
+  };
+
+  return (
+    <Modal isOpen={isOpen} isInfo={false} onCancel={onCancel} onConfirm={onConfirm} message={deleteSiteMessage}>
+      <p>Êtes-vous sûr de vouloir supprimer ce site ?</p>
+    </Modal>
+  );
+};
+
+export default DeleteSiteModal;
