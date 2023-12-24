@@ -1,0 +1,10 @@
+id,first_name,last_name,phone,matricule,mail,token,password,created_date,role_label,status,picture_id,site_id
+1,Jane,Smith,0698765432,JS456,jane.smith@example.com,token456,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-02-02 11:00:00,ROLE_USER,ACTIF,1,1
+2,Susan,Williams,0798765432,SW101,susan.williams@example.com,token101,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-02-04 13:00:00,ROLE_USER,ACTIF,2,2
+3,Michael,Brown,0623456789,MB202,michael.brown@example.com,token202,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-02-05 14:00:00,ROLE_USER,ACTIF,3,3
+4,Linda,Miller,+33698765432,LM303,linda.miller@example.com,token303,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-10-06 15:00:00,ROLE_USER,ACTIF,4,4
+5,William,Jones,0723456789,WJ404,william.jones@example.com,token404,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-10-07 16:00:00,ROLE_USER,ACTIF,5,5
+6,Patricia,Johnson,+33798765432,PJ505,patricia.johnson@example.com,token505,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-09-08 17:00:00,ROLE_USER,ACTIF,6,6
+7,James,Davis,0723456789,JD606,james.davis@example.com,token606,$2y$10$r9peS/e2aHARHi5zClbdQOZanVW5mbF23VID7oELKe/fE.YC7bDY6,2023-09-09 18:00:00,ROLE_USER,ACTIF,7,5
+8,Admin,ADMIN,0798765432,ADMIN,admin@admin.com,token707,$2y$10$IOWzlSHuCZpd3s.1A1.4BuzmbePUQIwgeD8/L4kZ5NDMaTpcE6MyW,2023-01-09 19:00:00,ROLE_ADMIN,ACTIF,8,4
+9,SUPER,ADMIN,0698765432,SUPER,super@admin.com,token707,$2y$10$CbthrDKc8vSWkF068dAQvuJ03glaX3BIoCjvfTr2sy.w6nC3zbDXS,2023-01-10 19:00:00,ROLE_SUPER,ACTIF,9,1

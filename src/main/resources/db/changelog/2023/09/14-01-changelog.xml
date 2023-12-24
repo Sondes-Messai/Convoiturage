@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.20.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+    <changeSet id="1694697514136-1" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="address_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-2" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="car_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-3" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="conversation_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-4" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="message_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-5" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="model_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-6" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="picture_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-7" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="reservation_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-8" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="ride_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-9" author="PC Pr�t Incubateur (generated)">
+        <createSequence incrementBy="1" sequenceName="user_generator" startValue="10"/>
+    </changeSet>
+    <changeSet id="1694697514136-10" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="account">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account"/>
+            </column>
+            <column name="role_label" type="VARCHAR(255)"/>
+            <column name="first_name" type="VARCHAR(50)"/>
+            <column name="last_name" type="VARCHAR(50)"/>
+            <column name="phone" type="VARCHAR(255)"/>
+            <column name="matricule" type="VARCHAR(255)"/>
+            <column name="mail" type="VARCHAR(255)"/>
+            <column name="token" type="VARCHAR(255)"/>
+            <column name="password" type="VARCHAR(255)"/>
+            <column name="created_date" type="DATETIME"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-11" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="account_conversations">
+            <column name="conversations_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account_conversations"/>
+            </column>
+            <column name="user_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account_conversations"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-12" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="account_preferences">
+            <column name="preferences_id" type="VARCHAR(255)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account_preferences"/>
+            </column>
+            <column name="user_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account_preferences"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-13" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="account_rides">
+            <column name="rides_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account_rides"/>
+            </column>
+            <column name="user_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_account_rides"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-14" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="address">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_address"/>
+            </column>
+            <column name="type_address" type="VARCHAR(255)"/>
+            <column name="road_name" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="zip_code" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="town_name" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="longitude" type="DOUBLE">
+                <constraints nullable="false"/>
+            </column>
+            <column name="latitude" type="DOUBLE">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-15" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="brand">
+            <column name="name" type="VARCHAR(255)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_brand"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-16" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="car">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_car"/>
+            </column>
+            <column name="model_id" type="BIGINT"/>
+            <column name="license_plate" type="VARCHAR(255)"/>
+            <column name="color" type="VARCHAR(255)"/>
+            <column name="place_number" type="INT"/>
+            <column name="luggage" type="BOOLEAN"/>
+            <column name="user_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-17" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="color">
+            <column name="label" type="VARCHAR(255)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_color"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-18" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="conversation">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_conversation"/>
+            </column>
+            <column name="created_date" type="DATETIME"/>
+            <column name="name" type="VARCHAR(255)"/>
+            <column name="user_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-19" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="message">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_message"/>
+            </column>
+            <column name="conversation_id" type="BIGINT"/>
+            <column name="content" type="VARCHAR(254)"/>
+            <column name="created_date" type="DATETIME"/>
+            <column name="user_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-20" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="model">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_model"/>
+            </column>
+            <column name="brand_id" type="VARCHAR(255)"/>
+            <column name="label" type="VARCHAR(255)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-21" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="picture">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_picture"/>
+            </column>
+            <column name="url" type="VARCHAR(255)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-22" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="preference">
+            <column name="label" type="VARCHAR(255)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_preference"/>
+            </column>
+            <column name="picture_id" type="BIGINT"/>
+            <column name="user_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-23" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="reservation">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_reservation"/>
+            </column>
+            <column name="ride_id" type="BIGINT"/>
+            <column name="status_reserv" type="VARCHAR(255)"/>
+            <column name="created_date" type="DATETIME"/>
+            <column name="last_modified_date" type="DATE"/>
+            <column name="applicant_id" type="BIGINT"/>
+            <column name="user_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-24" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="ride">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_ride"/>
+            </column>
+            <column name="driver_id" type="BIGINT"/>
+            <column name="conversation_id" type="BIGINT"/>
+            <column name="car_id" type="BIGINT"/>
+            <column name="depart_date" type="DATETIME"/>
+            <column name="arrival_date" type="DATETIME"/>
+            <column name="available_seats" type="INT"/>
+            <column name="type_ride" type="VARCHAR(255)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-25" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="ride_addresses">
+            <column name="addresses_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_ride_addresses"/>
+            </column>
+            <column name="ride_id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_ride_addresses"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-26" author="PC Pr�t Incubateur (generated)">
+        <createTable tableName="role">
+            <column name="label" type="VARCHAR(255)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_role"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet id="1694697514136-27" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="role_label" baseTableName="account"
+                                 constraintName="FK_ACCOUNT_ON_ROLE_LABEL" referencedColumnNames="label"
+                                 referencedTableName="role"/>
+    </changeSet>
+    <changeSet id="1694697514136-28" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="color" baseTableName="car" constraintName="FK_CAR_ON_COLOR"
+                                 referencedColumnNames="label" referencedTableName="color"/>
+    </changeSet>
+    <changeSet id="1694697514136-29" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="model_id" baseTableName="car" constraintName="FK_CAR_ON_MODEL"
+                                 referencedColumnNames="id" referencedTableName="model"/>
+    </changeSet>
+    <changeSet id="1694697514136-30" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="car" constraintName="FK_CAR_ON_USER"
+                                 referencedColumnNames="id" referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-31" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="conversation"
+                                 constraintName="FK_CONVERSATION_ON_USER" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-32" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="conversation_id" baseTableName="message"
+                                 constraintName="FK_MESSAGE_ON_CONVERSATION" referencedColumnNames="id"
+                                 referencedTableName="conversation"/>
+    </changeSet>
+    <changeSet id="1694697514136-33" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="message" constraintName="FK_MESSAGE_ON_USER"
+                                 referencedColumnNames="id" referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-34" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="brand_id" baseTableName="model" constraintName="FK_MODEL_ON_BRAND"
+                                 referencedColumnNames="name" referencedTableName="brand"/>
+    </changeSet>
+    <changeSet id="1694697514136-35" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="picture_id" baseTableName="preference"
+                                 constraintName="FK_PREFERENCE_ON_PICTURE" referencedColumnNames="id"
+                                 referencedTableName="picture"/>
+    </changeSet>
+    <changeSet id="1694697514136-36" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="preference"
+                                 constraintName="FK_PREFERENCE_ON_USER" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-37" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="applicant_id" baseTableName="reservation"
+                                 constraintName="FK_RESERVATION_ON_APPLICANT" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-38" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="ride_id" baseTableName="reservation"
+                                 constraintName="FK_RESERVATION_ON_RIDE" referencedColumnNames="id"
+                                 referencedTableName="ride"/>
+    </changeSet>
+    <changeSet id="1694697514136-39" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="reservation"
+                                 constraintName="FK_RESERVATION_ON_USER" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-40" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="car_id" baseTableName="ride" constraintName="FK_RIDE_ON_CAR"
+                                 referencedColumnNames="id" referencedTableName="car"/>
+    </changeSet>
+    <changeSet id="1694697514136-41" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="conversation_id" baseTableName="ride"
+                                 constraintName="FK_RIDE_ON_CONVERSATION" referencedColumnNames="id"
+                                 referencedTableName="conversation"/>
+    </changeSet>
+    <changeSet id="1694697514136-42" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="driver_id" baseTableName="ride" constraintName="FK_RIDE_ON_DRIVER"
+                                 referencedColumnNames="id" referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-43" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="conversations_id" baseTableName="account_conversations"
+                                 constraintName="fk_acccon_on_conversation" referencedColumnNames="id"
+                                 referencedTableName="conversation"/>
+    </changeSet>
+    <changeSet id="1694697514136-44" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="account_conversations"
+                                 constraintName="fk_acccon_on_user" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-45" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="preferences_id" baseTableName="account_preferences"
+                                 constraintName="fk_accpre_on_preference" referencedColumnNames="label"
+                                 referencedTableName="preference"/>
+    </changeSet>
+    <changeSet id="1694697514136-46" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="account_preferences"
+                                 constraintName="fk_accpre_on_user" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-47" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="rides_id" baseTableName="account_rides"
+                                 constraintName="fk_accrid_on_ride" referencedColumnNames="id"
+                                 referencedTableName="ride"/>
+    </changeSet>
+    <changeSet id="1694697514136-48" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="user_id" baseTableName="account_rides"
+                                 constraintName="fk_accrid_on_user" referencedColumnNames="id"
+                                 referencedTableName="account"/>
+    </changeSet>
+    <changeSet id="1694697514136-49" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="addresses_id" baseTableName="ride_addresses"
+                                 constraintName="fk_ridadd_on_address" referencedColumnNames="id"
+                                 referencedTableName="address"/>
+    </changeSet>
+    <changeSet id="1694697514136-50" author="PC Pr�t Incubateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="ride_id" baseTableName="ride_addresses"
+                                 constraintName="fk_ridadd_on_ride" referencedColumnNames="id"
+                                 referencedTableName="ride"/>
+    </changeSet>
+
+</databaseChangeLog>

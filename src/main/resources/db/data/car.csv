@@ -1,0 +1,7 @@
+id,license_plate,color,place_number,user_id,luggage,model_id
+1,AB-123-TY,Rouge Ferrari,4,1,true,4
+2,DE-456-UI,Vert Rolland Garros,2,2,false,2
+3,GH-789-RT,Noir Diamant,5,3,true,3
+4,JK-012-PO,Sable,7,4,false,5
+5,MN-O34-LM,Gold,4,5,true,1
+

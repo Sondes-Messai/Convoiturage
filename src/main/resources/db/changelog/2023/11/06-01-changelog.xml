@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.23.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+    <changeSet id="1699270050616-1" author="Administrateur (generated)">
+        <createSequence incrementBy="50" sequenceName="contact_us_response_generator" startValue="1"/>
+    </changeSet>
+    <changeSet id="1699270050616-2" author="Administrateur (generated)">
+        <createTable tableName="contact_us_response">
+            <column name="id" type="BIGINT">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="pk_contact_us_response"/>
+            </column>
+            <column name="created_date" type="DATETIME"/>
+            <column name="subject" type="VARCHAR(255)"/>
+            <column name="content" type="VARCHAR(254)"/>
+            <column name="contact_us_id" type="BIGINT"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="1699270050616-3" author="Administrateur (generated)">
+        <addForeignKeyConstraint baseColumnNames="contact_us_id" baseTableName="contact_us_response"
+                                 constraintName="FK_CONTACT_US_RESPONSE_ON_CONTACT_US" referencedColumnNames="id"
+                                 referencedTableName="contact_us"/>
+    </changeSet>
+    <changeSet id="1699276572254-1" author="xavie (generated)">
+        <addColumn tableName="ride">
+            <column name="car_brand" type="VARCHAR(255)"/>
+            <column name="car_color" type="VARCHAR(255)"/>
+            <column name="car_license_plate" type="VARCHAR(255)"/>
+            <column name="car_luggage" type="BOOLEAN"/>
+            <column name="car_model" type="VARCHAR(255)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="1699276572254-8" author="xavie (generated)">
+        <dropForeignKeyConstraint baseTableName="ride" constraintName="fk_ride_on_car"/>
+    </changeSet>
+    <changeSet id="1699276572254-10" author="xavie (generated)">
+        <dropColumn columnName="car_id" tableName="ride"/>
+    </changeSet>
+
+</databaseChangeLog>

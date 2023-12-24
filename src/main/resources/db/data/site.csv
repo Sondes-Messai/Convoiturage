@@ -1,0 +1,7 @@
+id,site_name,visibility,adress,town_name,region_name,zip_code,country_name
+1,Afpa de Calais,true,3 rue du Parc,Calais,Hauts de France,59000,France
+2,Afpa de Arras,true,3 rue du Parc,Arras,Hauts de France,59000,France
+3,Afpa de Douai,true,3 rue du Parc,Douai,Hauts de France,59000,France
+4,Afpa de Lille,true,3 rue du Parc,Lille,Hauts de France,59000,France
+5,Afpa de Cambrai,true,3 rue du Parc,Cambrai,Hauts de France,59000,France
+6,Afpa d'Hazebrouk,true,3 rue du Parc,Hazebrouk,Normandie,59000,France

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.20.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+
+    <changeSet id="1695384759772-1" author="Rechia (generated)">
+        <addNotNullConstraint columnDataType="DATETIME" columnName="created_date" tableName="account" validate="true"/>
+    </changeSet>
+    <changeSet id="1688557946324-1-data" author="Soufiane">
+        <loadData tableName="color" file="db/data/color.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-2-data" author="Soufiane">
+        <loadData tableName="picture" file="db/data/picture.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-3-data" author="Soufiane">
+        <loadData tableName="role" file="db/data/role.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-4-data" author="Clement">
+        <loadData tableName="site" file="db/data/site.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-5-data" author="Soufiane">
+        <loadData tableName="account" file="db/data/user.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-6-data" author="Soufiane">
+        <loadData tableName="address" file="db/data/address.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-7-data" author="Soufiane">
+        <loadData tableName="brand" file="db/data/brand.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-8-data" author="Soufiane">
+        <loadData tableName="model" file="db/data/model.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-9-data" author="Soufiane">
+        <loadData tableName="preference" file="db/data/preference.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-10-data" author="Soufiane">
+        <loadData tableName="car" file="db/data/car.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-11-data" author="Soufiane">
+        <loadData tableName="ride" file="db/data/rides.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-12-data" author="Soufiane">
+        <loadData tableName="ride_addresses" file="db/data/ride_address.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-13-data" author="Quentinos">
+        <loadData tableName="conversation" file="db/data/conversation.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-14-data" author="Quentinos">
+        <loadData tableName="account_conversations" file="db/data/account_conversations.csv" separator=","/>
+    </changeSet>
+    <changeSet id="1688557946324-15-data" author="Clement">
+        <loadData tableName="message" file="db/data/message.csv" separator=","/>
+    </changeSet>
+</databaseChangeLog>

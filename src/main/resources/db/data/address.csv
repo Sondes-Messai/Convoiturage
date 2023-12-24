@@ -1,0 +1,6 @@
+id,road_name,zip_code,town_name,longitude,latitude,type_address
+1,123 Main St,12345,City1,0.0,0.0,START
+2,456 Elm St,67890,City2,0.0,0.0,START
+3,789 Oak Rd,54321,City3,0.0,0.0,ARRIVAL
+4,321 Pine Ave,98765,City4,0.0,0.0,ARRIVAL
+5,987 Maple Dr,13579,City5,0.0,0.0,MEETING
